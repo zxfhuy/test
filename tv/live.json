@@ -19,6 +19,7 @@
 百视自制,https://bp-caster.bestv.com.cn/723/3/video.m3u8
 独家直播,https://bp-caster.bestv.com.cn/936/3/video.m3u8
 
+
 📡央视频道,#genre#
 CCTV1,http://111.13.111.242/000000001000PLTV/88888888/224/3221236219/1.m3u8?HlsProfileId=
 CCTV1,http://alivealone.litenews.cn/301/b597ff6aa9cb40aba57bb011b13865ad.flv
@@ -58,6 +59,8 @@ CCTV13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32212262
 CCTV14,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
 CCTV15,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
 CCTV16,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
+
 📡央视2K 👉,#genre#
 CCTV-1    2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV-2    2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226224/index.m3u8
@@ -88,6 +91,8 @@ CCTV-15   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/32
 CCTV-16   2K,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8?
 CCTV-16   2K,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
 CCTV-16   2K,http://111.20.40.160/PLTV/88888893/224/3221226921/index.m3u8
+
+
 📡卫视频道,#genre#
 北京卫视,http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001335/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 北京卫视,http://live.sjsrm.com/bjsjs/sd/live.m3u8
