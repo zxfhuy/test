@@ -1,4 +1,5 @@
 💯测试频道,#genre#
+4FUNTV,https://stream.4fun.tv:8888/hls/4f.m3u8
 烟雨人间,http://mobi.kuwo.cn/tmevideo/tme1257648.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
 醉倾城,http://mobi.kuwo.cn/tmevideo/tme1257650.mp4
@@ -95,6 +96,21 @@ HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.h
 苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 爱自然,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+电影RU1,https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8
+电影RU2,https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
+电影RU3,https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
+电影RU4,https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
+杭州综合,http://hms3654nc3747353861.live.aikan.miguvideo.com/wh7f454c46tw2019156308_-1360726300/PLTV/88888888/224/3221229307/index.m3u8?accountinfo=%7E%7EV2.0%7EKXClF0_RGmN79YeGl52-Ig235e3ce769ffd27002b112754a1d9d0e%7Edv8XsLUqjOwFqUaVxHcYVx8UBPl7RWS79xxd7HTu_ji5F1UM7VVXYPGlgnkSqeBl0150ca41b266badddc794cdd48a19e1b%7EExtInfoAngSY5ozbEINk1cMWVJzigbc898ab22a73629a80630595cda1a60a%3A20240116050000%3AUTC%2Cc8640604160bf973fbcdb722763795176303711%2C221.229.212.87%2C20240116050000%2C9999999990%2Cc8640604160bf973fbcdb722763795176303711%2C-1%2C0%2C1%2C%2C%2C2%2C1000000201%2C%2C%2C2%2C23%2C0%2C241%2C__guest20240116050000__%2C%2C%2C1%2C1%2C76680662%2CEND&GuardEncType=2&tenantId=8601
+杭州明珠,http://hms3657nc3747353872.live.aikan.miguvideo.com/wh7f454c46tw4054402811_1848215817/PLTV/88888888/224/3221229310/index.m3u8?accountinfo=%7E%7EV2.0%7E2EOdpljy23x43-C8-QSV0Qbe0380dfb287fed402d5bd241c6398cf%7E4jGUTVH_lCsP72ujRNAqcAkLvzhSq2zTy-wrwH0bfrpRyQq94qIUh8oAlwFZ8zNK7f7749ed3560d2caf545f141132d40c3%7EExtInfoAngSY5ozbEINk1cMWVJzigbc898ab22a73629a80630595cda1a60a%3A20240116050000%3AUTC%2Cc8640604160bf973fbcdb722763795176303711%2C221.229.212.87%2C20240116050000%2C9999999991%2Cc8640604160bf973fbcdb722763795176303711%2C-1%2C0%2C1%2C%2C%2C2%2C1000000201%2C%2C%2C2%2C23%2C0%2C241%2C__guest20240116050000__%2C%2C%2C1%2C1%2C76680569%2CEND&GuardEncType=2&tenantId=8601
+杭州生活,http://hms3662nc3747353864.live.aikan.miguvideo.com/wh7f454c46tw1891695984_-1239461320/PLTV/88888888/224/3221229313/index.m3u8?accountinfo=%7E%7EV2.0%7Ea7LTmPK0K8GzeAEfgfFfyQc33ffcae77bcfd6ed25195115c8f2243%7E6qeZ_CQliTg-fSdFgfxyoASiGmrC25zDqKlwv5w1fgMB3twzlyJYhELKarL8c_OUbd78bbc319375f168a773765fdd980a5%7EExtInfoAngSY5ozbEINk1cMWVJzigbc898ab22a73629a80630595cda1a60a%3A20240116050000%3AUTC%2Cc8640604160bf973fbcdb722763795176303711%2C221.229.212.87%2C20240116050000%2C9999999992%2Cc8640604160bf973fbcdb722763795176303711%2C-1%2C0%2C1%2C%2C%2C2%2C1000000201%2C%2C%2C2%2C23%2C0%2C241%2C__guest20240116050000__%2C%2C%2C1%2C1%2C76680575%2CEND&GuardEncType=2&tenantId=8601
+杭州影视,http://hms3657nc3747353872.live.aikan.miguvideo.com/wh7f454c46tw645498981_-239023938/PLTV/88888888/224/3221229377/index.m3u8?accountinfo=%7E%7EV2.0%7E12r7c6grh5X36EU4xaCtPA11f8dba8cb8fea98a181c02858c32b97%7EFd1Wn8KKOxN6ydHXCLs6gYe8XLZWn3g2Bn2fKLBTAh-LvgMvFK-YGmiBXW8sTKPjb259d4a9fc2803168bbd489bff4c7dcb%7EExtInfoAngSY5ozbEINk1cMWVJzigbc898ab22a73629a80630595cda1a60a%3A20240116050000%3AUTC%2Cc8640604160bf973fbcdb722763795176303711%2C221.229.212.87%2C20240116050000%2C9999999993%2Cc8640604160bf973fbcdb722763795176303711%2C-1%2C0%2C1%2C%2C%2C2%2C1000000201%2C%2C%2C2%2C23%2C0%2C241%2C__guest20240116050000__%2C%2C%2C1%2C1%2C76680746%2CEND&GuardEncType=2&tenantId=8601
+CCTV3,http://120.196.232.49:8088/wh7f454c46tw1451830619_-749321045/000000001001PLTV/651/224/3221227602/1.m3u8?HlsProfileId=&icpid=13&RTS=1705391231&from=38&hms_devid=2233&online=1705391231&vqe=3
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+CCTV12,http://120.196.232.52:8088/wh7f454c46tw877055050_515511514/000000001001PLTV/651/224/3221227560/1.m3u8?cmcc_cid=PLTV%2F651%2F224%2F3221227560&HlsSubType=2&HlsProfileId=0
+CCTV13,http://live.aikan.miguvideo.com/envivo_x/2018/SD/cctv13/2000/index.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=221.229.212.87&timestamp=20240116050000&encrypt=ad140ab0ad9db51fa21f34d45a2a6941&ContentId=265667474&timezone=UTC
+东方卫视,http://61.51.122.50:8888/newlive/live/hls/36/live.m3u8
+江西卫视,http://120.196.232.37:8088/wh7f454c46tw3619188686_-1687250626/000000001001PLTV/651/224/3221227581/1.m3u8?HlsProfileId=&icpid=13&RTS=1705393398&from=38&hms_devid=2247&online=1705393398&vqe=3
+湾湾八TV,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
 
 👑️｜裸眼3D,#genre#
 生物多样性,https://vd3.bdstatic.com/mda-ne6irx2irbjbbr6v/sc/cae_h264/1651932935194074079/mda-ne6irx2irbjbbr6v.mp4
