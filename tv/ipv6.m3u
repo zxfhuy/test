@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U x-tvg-url="https://epg.pw/xmltv/epg_lite.xml,https://epg.pw/xmltv/epg_CN.xml,http://epg.51zmt.top:8000/e.xml,https://live.fanmingming.com/e.xml,https://epg.112114.xyz/pp.xml,http://epg.aptvapp.com/xml,http://epg.51zmt.top:8000/api/diyp/,http://api.cntv.cn/epg/epginfo?serviceId=cbox&c={name}&d={date}"
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="💯收藏频道",CCTV1
 http://39.134.65.211/TVOD/88888888/224/3221225816/1.m3u8
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="💯收藏频道",CCTV1
