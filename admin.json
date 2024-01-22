@@ -34,8 +34,13 @@
 {"key":"drpy_js_大米星球","name":"影视 | 大米星球","type":3,"api":"./js/drpy2.min.js","ext":"./js/9dm.js"},
 {"key": "电视直播","name": "🐾丨直播【🎦】","type": 3,"api": "./js/caiji.js","ext": "https://tvbox.serv00.net/live.php"},
 
+{"key":"快看影视","name":"影视丨快看【🔥】","type":3,"api":"./js/kkys_open.js"},
+{"key":"厂长资源","name":"影视丨厂长【🔥】","type":3,"api":"./js/czzy_open2.js","ext":"https://www.czzy66.com/"},
 {"key":"素白白","name":"影视丨素白【🔥】","type":3,"api":"./js/subaibai_open.js"},
+{"key": "南瓜","name":"影视丨南瓜【🔥】","type":3,"api":"./js/ng_open.js"},
+{"key":"一起看","name":"影视丨一起【🔥】","type":3,"api":"./js/yqktv_open.js"},
 {"key":"人人影视","name":"影视丨人人【🔥】","type":3,"api":"./js/rttks_open.js"},
+{"key":"图图影视","name":"影视丨图图【🔥】","type":3,"api":"./js/tutu_open.js"},
 
 {"key":"555电影","name":"🔥三五电影【一】","type":3,"api":"./js/555dy_open.js"},
 {"key":"csp_biubiu_555电影","name":"🔥三五电影【二】","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/5551.json","jar":"./kmys.jar"},
