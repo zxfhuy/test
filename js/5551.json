@@ -1,0 +1,72 @@
+// 网站 https://www.555yy3.com/  https://www.555ys1.com/  https://www.555pian.com/  https://www.555dsv.com/  https://www.zxk555.com/  https://www.555yy2.com/
+{
+  "author": "20221130",
+  
+  "url": "https://www.555yy3.com/",
+  
+  "tihuan": "cnzz.com",
+  "User": "User-Agent:Dart/2.14 (dart:io)",
+  "shouye": "1",
+
+  "fenlei": "电影$/vodtype/1-#热播连续剧$/vodtype/2-#动漫$/vodtype/3-#综艺$/vodtype/4-#福利(全部)$/vodtype/124-",
+  "houzhui": ".html",
+
+  "shifouercijiequ": "1",
+  "jiequqian": "class=\"module-items",
+  "jiequhou": "class=\"fixedGroup",
+  "jiequshuzuqian": "<a",
+  "jiequshuzuhou": "alt=\"",
+  "tupianqian": "data-original=\"",
+  "tupianhou": "\"",
+  "biaotiqian": "title=\"",
+  "biaotihou": "\"",
+  "lianjieqian": "href=\"",
+  "lianjiehou": "\"",
+  "fubiaotiqian": "note\">",
+  "fubiaotihou": "</div>",
+
+
+  "sousuoqian": "/index.php/ajax/suggest?mid=1&wd=",
+  "sousuohou": "&limit=500",
+  "sousuohouzhui": "/voddetail/",
+  "ssmoshi": "0",
+  "sousuoshifouercijiequ": "0",
+  "jspic": "pic",
+  "jsname": "name",
+  "jsid": "id",
+  "ssjiequqian": "空",
+  "ssjiequhou": "空",
+  "ssjiequshuzuqian": "空",
+  "ssjiequshuzuhou": "空",
+  "sstupianqian": "空",
+  "sstupianhou": "空",
+  "ssbiaotiqian": "空",
+  "ssbiaotihou": "空",
+  "sslianjieqian": "空",
+  "sslianjiehou": "空",
+
+  "bfshifouercijiequ": "0",
+  "bfjiequqian": "空",
+  "bfjiequhou": "空",
+  "bfjiequshuzuqian": "class=\"module-play-list\"",
+  "bfjiequshuzuhou": "</div>",
+
+  "zhuangtaiqian": "更新：</span>",
+  "zhuangtaihou": "</div>",
+  "daoyanqian": "导演：</span>",
+  "daoyanhou": "</div>",
+  "zhuyanqian": "主演：</span>",
+  "zhuyanhou": "</div>",
+  "juqingqian": "<p>",
+  "juqinghou": "</p>",
+
+  "bfyshifouercijiequ": "0",
+  "bfyjiequqian": "空",
+  "bfyjiequhou": "空",
+  "bfyjiequshuzuqian": "<a",
+  "bfyjiequshuzuhou": "/a>",
+  "bfbiaotiqian": "span>",
+  "bfbiaotihou": "</span",
+  "bflianjieqian": "href=\"",
+  "bflianjiehou": "\""
+}
