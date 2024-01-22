@@ -1,0 +1,439 @@
+{
+  "video": {
+    "sites": [
+   {
+        "key": "豆瓣",
+        "name": "🐾丨豆瓣【👁️‍🗨️】",
+        "type": 3,
+        "indexs": 1,
+        "api": "./douban_open.js"
+   },  
+    {
+        "key": "泥巴",
+        "name": "🐾丨泥巴【🚀】",
+        "type": 3,
+        "api": "./nivod_open.js",
+        "ext": "做爱"
+    },
+    {
+        "key": "仙女",
+        "name": "🐾丨仙女【🚀】",
+        "type": 3,
+        "api": "./18av_open.js"
+    },
+    {
+         "key": "KK写真",
+         "name": "🐾丨写真【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":{"url": "https://kkzy.me/api.php/provide/vod/",
+          "categories": ["写真资源","韩国伦理","西方伦理","日本伦理","香港三级","动漫","短视频主播","两性课堂"]} 
+    },
+    {
+         "key": "伊人网",
+         "name": "🐾丨伊人【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://api.yrzyapi.com/api.php/provide/vod/"
+    },
+    {
+         "key": "葡萄资源",
+         "name": "🐾丨葡萄【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://caiji.putaozyw.net/inc/apijson_vod.php"
+    },
+    {
+         "key": "猫资源",
+         "name": "🐾丨猫源【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://api.maozyapi.com/inc/apijson_vod.php"
+    },
+    {
+         "key": "鲨鱼",
+         "name": "🐾丨鲨鱼【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://shayuapi.com/api.php/provide/vod/"
+    },
+    {
+         "key": "奥斯卡资源",
+         "name": "🐾丨奥卡【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://aosikazy.com/api.php/provide/vod/"
+    }, 
+    {
+         "key": "色南国",
+         "name": "🐾丨南国【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://api.sexnguon.com/api.php/provide/vod/"
+    },
+    {
+         "key": "甜蜜资源",
+         "name": "🐾丨甜蜜【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://timizy10.cc/api.php/provide/vod/from/timim3u8"
+    },
+    {
+         "key": "老鸭资源",
+         "name": "🐾丨老鸭【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://api.apilyzy.com/api.php/provide/vod/"
+    },
+    {
+         "key": "涩窝资源",
+         "name": "🐾丨涩窝【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://sewozyapi.com/api.php/provide/vod"
+    }, 
+    {
+         "key": "红袖资源",
+         "name": "🐾丨红袖【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://hongxiuzy.com/api.php/provide/vod/"
+    },
+    {
+         "key": "色鸭资源",
+         "name": "🐾丨色鸭【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://api.seyavod.com/api.php/provide/vod/"
+    },
+    {
+         "key": "草榴",
+         "name": "🐾丨草榴【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext": "https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8"
+    }, 
+    {
+         "key": "色逼资源",
+         "name": "🐾丨色逼【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"https://apilsbzy1.com/api.php/provide/vod/at/json"
+    }, 
+    {
+         "key": "蛋蛋资源",
+         "name": "🐾丨蛋蛋【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"http://156.249.29.8/inc/apijson_vod.php"
+    }, 
+    {
+         "key": "依人资源",
+         "name": "🐾丨依人【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"https://api.yirenziyuan.com/api.php/provide/vod/at/json"
+    }, 
+    {
+         "key": "雪豹资源",
+         "name": "🐾丨雪豹【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"https://api.xbapi.cc/api.php/provide/vod/at/json"
+    }, 
+    {
+         "key": "滴滴资源",
+         "name": "🐾丨滴滴【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"https://api.ddapi.cc/api.php/provide/vod/at/json"
+    }, 
+    {
+         "key": "丝袜资源",
+         "name": "🐾丨丝袜【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":{"url": "https://www.siwazyw.tv/api.php/provide/vod/at/json",
+          "categories": ["亚洲无码","亚洲有码","欧美情色","中文字幕","动漫卡通","美女主播","人妻熟女","强奸乱伦","日韩伦理","国产自拍","精选口爆","同性同志","重口味","91大神","AV解说"]} 
+    }, 
+    {
+         "key": "KOK2",
+         "name": "🐾丨KoK【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"https://api.vodkok2.com/api.php/provide/vod/at/json"
+    }, 
+    {
+         "key": "易看",
+         "name": "🐾丨易看【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"
+    }, 
+    {
+         "key": "精东影业",
+         "name": "🐾丨精东【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"http://chujia.cc/api.php/provide/vod/from/m3u8/" 
+    }, 
+    {
+         "key": "91AV",
+         "name": "🐾丨就要【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":{"url": "http://madouse.cc/api.php/provide/vod/",
+          "categories": ["国产传媒","麻豆视频","果冻传媒","天美传媒","蜜桃影像传媒","精东影业","糖心Vlog","日本视频"]} 
+    }, 
+    {
+         "key": "快av资源",
+         "name": "🐾丨快爱【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"http://kuaiavzy.com/api.php/provide/vod/at/json" 
+    }, 
+    {
+         "key": "久色资源",
+         "name": "🐾丨久色【🔞】",
+         "type": 3,
+         "api": "./caiji.js",
+         "ext":"https://9szy.net/api.php/provide/vod/at/json" 
+    }, 
+    {
+        "key": "蜜桃视频",
+        "name": "🐾丨蜜桃【🔞】",
+        "type": 3,
+        "api": "./mtsp_open.js"
+    },
+    {
+        "key": "黄色仓库",
+        "name": "🐾丨黄仓【🔞】",
+        "type": 3,
+        "api": "./hsck_open.js"
+    },
+    {
+        "key": "xiaoya-tv",
+        "name": "🐾丨小雅【🈚️】",
+        "type": 3,
+        "api": "./xiaoya.js",
+        "ext": "部署alist-tvobx，IP+端口/vod1/"
+    },
+    {
+        "key": "bilibili-tv",
+        "name": "🐾丨小哔【🈚️】",
+        "type": 3,
+        "api": "./bilibili.js",
+        "ext": "部署alist-tvobx，IP+端口/bilibili"
+      }
+    ]
+  },
+  "read": {
+      "sites": [
+   {
+        "key": "老白故事",
+        "name": "🐾丨老白【🎧】",
+        "type": 10,
+        "api": "./lbgs_book_open.js"
+   }, 
+   {
+        "key": "书音FM",
+        "name": "🐾丨书音【🎧】",
+        "type": 10,
+        "api": "./shuyinfm_book_open.js"
+   }, 
+   {
+        "key": "13听书",
+        "name": "🐾丨十三【🎧】",
+        "type": 10,
+        "api": "./ting13_book_open.js"
+   }, 
+   {
+        "key": "博看书苑",
+        "name": "🐾丨博看【🎧】",
+        "type": 10,
+        "api": "./bookan_book_open.js"
+   },
+   {
+        "key": "zz123",
+        "name": "🐾丨z123【🎧】",
+        "type": 10,
+        "api": "./zz123_book_open.js"
+   },
+   {
+        "key": "爱上你听书网",
+        "name": "🐾丨爱听【🎧】",
+        "type": 10,
+        "api": "./230ts_book_open.js"
+   },  
+   {
+        "key": "DJ0898网",
+        "name": "🐾丨爱DJ【🎧】",
+        "type": 10,
+        "api": "./dj0898_book_open.js"
+      }
+    ]
+  },
+    "comic": {
+      "sites": [
+          {
+              "key": "copymanga",
+              "name": "拷贝漫画",
+              "type": 20,
+              "api": "assets://js/copymanga_open.js"
+          }
+      ]
+  },
+  "pan": {
+    "sites": [
+      {
+        "key": "alist",
+        "name": "Alist",
+        "type": 40,
+        "api": "./alist_open.js",
+        "ext": [
+          {
+            "name": "🐾小雅",
+            "server": "http://124.71.206.236:5678/",
+            "startPage": "/",
+            "showAll": false,
+            "search": true,
+            "headers": {
+              "Authorization": ""
+            },
+            "params": {
+              "/abc": {
+                "password": "123"
+              },
+              "/abc/abc": {
+                "password": "123"
+              }
+            }
+          },
+          {
+            "name": "🐾罗汉果🔞",
+            "server": "https://lala-ofbip.run.goorm.site/"
+          },
+          {
+           "name": "🐾福利",
+           "server": "http://69.161.221.160:5244/"
+          },
+          {
+           "name": "🐾合集大全",
+           "server": "http://www.jczyl.top:5244/"
+          },
+          {
+           "name": "🐾东哥",
+           "server": "http://101.34.67.237:5244/"
+          },
+          {
+           "name": "🐾美云",
+           "server": "https://h.dfjx.ltd/"
+          },
+          {
+           "name": "🐾小新",
+           "server": "https://pan.cdnxin.top/"
+          },
+          {
+           "name": "🐾白云",
+           "server": "http://breadmyth.asuscomm.com:22222/"
+          },
+          {
+           "name": "🐾小鸭",
+           "server": "http://www.214728327.xyz:5201/"
+          },
+          {
+           "name": "🐾瑶瑶",
+           "server": "https://lyly.run.goorm.io/"
+          },
+          {
+           "name": "🐾潇洒",
+           "server": "https://alist.azad.asia/"
+          },
+          {
+           "name": "🐾鹏程",
+           "server": "https://pan.pengcheng.team/"
+          },
+          {
+           "name": "🐾浅唱",
+           "server": "http://vtok.pp.ua/"
+          },
+          {
+           "name": "🐾小丫",
+           "server": "http://alist.xiaoya.pro/"
+          },
+          {
+           "name": "🐾触光",
+           "server": "https://pan.ichuguang.com"
+          },
+          {
+           "name": "🐾弱水",
+           "server": "http://shicheng.wang:555/"
+          },
+          {
+           "name": "🐾神器",
+           "server": "https://alist.ygxz.xyz/"
+          },
+          {
+           "name": "🐾资源",
+           "server": "https://pan.ecve.cn/"
+          },
+          {
+           "name": "🐾雨呢",
+           "server": "https://pan.clun.top/"
+          },
+          {
+           "name": "🐾oeio",
+           "server": "https://o.oeio.repl.co/"
+          },
+          {
+           "name": "🐾悦享",
+           "server": "https://nics.eu.org/"
+          },
+          {
+           "name": "🐾分享",
+           "server": "https://ofoo.ml/"
+          },
+          {
+           "name": "🐾PRO",
+           "server": "https://alist.prpr.run/"
+          },          {
+           "name": "🐾多多",
+           "server": "https://pan.xwbeta.com"
+          },
+          {
+           "name": "🐾小陈",
+           "server": "https://ypan.cc/"
+          },
+          {
+           "name": "🐾只鱼",
+           "server": "https://alist.youte.ml"
+          },
+          {
+           "name": "🐾七米",
+           "server": "https://al.chirmyram.com"
+          },
+          {
+           "name": "🐾九帝",
+           "server": "https://alist.shenzjd.com"
+          },
+          {
+           "name": "🐾白雪",
+           "server": "https://pan.jlbx.xyz"
+          },
+          {
+           "name": "🐾星梦",
+           "server": "https://pan.bashroot.top"
+          },
+          {
+           "name": "🐾repl",
+           "server": "https://ali.liucn.repl.co"
+          },
+          {
+           "name": "🐾讯维",
+           "server": "https://pan.xwbeta.com"
+          }
+        ]
+      }
+    ]
+  }
+}
