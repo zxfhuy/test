@@ -5,8 +5,8 @@
   "wallpaper": "http://sx.liuyun.wang:88/bizhi.php",
   //https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjmjk/main/xmbjm.json
   //"spider":"clan://1/Yoursmile.jar",
-  "spider":"./Xiaoh.jar",
   "spider":"./pg.jar",
+  "spider":"./Xiaoh.jar",
   "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/sx.jar",
   "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/pc0227.jar",
   "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/YSC.jar",
