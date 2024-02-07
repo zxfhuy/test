@@ -5,16 +5,15 @@
   "wallpaper": "http://sx.liuyun.wang:88/bizhi.php",
   //https://gh.con.sh/https://raw.githubusercontent.com/xmbjm/xmbjmjk/main/xmbjm.json
   //"spider":"clan://1/Yoursmile.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/sx.jar",
+  "spider":"./sx.jar",
   "spider":"./Xiaoh.jar",
-  "spider":"./pg.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/pc0227.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/YSC.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/xzy1029.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/zxfhuy.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/xyq.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/18.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/ffty.jar",
+  "spider":"./pc0227.jar",
+  "spider":"./YSC.jar",
+  "spider":"./xzy1029.jar",
+  "spider":"./zxfhuy.jar",
+  "spider":"./xyq.jar",
+  "spider":"./18.jar",
+  "spider":"./ffty.jar",
   
  //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGZodXkubmVvY2l0aWVzLm9yZy8wMDEvbGl2ZS9kc2ozLjAuanNvbg=="]}]}],
  //"lives":[{"name":"live","type":0,"url":"http://sx.liuyun.wang:88/zb.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png" }],
@@ -103,15 +102,6 @@
         "api": "./js/mybili_open.js"
    }, 
    {
-        "key": "新浪资源",
-        "name": "🔥视听接口21",
-        "type": 3,
-        "api": "./js/caiji.js",
-        "ext":{"url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/from/xlm3u8",
-        "categories": ["大陆剧","港澳剧","台湾剧","欧美剧","韩剧","日剧","泰剧","动漫","动漫电影","综艺","动作片","爱情片","科幻片","战争片","剧情片","恐怖片","喜剧片","纪录片","伦理片"]
-	}
-    }, 
-    {
         "key": "武享UFC",
         "name": "🔥视听接口22",
         "type": 3,
