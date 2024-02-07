@@ -83,14 +83,6 @@
 ],
 
 "zhujiexi":[
-{"name":"🐱综合1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
-{"name":"🐱综合2","url":"https://live.fanmingming.com/player/?vurl=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
-{"name":"🐱综合3","url":"https://yparse.ik9.cc/index.php?url=","ext": {"flag": [ "qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua", "1905"]}},
-{"name":"🐱综合4","url":"https://vip.lianfaka.com/vip/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
-{"name":"🐱综合5","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
-{"name":"🐱综合6","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"🐱综合7","type": 0,"url":"https://jy3.wevip.cc/?url="},
-{"name":"🐱综合8","type": 0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
 {"name":"主解1","url":"https://jx.777jiexi.com/player/?url=" },
 {"name":"主解2","url":"https://www.8090g.cn/?url="},
 {"name":"主解3","url":"https://www.pouyun.com/?url="},
@@ -118,7 +110,15 @@
 {"name":"主解25","url":"https://bd.jx.cn/?url="},
 {"name":"主解26","url":"http://jx.zui.cm/?url="},
 {"name":"主解27","url":"https://jx.aidouer.net/?url="},
-{"name":"主解28","url":"http://jx.zui.cm/?url="}
+{"name":"主解28","url":"http://jx.zui.cm/?url="},
+{"name":"🐱综合1","url":"http://110.42.2.247:880/analysis/json/?uid=2449&my=acfgikquvzFGJRW459&url="},
+{"name":"🐱综合2","url":"https://live.fanmingming.com/player/?vurl=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":"okhttp/4.1.0"}}},
+{"name":"🐱综合3","url":"https://yparse.ik9.cc/index.php?url=","ext": {"flag": [ "qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua", "1905"]}},
+{"name":"🐱综合4","url":"https://vip.lianfaka.com/vip/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent": "okhttp/4.1.0"}}},
+{"name":"🐱综合5","url":"http://27.124.4.42:4567/jhjson/ceshi.php?url="},
+{"name":"🐱综合6","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
+{"name":"🐱综合7","type": 0,"url":"https://jy3.wevip.cc/?url="},
+{"name":"🐱综合8","type": 0,"url":"https://www.playm3u8.cn/jiexi.php?url="}
 ],
 
 "beiyongjiexi": [
