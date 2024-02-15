@@ -1,5 +1,5 @@
 💯测试频道,#genre#
-4FUNTV,https://stream.4fun.tv:8888/hls/4f.m3u8
+音乐欣赏,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAguOaa4gUo_J_z6gI.mp4
 阿果吉曲,http://mobi.kuwo.cn/tmevideo/tme1257695.mp4
 醉倾城,http://mobi.kuwo.cn/tmevideo/tme1257650.mp4
 串烧,https://vd4.bdstatic.com/mda-mkn4iq79ihtufbc1/sc/cae_h264/1637639849265611965/mda-mkn4iq79ihtufbc1.mp4
@@ -13,12 +13,13 @@ DJ《心在跳情在烧》,https://vd4.bdstatic.com/mda-mhwf07t27w3gi1y7/1080p/c
 赵蕾蕾《寂寞的城伤心的人》,https://vd2.bdstatic.com/mda-mesdm11tdp69a9ye/1080p/cae_h264/1622115758783335310/mda-mesdm11tdp69a9ye.mp4
 
 💯收藏频道,#genre#
+CCTV1,http://221.2.146.228:8888/newlive/live/hls/2/live.m3u8
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8#http://221.0.78.198:1681/hls/10201/index.m3u8
 CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://39.134.67.110/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://39.134.67.110/PLTV/88888888/224/3221225816/1.m3u8
-CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
 CCTV1,https://ldncctvwbndtxy.liveplay.myqcloud.com/ldncctvwbnd/ldcctv1_2/index.m3u8
 
 CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
@@ -43,6 +44,13 @@ CCTV4,http://39.134.65.143/PLTV/88888888/224/3221225797/1.m3u8
 CCTV4,http://39.134.65.141/PLTV/88888888/224/3221225797/1.m3u8
 CCTV4,http://111.20.35.103:6610/yinhe/2/ch00000090990000001015/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 
+CCTV 13,http://pi.0472.org/tv/cbn.php?id=xfjcHD
+CCTV 13,http://39.135.133.151:80/wh7f454c46tw3137952093_-246092138/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?icpid=88888888&RTS=1707244048&from=23&hms_devid=1240&online=1707244048&vqe=3
+CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mhd.m3u8?auth_key=1635962688-0-e013f973588e41599d7751a912170d78-fd33c55f8befe5c00fb32fee650348c0
+CCTV 13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
+CCTV-13,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+CCTV 13,http://180.103.179.164:8888/rtp/239.49.9.43:6000
+CCTV 13,http://117.81.169.180:8888/rtp/239.49.9.43:6000
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV13,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 CCTV13,https://pi.0472.org/tv/asam.php?auth=231110
