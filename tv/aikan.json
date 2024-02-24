@@ -3991,7 +3991,7 @@
   "bflianjiehou":"\""
 },
 
-{"name":"🐤🐤小鸭",
+{"name":"💯🐤🐤小鸭",
 "url":"https://777tv.ai",
 
 //播放请求头
@@ -4023,7 +4023,7 @@
 "qishiye":"1",
 
 //如果分类类型填空，例如：电视剧$空，则直接取url字段网址的源码。
-"fenlei":"电影$/vod/show/by/time/id/1/page/#动作片$/vod/show/by/time/id/6/page/#喜剧片$/vod/show/by/time/id/7/page/#爱情片$/vod/show/by/time/id/8/page/#科幻片$/vod/show/by/time/id/9/page/#恐怖片$/vod/show/by/time/id/10/page/#剧情片$/vod/show/by/time/id/11/page/#战争片$/vod/show/by/time/id/12/page/#动画电影$/vod/show/by/time/id/24/page/#电视剧$/vod/show/by/time/id/2/page/#大陆剧$/vod/show/by/time/id/13/page/#台湾剧$/vod/show/by/time/id/14/page/#日本剧$/vod/show/by/time/id/15/page/#美剧$/vod/show/by/time/id/16/page/#韩剧$/vod/show/by/time/id/20/page/#港剧$/vod/show/by/time/id/21/page/#纪录剧$/vod/show/by/time/id/22/page/#海外剧$/vod/show/by/time/id/31/page/#综艺$/vod/show/by/time/id/29/page/#动漫$/vod/show/by/time/id/4/page/",
+"fenlei":"电影$/vod/show/id/1#动作片$/6#喜剧片$/vod/type/id/7#爱情片$/vod/type/id/8#科幻片$/vod/type/id/9#恐怖片$/vod/type/id/10#剧情片$/vod/type/id/11#战争片$/vod/type/id/12#动画电影$/vod/type/id/24#电视剧$/vod/show/id/2#大陆剧$/vod/show/id/13#台湾剧$/vod/show/id/14#日本剧$/vod/show/id/15#美剧$/vod/show/id/16#韩剧$/vod/show/by/time/id/20/page/#港剧$/vod/show/by/time/id/21/page/#纪录剧$/vod/show/by/time/id/22/page/#海外剧$/vod/show/by/time/id/31/page/#综艺$/vod/show/by/time/id/29/page/#动漫$/vod/show/by/time/id/4/page/",
 //"fenlei":"电影$/genre/1---#动作片$/vod/show/by/time/id/6/page/#喜剧片$/vod/show/by/time/id/7/page/#爱情片$/vod/show/by/time/id/8/page/#科幻片$/vod/show/by/time/id/9/page/#恐怖片$/vod/show/by/time/id/10/page/#剧情片$/vod/show/by/time/id/11/page/#战争片$/vod/show/by/time/id/12/page/#动画电影$/vod/show/by/time/id/24/page/#电视剧$/genre/2---#大陆剧$/vod/show/by/time/id/13/page/#台湾剧$/vod/show/by/time/id/14/page/#日本剧$/vod/show/by/time/id/15/page/#美剧$/vod/show/by/time/id/16/page/#韩剧$/vod/show/by/time/id/20/page/#港剧$/vod/show/by/time/id/21/page/#纪录剧$/vod/show/by/time/id/22/page/#海外剧$/vod/show/by/time/id/31/page/#综艺$/vod/show/by/time/id/29/page/#动漫$/vod/show/by/time/id/4/page/",
 "houzhui":".html",
 "筛选列表模式":"1",
