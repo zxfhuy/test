@@ -4030,7 +4030,7 @@
 "筛选列表": [
 {
 "分类名称":"电影",
-"分类链接":"https://777tv.ai/vod/show/area/地区/id/page.html",
+"分类链接":"https://777tv.ai/vod/show/area/地区/排序/id/1/page/翻页/年代.html",
 "类型":"全部$1#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#动画片$24",
 "地区":"全部$空#大陆$area/大陸#香港$area/香港#美国$area/美國#欧美$area/歐美#日本$area/日本#韩国$area/韓國#英国$area/英國",
 "年代":"全部$空#2023$year/2023#2022$year/2022#2021$year/2021#2020$year/2020#2019$year/2019#2018$year/2018#2017$year/2017#2016$year/2016#2015$year/2015#2014$year/2014#2013$year/2013#2012$year/2012#2011$year/2011",
@@ -4038,9 +4038,9 @@
 },
 {
 "分类名称":"电视剧",
-"分类链接":"https://777tv.ai/vod/show/area/地区/id/2.html",
+"分类链接":"https://777tv.ai/vod/show/area/地区/排序/id/2/page/翻页/年代.html",
 "类型":"全部$2#国产剧$13#台剧$14#日剧$15#韓劇$20#港劇$21#欧美剧$16#海外剧$31",
-"地区":"全部$空#内地$/vod/show/area/大陸/id/2#香港$/vod/show/area/香港/id/2#台湾$/vod/show/area/臺灣/id/2#美国$area/美國#英国$area/英國#日本$area/日本#韩国$area/韓國#泰国$area/泰國#欧美$area/歐美#其他$area/其他",
+"地区":"全部$空#内地$vod/show/area/大陸/id/2#香港$vod/show/area/香港/id/2#台湾$vod/show/area/臺灣/id/2#美国$area/美國#英国$area/英國#日本$area/日本#韩国$area/韓國#泰国$area/泰國#欧美$area/歐美#其他$area/其他",
 "年代":"全部$空#2023$year/2023#2022$year/2022#2021$year/2021#2020$year/2020#2019$year/2019#2018$year/2018#2017$year/2017#2016$year/2016#2015$year/2015#2014$year/2014#2013$year/2013#2012$year/2012#2011$year/2011",
 "排序":"全部$空#按时间排序$by/time#按人气排序$by/hits#按评分排序$by/score"
 },
