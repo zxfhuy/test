@@ -456,6 +456,273 @@
 },
 
 {
+  "author":"20220613",
+  "name":"💯555电影库",
+  "url":"https://5flixs.net",//发布页:www.555app.cc/或www.555kan.net/https://5flik.vip/
+  "tihuan":"cnzz.com",
+  "User":"User-Agent:Dart/2.14 (dart:io)",
+  "嗅探词":"m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
+
+"过滤词":".css#51.la#poster#api.php#.ico#cnzz.com#baidu.com#tootw.com#auete.com#.gif#.js#bilibili.com#mixed",
+  
+  //0：否，1：是
+"启用嗅探截取":"0",
+"嗅探请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
+"播放地址二次截取":"var player_$$</div>",
+"播放地址截取":"\"url\":\"$$\"",
+"是否base64解码":"0",
+"是否url解码":"0",
+"官源是否走解析":"0",
+
+  "搜索手动验证":"1",
+  "shouye":"1",
+//0：不启用，1：启用
+"启用js加载源码":"0",
+"js加载源码时间":"3",
+  "fenlei":"Netflix(片)$/vodshow/1---Netflix-----#Netflix(剧)$/vodshow/2---Netflix-----#Netflix(漫)$/vodshow/4---Netflix-----#剧情$/vodshow/124--------#热播电影$/vodshow/1--hits------#热播连续剧$/vodshow/13--------#日韩剧$/vodshow/44--------#欧美剧$/vodshow/45--------#港台剧$/vodshow/15--------#纪录片$/vodshow/1---纪录-----#儿童片$/vodshow/1---儿童-----#动画片$/vodshow/1---动画-----#亲子动漫$/vodshow/4---亲子-----#儿歌动漫$/vodshow/4---儿歌-----#国产动漫$/vodshow/4-大陆-------#日本动漫$/vodshow/4-日本-------#欧美动漫$/vodshow/4-欧美-------#其他动漫$/vodshow/4-其他-------#综艺记录$/vodshow/3--------#仙侠片$/vodshow/1---仙侠-----#剧情片$/vodshow/1---剧情-----#科幻片$/vodshow/1---科幻-----#动作片$/vodshow/1---动作-----#喜剧片$/vodshow/1---喜剧-----#爱情片$/vodshow/1---爱情-----#冒险片$/vodshow/1---冒险-----#歌舞片$/vodshow/1---歌舞-----#音乐片$/vodshow/1---音乐-----#奇幻片$/vodshow/1---奇幻-----#恐怖片$/vodshow/1---恐怖-----#惊悚片$/vodshow/1---惊悚-----#丧尸片$/vodshow/1---丧尸-----#战争片$/vodshow/1---战争-----#传记片$/vodshow/1---传记-----#犯罪片$/vodshow/1---犯罪-----#悬疑片$/vodshow/1---悬疑-----#西部片$/vodshow/1---西部-----#灾难片$/vodshow/1---灾难-----#古装片$/vodshow/1---古装-----#武侠片$/vodshow/1---武侠-----#家庭片$/vodshow/1---家庭-----#短片$/vodshow/1---短片-----#校园片$/vodshow/1---校园-----#文艺片$/vodshow/1---文艺-----#运动片$/vodshow/1---运动-----#青春片$/vodshow/1---青春-----#同性片$/vodshow/1---同性-----#励志片$/vodshow/1---励志-----#人性片$/vodshow/1---人性-----#美食片$/vodshow/1---美食-----#女性片$/vodshow/1---女性-----#治愈片$/vodshow/1---治愈-----#历史片$/vodshow/1---历史-----#真人秀$/vodshow/1---真人秀-----#脱口秀$/vodshow/1---脱口秀-----#",
+  "houzhui":"---.html",
+"筛选列表模式":"1",
+"筛选列表": [
+{
+"分类名称":"电影",
+"分类链接":"https://5flixs.net/vodshow/1-地区-排序-剧情-----翻页---年代.html",
+
+"剧情":"全部$空#Netflix$Netflix#仙侠$仙侠#喜剧$喜剧#爱情$爱情#恐怖$恐怖#动作$动作#科幻$科幻#剧情$剧情#战争$战争#歌舞$歌舞#音乐$音乐#丧尸$丧尸#传记$传记#纪录$纪录#犯罪$犯罪#动画$动画#奇幻$奇幻#武侠$武侠#冒险$冒险#美食$美食#悬疑$悬疑#惊悚$惊悚#西部$西部#灾难$灾难#文艺$文艺#家庭$家庭#短片$短片#励志$励志#古装$古装#历史$历史#运动$运动#治愈$治愈#儿童$儿童#真人秀$真人秀#脱口秀$脱口秀",
+"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大",
+"年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007",
+"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
+},
+{
+"分类名称":"电视剧",
+"分类链接":"https://5flixs.net/vodshow/类型-地区-排序-剧情-----翻页---年代.html",
+"类型":"全部$2#国产剧$13#港台剧$15#日韩剧$44#欧美剧$45",
+"剧情":"全部$空#Netflix$Netflix#仙侠$仙侠#谍战$谍战#喜剧$喜剧#爱情$爱情#恐怖$恐怖#动作$动作#科幻$科幻#剧情$剧情#战争$战争#歌舞$歌舞#音乐$音乐#丧尸$丧尸#传记$传记#纪录$纪录#犯罪$犯罪#动画$动画#奇幻$奇幻#武侠$武侠#冒险$冒险#美食$美食#悬疑$悬疑#惊悚$惊悚#西部$西部#灾难$灾难#文艺$文艺#家庭$家庭#短片$短片#励志$励志#古装$古装#历史$历史#运动$运动#治愈$治愈#儿童$儿童#真人秀$真人秀#脱口秀$脱口秀",
+"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#其他$其他",
+"年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007",
+"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
+},
+{
+"分类名称":"福利库",
+"分类链接":"https://5flixs.net/vodshow/124--排序---------.html",
+"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
+},
+{
+"分类名称":"动漫",
+"分类链接":"https://5flixs.net/vodshow/4-地区-排序-剧情-----翻页---年代.html",
+
+"剧情":"全部$空#Netflix$Netflix#美少女$美少女#魔幻$魔幻#科幻$科幻#热血$热血#推理$推理#搞笑$搞笑#冒险$冒险#竞技$竞技#校园$校园#动作$动作#机战$机战#运动$运动#战争$战争#少儿$少儿#治愈$治愈#社会$社会#亲子$亲子#益智$益智#新番动画$新番动画#完结动画$完结动画",
+"地区":"全部$空#国产$大陆#日本$日本#欧美$欧美#其它$其他",
+"年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007",
+"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
+},
+{
+"分类名称":"综艺",
+"分类链接":"https://5flixs.net/vodshow/3-地区-排序-剧情-----翻页---年代.html",
+"剧情":"全部$空#YouTube$YouTube#脱口秀$脱口秀#真人秀$真人秀#选秀$选秀#八卦$八卦#情感$情感#访谈$访谈#播报$播报#旅游$旅游#音乐$音乐#晚会$晚会#纪实$纪实#曲艺$曲艺#生活$生活#游戏$游戏#财经$财经#少儿$少儿#科教$科教#其他$其他",
+"地区":"全部$空#内地$大陆#香港$香港#台湾$台湾#韩国$韩国#欧美$美国#其他$其它",
+"年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007",
+"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
+}
+],
+  "shifouercijiequ":"1",
+  "jiequqian":"class=\"module-items",
+  "jiequhou":"class=\"fixedGroup",
+  "jiequshuzuqian":"<a",
+  "jiequshuzuhou":"alt=\"",
+  "tupianqian":"data-original=\"",
+  "tupianhou":"\"",
+  "biaotiqian":"title=\"",
+  "biaotihou":"\"",
+  "fubiaotiqian":"class=\"module-item-note\">",
+"fubiaotihou":"</div>",
+  "lianjieqian":"href=\"",
+  "lianjiehou":"\"",
+  "搜索请求方式":"1",
+  "ssmoshi":"1",
+  "sousuoqian":"/vodsearch/",
+  "sousuohou":"----------1---.html",
+  "sousuohouzhui":"/voddetail/",
+  "sousuoshifouercijiequ":"0",
+  "jspic":"pic",
+  "jsname":"name",
+  "jsid":"id",
+  "ssjiequqian":"空",
+  "ssjiequhou":"空",
+  "ssjiequshuzuqian":"class=\"module-card-item module-item\"",
+  "ssjiequshuzuhou":"</strong>",
+  "sstupianqian":"data-original=\"",
+  "sstupianhou":"\"",
+  "ssbiaotiqian":"alt=\"",
+  "ssbiaotihou":"\"",
+  "ssfubiaotiqian":"class=\"module-item-note\">",
+  "ssfubiaotihou":"</div>",
+  "sslianjieqian":"href=\"",
+  "sslianjiehou":  "\"",
+
+//线路名称显示部分，0不启用，1启用
+"是否启用播放线路名":"0",
+"线路名是否二次截取":"1",
+"线路名截取前":"id=\"y-playList",
+"线路名截取后":"</div>
+                                   		
+									</div>",
+"线路名截取数组前":"<div",
+"线路名截取数组后":"/small>",
+"线路名标题前":"<span>",
+"线路名标题后":"</span>",
+  "bfshifouercijiequ":"0",
+  "bfjiequqian":"空",
+  "bfjiequhou":"空",
+  "bfjiequshuzuqian":"class=\"module-play-list\"",
+  "bfjiequshuzuhou":"</div>",
+
+  "zhuangtaiqian":"更新：</span>",
+  "zhuangtaihou":"</div>",
+  "daoyanqian":"导演：</span>",
+  "daoyanhou":"</div>",
+  "zhuyanqian":"主演：</span>",
+  "zhuyanhou":"</div>",
+  "juqingqian":"introduction-content\"><p>",
+  "juqinghou":"</p>",
+
+  "bfyshifouercijiequ":"0",
+  "bfyjiequqian":"空",
+  "bfyjiequhou":"空",
+  "bfyjiequshuzuqian":"<a",
+  "bfyjiequshuzuhou":"/a>",
+  "bfbiaotiqian":"span>",
+  "bfbiaotihou":"</span",
+  "bflianjieqian":"href=\"",
+  "bflianjiehou":"\""
+},
+
+{"name":"🦊茶杯狐网",
+"url":"https://www.cupfox.cc",
+"tihuan":"cnzz.com", 
+"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
+"shouye":"1",
+
+//0：否，1：是
+"启用嗅探截取":"0",
+"嗅探请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
+"播放地址二次截取":"var vid$$</div>",
+"播放地址截取":"now=\"$$\"",
+"是否base64解码":"0",
+"是否url解码":"0",
+"官源是否走解析":"0",
+
+//0：不启用，1：启用
+"搜索手动验证":"1",
+"嗅探词":"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
+"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com#cupfox#playlist_up",
+//"fenlei":"电影$/fox/1-#电视剧$/fox/2-#综艺$/fox/3-#动漫$/fox/4-#国产剧$/fox/13-",
+"fenlei":"电影$/fox/1-#动作片$/fox/5-#爱情片$/fox/6-#科幻片$/fox/7-#恐怖片$/fox/8-#战争片$/fox/9-#喜剧片$/fox/10-#剧情片$/fox/11-#纪录片$/fox/12-#电视剧$/fox/2-#国产剧$/fox/13-#港剧$/fox/14-#台剧$/fox/15-#日剧$/fox/16-#韩剧$/fox/17-#欧美剧$/fox/18-#伦理片$/fox/20-综艺$/fox/3-#动漫$/fox/4-",
+"houzhui":".html",
+"筛选列表模式":"1",
+"筛选列表": [
+{
+"分类名称":"电影",
+"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=类型&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
+"类型":"全部$1#动作片$5#喜剧片$10#爱情片$6#科幻片$7#恐怖片$8#剧情片$11#战争片$9#记录片$12",
+
+"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
+"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
+"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
+},
+{
+"分类名称":"电视剧",
+"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=类型&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
+"类型":"全部$2#国产剧$13#港剧$14#台剧$15#日剧$16#韩剧$17#欧美剧$18#海外剧$19",
+
+"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
+"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
+"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
+},
+
+{
+"分类名称":"伦理片",
+"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=类型&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
+"类型":"全部$1#动作片$5#喜剧片$10#爱情片$6#科幻片$7#恐怖片$8#剧情片$11#战争片$9#记录片$12",
+
+"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
+"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
+"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
+},
+
+{
+"分类名称":"动漫",
+"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=4&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
+"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
+"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
+"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
+},
+{
+"分类名称":"综艺",
+"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=3&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
+"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
+"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
+"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
+}],
+
+"shifouercijiequ":"0",
+"jiequqian":"空",
+"jiequhou":"空",
+"jiequshuzuqian":"class=\"fed-list-item",
+"jiequshuzuhou":"</li>",
+"tupianqian":"data-original=\"",
+"tupianhou":"\"",
+"biaotiqian":".html\" >", 
+"biaotihou":"</a>",
+"lianjieqian":"href=\"",
+"lianjiehou":"\"",
+"sousuoqian":"/search.php?&searchword=",
+"sousuohou":"",
+"sousuohouzhui":"/cupfox/",
+"搜索请求方式":"1",
+"ssmoshi":"1",
+"sousuoshifouercijiequ":"0",
+"jspic":"pic",
+"jsname":"name",
+"jsid":"id",
+"ssjiequqian":"空",
+"ssjiequhou":"空",
+"ssjiequshuzuqian":"<dt class=\"fed-deta-images",
+"ssjiequshuzuhou":"</h1>",
+"sstupianqian":  "data-original=\"",
+"sstupianhou":"\"",
+"ssbiaotiqian":  ".html\">", 
+"ssbiaotihou":"</a>",
+"sslianjieqian":"href=\"",
+"sslianjiehou":"\"",
+"bfshifouercijiequ":"0",
+"bfjiequqian":"空",
+"bfjiequhou":"空",
+"bfjiequshuzuqian":"class=\"fed-part-rows\"><li",
+"bfjiequshuzuhou":"</ul>",
+"zhuangtaiqian":"更新：</span>",
+"zhuangtaihou":"</p >",
+"daoyanqian":"导演：</span>",
+"daoyanhou":"</p >",
+"zhuangtaiqian":"年份：</span>",
+"zhuangtaihou":"</li>",
+"daoyanqian":"导演：</span>",
+"daoyanhou":"</li>",
+"zhuyanqian":"主演：</span>",
+"zhuyanhou":"</li>",
+"juqingqian":"简介：</span>",
+"juqinghou":"</div>",
+"bfyshifouercijiequ":"0", 
+"bfyjiequqian":"空", 
+"bfyjiequhou":"空", 
+"bfyjiequshuzuqian":"<a", 
+"bfyjiequshuzuhou":"/a>",
+"bfbiaotiqian":">",
+"bfbiaotihou":"</span>", 
+"bflianjieqian":"href=\"",
+"bflianjiehou":"\""
+},
+
+{
             "网站名字":"💯磁力电影",
             "网站地址":"https://www.dyg123.cc",
             "访问请求ua":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",
@@ -3543,121 +3810,6 @@
 "bfqianzhui":"" //可以自己定义截取播放链接的前缀，不需要的话不填写，或者删除这个字段即可。
 },
 
-{"name":"🦊茶杯狐",
-"url":"https://www.cupfox.cc",
-"tihuan":"cnzz.com", 
-"ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
-"shouye":"1",
-
-//0：否，1：是
-"启用嗅探截取":"0",
-"嗅探请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
-"播放地址二次截取":"var vid$$</div>",
-"播放地址截取":"now=\"$$\"",
-"是否base64解码":"0",
-"是否url解码":"0",
-"官源是否走解析":"0",
-
-//0：不启用，1：启用
-"搜索手动验证":"1",
-"嗅探词":"m3u8?#.m3u8#.mp4#.flv#.mp3#.m4a",
-"过滤词":"51.la#cnzz.com#baidu.com#bilibili.com#cupfox#playlist_up",
-//"fenlei":"电影$/fox/1-#电视剧$/fox/2-#综艺$/fox/3-#动漫$/fox/4-#国产剧$/fox/13-",
-"fenlei":"电影$/fox/1-#动作片$/fox/5-#爱情片$/fox/6-#科幻片$/fox/7-#恐怖片$/fox/8-#战争片$/fox/9-#喜剧片$/fox/10-#剧情片$/fox/11-#纪录片$/fox/12-#电视剧$/fox/2-#国产剧$/fox/13-#港剧$/fox/14-#台剧$/fox/15-#日剧$/fox/16-#韩剧$/fox/17-#欧美剧$/fox/18-#综艺$/fox/3-#动漫$/fox/4-",
-"houzhui":".html",
-"筛选列表模式":"1",
-"筛选列表": [
-{
-"分类名称":"电影",
-"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=类型&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
-"类型":"全部$1#动作片$5#喜剧片$10#爱情片$6#科幻片$7#恐怖片$8#剧情片$11#战争片$9#记录片$12",
-
-"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
-"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
-"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
-},
-{
-"分类名称":"电视剧",
-"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=类型&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
-"类型":"全部$2#国产剧$13#港剧$14#台剧$15#日剧$16#韩剧$17#欧美剧$18#海外剧$19",
-
-"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
-"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
-"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
-},
-{
-"分类名称":"动漫",
-"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=4&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
-"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
-"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
-"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
-},
-{
-"分类名称":"综艺",
-"分类链接":"https://www.cupfox.cc/search.php?page=翻页&searchtype=5&order=排序&tid=3&area=地区&year=年代&letter=&yuyan=&state=&money=&ver=&jq=",
-"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#日本$日本#韩国$韩国#欧美$欧美#泰国$泰国#其他$其他",
-"年代":"全部$空#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012",
-"排序":"全部$空#按时间排序$time#按人气排序$hit#按评分排序$score"
-}],
-
-"shifouercijiequ":"0",
-"jiequqian":"空",
-"jiequhou":"空",
-"jiequshuzuqian":"class=\"fed-list-item",
-"jiequshuzuhou":"</li>",
-"tupianqian":"data-original=\"",
-"tupianhou":"\"",
-"biaotiqian":".html\" >", 
-"biaotihou":"</a>",
-"lianjieqian":"href=\"",
-"lianjiehou":"\"",
-"sousuoqian":"/search.php?&searchword=",
-"sousuohou":"",
-"sousuohouzhui":"/cupfox/",
-"搜索请求方式":"1",
-"ssmoshi":"1",
-"sousuoshifouercijiequ":"0",
-"jspic":"pic",
-"jsname":"name",
-"jsid":"id",
-"ssjiequqian":"空",
-"ssjiequhou":"空",
-"ssjiequshuzuqian":"<dt class=\"fed-deta-images",
-"ssjiequshuzuhou":"</h1>",
-"sstupianqian":  "data-original=\"",
-"sstupianhou":"\"",
-"ssbiaotiqian":  ".html\">", 
-"ssbiaotihou":"</a>",
-"sslianjieqian":"href=\"",
-"sslianjiehou":"\"",
-"bfshifouercijiequ":"0",
-"bfjiequqian":"空",
-"bfjiequhou":"空",
-"bfjiequshuzuqian":"class=\"fed-part-rows\"><li",
-"bfjiequshuzuhou":"</ul>",
-"zhuangtaiqian":"更新：</span>",
-"zhuangtaihou":"</p >",
-"daoyanqian":"导演：</span>",
-"daoyanhou":"</p >",
-"zhuangtaiqian":"年份：</span>",
-"zhuangtaihou":"</li>",
-"daoyanqian":"导演：</span>",
-"daoyanhou":"</li>",
-"zhuyanqian":"主演：</span>",
-"zhuyanhou":"</li>",
-"juqingqian":"简介：</span>",
-"juqinghou":"</div>",
-"bfyshifouercijiequ":"0", 
-"bfyjiequqian":"空", 
-"bfyjiequhou":"空", 
-"bfyjiequshuzuqian":"<a", 
-"bfyjiequshuzuhou":"/a>",
-"bfbiaotiqian":">",
-"bfbiaotihou":"</span>", 
-"bflianjieqian":"href=\"",
-"bflianjiehou":"\""
-},
-
 {
   "name":"🕵厂长资源",
   "url":"https://www.czzy55.com/",//发布www.czzy.site或czzy.tv/或www.cz01.vip/
@@ -3736,7 +3888,7 @@
 },
 
 {
-  "name":"💋红领巾",
+  "name":"💯红领巾网",
   "url":"https://www.honglingjin.tv",//公众号:一家人影院
   "User":"空",
   "shouye":"1",
@@ -3828,148 +3980,7 @@
   "bflianjiehou":"\""
 },
 
-{
-  "author":"20220613",
-  "name":"👘555电影(手点)",
-  "url":"https://5flixs.net",//发布页:www.555app.cc/或www.555kan.net/https://5flik.vip/
-  "tihuan":"cnzz.com",
-  "User":"User-Agent:Dart/2.14 (dart:io)",
-  "嗅探词":"m3u8?#.m3u8#mp4#.flv#.mp3#.m4a",
-
-"过滤词":".css#51.la#poster#api.php#.ico#cnzz.com#baidu.com#tootw.com#auete.com#.gif#.js#bilibili.com#mixed",
-  
-  //0：否，1：是
-"启用嗅探截取":"0",
-"嗅探请求头":"User-Agent$Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",//User-Agent$123#Referer$123
-"播放地址二次截取":"var player_$$</div>",
-"播放地址截取":"\"url\":\"$$\"",
-"是否base64解码":"0",
-"是否url解码":"0",
-"官源是否走解析":"0",
-
-  "搜索手动验证":"1",
-  "shouye":"1",
-//0：不启用，1：启用
-"启用js加载源码":"0",
-"js加载源码时间":"3",
-  "fenlei":"Netflix(片)$/vodshow/1---Netflix-----#Netflix(剧)$/vodshow/2---Netflix-----#Netflix(漫)$/vodshow/4---Netflix-----#剧情$/vodshow/124--------#热播电影$/vodshow/1--hits------#热播连续剧$/vodshow/13--------#日韩剧$/vodshow/44--------#欧美剧$/vodshow/45--------#港台剧$/vodshow/15--------#纪录片$/vodshow/1---纪录-----#儿童片$/vodshow/1---儿童-----#动画片$/vodshow/1---动画-----#亲子动漫$/vodshow/4---亲子-----#儿歌动漫$/vodshow/4---儿歌-----#国产动漫$/vodshow/4-大陆-------#日本动漫$/vodshow/4-日本-------#欧美动漫$/vodshow/4-欧美-------#其他动漫$/vodshow/4-其他-------#综艺记录$/vodshow/3--------#仙侠片$/vodshow/1---仙侠-----#剧情片$/vodshow/1---剧情-----#科幻片$/vodshow/1---科幻-----#动作片$/vodshow/1---动作-----#喜剧片$/vodshow/1---喜剧-----#爱情片$/vodshow/1---爱情-----#冒险片$/vodshow/1---冒险-----#歌舞片$/vodshow/1---歌舞-----#音乐片$/vodshow/1---音乐-----#奇幻片$/vodshow/1---奇幻-----#恐怖片$/vodshow/1---恐怖-----#惊悚片$/vodshow/1---惊悚-----#丧尸片$/vodshow/1---丧尸-----#战争片$/vodshow/1---战争-----#传记片$/vodshow/1---传记-----#犯罪片$/vodshow/1---犯罪-----#悬疑片$/vodshow/1---悬疑-----#西部片$/vodshow/1---西部-----#灾难片$/vodshow/1---灾难-----#古装片$/vodshow/1---古装-----#武侠片$/vodshow/1---武侠-----#家庭片$/vodshow/1---家庭-----#短片$/vodshow/1---短片-----#校园片$/vodshow/1---校园-----#文艺片$/vodshow/1---文艺-----#运动片$/vodshow/1---运动-----#青春片$/vodshow/1---青春-----#同性片$/vodshow/1---同性-----#励志片$/vodshow/1---励志-----#人性片$/vodshow/1---人性-----#美食片$/vodshow/1---美食-----#女性片$/vodshow/1---女性-----#治愈片$/vodshow/1---治愈-----#历史片$/vodshow/1---历史-----#真人秀$/vodshow/1---真人秀-----#脱口秀$/vodshow/1---脱口秀-----#",
-  "houzhui":"---.html",
-"筛选列表模式":"1",
-"筛选列表": [
-{
-"分类名称":"电影",
-"分类链接":"https://5flixs.net/vodshow/1-地区-排序-剧情-----翻页---年代.html",
-
-"剧情":"全部$空#Netflix$Netflix#仙侠$仙侠#喜剧$喜剧#爱情$爱情#恐怖$恐怖#动作$动作#科幻$科幻#剧情$剧情#战争$战争#歌舞$歌舞#音乐$音乐#丧尸$丧尸#传记$传记#纪录$纪录#犯罪$犯罪#动画$动画#奇幻$奇幻#武侠$武侠#冒险$冒险#美食$美食#悬疑$悬疑#惊悚$惊悚#西部$西部#灾难$灾难#文艺$文艺#家庭$家庭#短片$短片#励志$励志#古装$古装#历史$历史#运动$运动#治愈$治愈#儿童$儿童#真人秀$真人秀#脱口秀$脱口秀",
-"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#意大利$意大利#西班牙$西班牙#加拿大$加拿大",
-"年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007",
-"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
-},
-{
-"分类名称":"电视剧",
-"分类链接":"https://5flixs.net/vodshow/类型-地区-排序-剧情-----翻页---年代.html",
-"类型":"全部$2#国产剧$13#港台剧$15#日韩剧$44#欧美剧$45",
-"剧情":"全部$空#Netflix$Netflix#仙侠$仙侠#谍战$谍战#喜剧$喜剧#爱情$爱情#恐怖$恐怖#动作$动作#科幻$科幻#剧情$剧情#战争$战争#歌舞$歌舞#音乐$音乐#丧尸$丧尸#传记$传记#纪录$纪录#犯罪$犯罪#动画$动画#奇幻$奇幻#武侠$武侠#冒险$冒险#美食$美食#悬疑$悬疑#惊悚$惊悚#西部$西部#灾难$灾难#文艺$文艺#家庭$家庭#短片$短片#励志$励志#古装$古装#历史$历史#运动$运动#治愈$治愈#儿童$儿童#真人秀$真人秀#脱口秀$脱口秀",
-"地区":"全部$空#大陆$大陆#香港$香港#台湾$台湾#美国$美国#法国$法国#英国$英国#日本$日本#韩国$韩国#德国$德国#泰国$泰国#印度$印度#其他$其他",
-"年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007",
-"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
-},
-{
-"分类名称":"福利库",
-"分类链接":"https://5flixs.net/vodshow/124--排序---------.html",
-"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
-},
-{
-"分类名称":"动漫",
-"分类链接":"https://5flixs.net/vodshow/4-地区-排序-剧情-----翻页---年代.html",
-
-"剧情":"全部$空#Netflix$Netflix#美少女$美少女#魔幻$魔幻#科幻$科幻#热血$热血#推理$推理#搞笑$搞笑#冒险$冒险#竞技$竞技#校园$校园#动作$动作#机战$机战#运动$运动#战争$战争#少儿$少儿#治愈$治愈#社会$社会#亲子$亲子#益智$益智#新番动画$新番动画#完结动画$完结动画",
-"地区":"全部$空#国产$大陆#日本$日本#欧美$欧美#其它$其他",
-"年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007",
-"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
-},
-{
-"分类名称":"综艺",
-"分类链接":"https://5flixs.net/vodshow/3-地区-排序-剧情-----翻页---年代.html",
-"剧情":"全部$空#YouTube$YouTube#脱口秀$脱口秀#真人秀$真人秀#选秀$选秀#八卦$八卦#情感$情感#访谈$访谈#播报$播报#旅游$旅游#音乐$音乐#晚会$晚会#纪实$纪实#曲艺$曲艺#生活$生活#游戏$游戏#财经$财经#少儿$少儿#科教$科教#其他$其他",
-"地区":"全部$空#内地$大陆#香港$香港#台湾$台湾#韩国$韩国#欧美$美国#其他$其它",
-"年代":"全部$空#2023$2023#2022$2022#2021$2021#2020$2020#2019$2019#2018$2018#2017$2017#2016$2016#2015$2015#2014$2014#2013$2013#2012$2012#2011$2011#2010$2010#2009$2009#2008$2008#2007$2007",
-"排序":"全部$空#按时间排序$time#按人气排序$hits#按评分排序$score"
-}
-],
-  "shifouercijiequ":"1",
-  "jiequqian":"class=\"module-items",
-  "jiequhou":"class=\"fixedGroup",
-  "jiequshuzuqian":"<a",
-  "jiequshuzuhou":"alt=\"",
-  "tupianqian":"data-original=\"",
-  "tupianhou":"\"",
-  "biaotiqian":"title=\"",
-  "biaotihou":"\"",
-  "fubiaotiqian":"class=\"module-item-note\">",
-"fubiaotihou":"</div>",
-  "lianjieqian":"href=\"",
-  "lianjiehou":"\"",
-  "搜索请求方式":"1",
-  "ssmoshi":"1",
-  "sousuoqian":"/vodsearch/",
-  "sousuohou":"----------1---.html",
-  "sousuohouzhui":"/voddetail/",
-  "sousuoshifouercijiequ":"0",
-  "jspic":"pic",
-  "jsname":"name",
-  "jsid":"id",
-  "ssjiequqian":"空",
-  "ssjiequhou":"空",
-  "ssjiequshuzuqian":"class=\"module-card-item module-item\"",
-  "ssjiequshuzuhou":"</strong>",
-  "sstupianqian":"data-original=\"",
-  "sstupianhou":"\"",
-  "ssbiaotiqian":"alt=\"",
-  "ssbiaotihou":"\"",
-  "ssfubiaotiqian":"class=\"module-item-note\">",
-  "ssfubiaotihou":"</div>",
-  "sslianjieqian":"href=\"",
-  "sslianjiehou":  "\"",
-
-//线路名称显示部分，0不启用，1启用
-"是否启用播放线路名":"0",
-"线路名是否二次截取":"1",
-"线路名截取前":"id=\"y-playList",
-"线路名截取后":"</div>
-                                   		
-									</div>",
-"线路名截取数组前":"<div",
-"线路名截取数组后":"/small>",
-"线路名标题前":"<span>",
-"线路名标题后":"</span>",
-  "bfshifouercijiequ":"0",
-  "bfjiequqian":"空",
-  "bfjiequhou":"空",
-  "bfjiequshuzuqian":"class=\"module-play-list\"",
-  "bfjiequshuzuhou":"</div>",
-
-  "zhuangtaiqian":"更新：</span>",
-  "zhuangtaihou":"</div>",
-  "daoyanqian":"导演：</span>",
-  "daoyanhou":"</div>",
-  "zhuyanqian":"主演：</span>",
-  "zhuyanhou":"</div>",
-  "juqingqian":"introduction-content\"><p>",
-  "juqinghou":"</p>",
-
-  "bfyshifouercijiequ":"0",
-  "bfyjiequqian":"空",
-  "bfyjiequhou":"空",
-  "bfyjiequshuzuqian":"<a",
-  "bfyjiequshuzuhou":"/a>",
-  "bfbiaotiqian":"span>",
-  "bfbiaotihou":"</span",
-  "bflianjieqian":"href=\"",
-  "bflianjiehou":"\""
-},
-
-{"name":"🏛LIBVIO",
+{"name":"💯🏛LIBVIO",
 "url":"https://www.libvio.me",//发布页:libvio.app
 "tihuan":"",
 "User":"空",
@@ -4172,7 +4183,7 @@
 
 {
   "author":"20220903",
-  "name":"🙇0855影视",
+  "name":"💯0855影视",
   "url":"https://www.085515.com",//发布页https://www.0855666.com/或https://www.085516.com/或https://www.085518.com/
 "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36",
   "User":"空",
@@ -4396,7 +4407,7 @@
 },
   
 {
-  "name":"🤓1080Kkk",
+  "name":"💯1080Kkk",
   "url":"https://www.1080kk.cc/",//发布页https://www.1080kk.vip/https://www.1080kkk.com/
   "User":"空",
   
@@ -4511,7 +4522,7 @@
 },
 
 {
-  "name":"🕸💨尘落影院",
+  "name":"🕸尘落影院",
   "url":"https://www.zzdacou.com/",//发布www.50s.cc或https://www.chenluo.wang/
   "tihuan":"cnzz.com",
   "User":"空",
@@ -4751,7 +4762,7 @@
   "bflianjiehou":"\""
 },
 
-{"name":"🇵🇰🇦🇼300看世界",
+{"name":"💯300看世界",
 "url":"https://www.300kan.top",//发布www.300ys.xyz
  
 //访问请求头
@@ -5027,7 +5038,7 @@
 "bflianjiehou":"\""
 },
 {
-"name":"🌅🌇秋霞电影",
+"name":"🌅秋霞电影",
 "url":"https://www.7qdyw.cc",
 "ua":"Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
 "tihuan":"cnzz.com",
@@ -5410,7 +5421,7 @@ tupianqianzhui":"空",
 "fubiaotihou":"\""
 },
 
-{"name": "bili-动物世界",
+{"name": "💯动物世界",
 "url": "https://api.bilibili.com",   
 "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36", 
 "cookie":"buvid3=123",
@@ -5478,7 +5489,7 @@ tupianqianzhui":"空",
 "bflianjieqian": "page\":",
 "bflianjiehou": ",",
 "bfqianzhui": "?p="},
-{"name": "bili-戏曲",
+{"name": "💯bili-戏曲",
 "url": "https://api.bilibili.com",   
 "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36", 
 "cookie":"buvid3=123",
@@ -5546,7 +5557,7 @@ tupianqianzhui":"空",
 "bflianjieqian": "page\":",
 "bflianjiehou": ",",
 "bfqianzhui": "?p="},
-{"name": "bili-美食",
+{"name": "💯bili-美食",
 "url": "https://api.bilibili.com",   
 "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36", 
 "cookie":"buvid3=123",
@@ -5614,7 +5625,7 @@ tupianqianzhui":"空",
 "bflianjieqian": "page\":",
 "bflianjiehou": ",",
 "bfqianzhui": "?p="},
-{"name": "bili-教育",
+{"name": "💯bili-教育",
 "url": "https://api.bilibili.com",   
 "ua":"Mozilla/5.0 (Linux; Android 10; MI 8) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.104 Mobile Safari/537.36", 
 "cookie":"buvid3=123",
