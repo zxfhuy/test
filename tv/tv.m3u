@@ -63,6 +63,7 @@
 鹿鼎记2之神龙教,https://hnzy.bfvvs.com/play/1aKvlxeQ/index.m3u8#https://ukzy.ukubf4.com/20220404/gfSdtuvX/index.m3u8
 
 💯收藏频道,#genre#
+CCTV1,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv1.m3u8
 CCTV1,http://ktwlplkf.f3322.org:9901/tsfile/live/0001_1.m3u8
 CCTV1,http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
@@ -92,34 +93,68 @@ CCTV1,http://39.134.65.215/TVOD/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
 CCTV1,http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 CCTV1,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
-CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
 CCTV1,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
+CCTV1,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225804/index.m3u8
 CCTV1,http://111.20.35.103:6610/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 
 CCTV2,http://liveop.cctv.cn/hls/CCTV28bee868714f04ea2af79947bb9b46fc3H/playlist.m3u8
+CCTV2,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv2.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226224/1.m3u8
 CCTV2,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226195/1.m3u8
 CCTV2,http://111.20.35.103:6610/yinhe/2/ch00000090990000001332/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV2,http://111.20.35.103:6610/yinhe/2/ch00000090990000001293/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 
+CCTV3,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv3.m3u8
 CCTV3,http://39.134.67.110/PLTV/88888888/224/3221225799/1.m3u8
 CCTV3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.213/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.211/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.194/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.196/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.239/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.215/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.249/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.247/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.243/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.207/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.251/PLTV/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.239/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.194/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.67.108/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.247/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.67.110/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.249/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.251/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.211/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.213/TVOD/88888888/224/3221225799/1.m3u8
+CCTV3,http://39.134.65.215/TVOD/88888888/224/3221225799/1.m3u8
 CCTV3,http://39.134.64.179:6610/PLTV/88888888/224/3221226021/index.m3u8?
-CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+CCTV3,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226021/index.m3u8
 CCTV3,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/1.m3u8
+CCTV3,http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8?
+CCTV3,http://111.20.35.103:6610/yinhe/2/ch00000090990000001598/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+CCTV3,https://iptv.luas.edu.cn/liverespath/f76f9947c68be18d7a456e25aa59a08c5747e6a5/9bf301d5cc-0-0-cf56daafd7182fa30fbf78895ee761e3/index.m3u8
 
+CCTV4,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv4.m3u8
 CCTV4,http://39.134.65.143/PLTV/88888888/224/3221225797/1.m3u8
 CCTV4,http://39.134.63.11:6610/PLTV/88888888/224/3221226007/index.m3u8?i
 CCTV4,http://39.134.65.141/PLTV/88888888/224/3221225797/1.m3u8
+CCTV4,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV4,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/1.m3u8
+CCTV4,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+CCTV4,http://111.20.35.103:6610/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
+CCTV4,http://111.20.35.103:6610/yinhe/2/ch00000090990000001290/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 CCTV4,http://111.20.35.103:6610/yinhe/2/ch00000090990000001015/index.m3u8?virtualDomain=yinhe.live_hls.zte.com&IASHttpSessionId=
 
+CCTV13,http://119.167.135.229/liveali-tpgq.cctv.cn/live/cctv13.m3u8
 CCTV13,https://pi.0472.org/tv/asam.php?auth=231110
 CCTV13,http://39.134.65.198/PLTV/88888888/224/3221225812/1.m3u8
 CCTV13,http://39.134.65.247/PLTV/88888888/224/3221225812/1.m3u8
 CCTV13,http://39.134.65.209/PLTV/88888888/224/3221225812/1.m3u8
 CCTV13,http://117.148.187.57:80/PLTV/88888888/224/3221226193/1.m3u8
 CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225774/1.m3u8
+CCTV13,http://39.135.133.172/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8?
 
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 浙江卫视,http://221.2.102.42:8888/newlive/live/hls/24/live.m3u8
@@ -133,6 +168,9 @@ CCTV13,http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221225774/1.m3u8
 
 常山新闻,http://play-sh11.quklive.com/live/1621306190044902.m3u8
 衢州新闻,https://recordcdn.quklive.com/broadcast/activity/1676023284535369/record.m3u8
+衢江新闻,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+开化新闻,http://l.cztvcloud.com/channels/lantian/SXkaihua1/720p.m3u8
+龙游新闻,http://l.cztvcloud.com/channels/lantian/SXlongyou1/720p.m3u8
 
 EZTV1台,http://vvlive.eztv.vip:80/huawen1/huawen1.m3u8?auth_key=1661769627-0-0-3a16475ac0fa2a152a25661e8634fe39
 EZTV2台,http://vvlive.eztv.vip:80/huawen2/huawen2.m3u8?auth_key=1661418936-0-0-bc9f000c6daa2def0b71d5389778b0d3
