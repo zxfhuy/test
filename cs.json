@@ -294,25 +294,7 @@
         "name": "📺央视接口6",
         "type": 3,
         "api": "./js/cntv_open.js"
-    },
-
-{"key":"*博天堂","name":"👑博天★堂","type": 0,"api":"http://bttcj.com/inc/sapi.php","searchable":0,"quickSearch":0,"filterable": 0,"jar":"./18.jar"},
-{"key":"金鹰伦理","name":"👑金鹰伦理","type": 0,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"卧龙资源","name":"👑卧龙伦理","type":0,"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/","playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url=","searchable":1,"quickSearch":1,"filterable": 0},
-{"key":"新浪资源","name":"👑新浪伦理","type":1,"api":"https://api.xinlangapi.com/xinlangapi.php/provide/vod","playUrl":"https://www.xinlangjiexi.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"百度伦理","name":"👑百度伦理","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod","playUrl":"https://jx.jxbdzyw.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"非凡资源","name":"👑非凡伦理","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"https://ffzyplayer.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"光速伦理","name":"👑光速伦理","type":1,"api":"https://api.guangsuapi.com/api.php/provide/vod","playUrl":"https://www.guangsujx.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"1080福利","name":"👑1080福利","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"量子伦理","name":"👑量子伦理","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"红牛伦理","name":"👑红牛伦理","type":1,"api":"https://www.hongniuzy2.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"U酷伦理","name":"👑U酷伦理","type":1,"api":"https://api.ukuapi.com/api.php/provide/vod","playUrl":"https://api.ukubf.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"闪电伦理","name":"👑闪电伦理","type": 0,"api":"http://sdzyapi.com/api.php/provide/vod","playUrl":"https://www.shankubf.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"快车资源","name":"👑宝盒伦理","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"00无尽资源","name":"👑无尽伦理","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jx.wujinkk.com/dplayer/?url="},
-{"key":"csp_appysv2_天天视频","name":"👑午夜剧场","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"}, 	
-{"key":"樱花资源","name":"👑樱花伦理","type":1,"api":"https://m3u8.apiyhzy.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"*速度资源","name":"*速度资源","type":0,"api":"http://www.ggmmzy.com:9999/inc/xml","searchable":0,"quickSearch":0}
+    }
   ],
 "parses": [
     {
