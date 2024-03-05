@@ -49,7 +49,6 @@
 {"key":"酷我短剧","name": "🔥酷我","type": 3,"api": "./js/kuwo_open.js"},
 {"key": "玄天影视","name": "🔥玄天","type": 3,"api": "./js/yjys_open.js"},
 {"key": "南瓜","name":"🔥南瓜","type":3,"api":"./js/ng_open.js"},
-{"key": "AppYs_南瓜","name": "🎇南瓜1","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 {"key": "我的哔哩","name": "🔥哔哩","type": 3,"api": "./js/mybili_open.js"}, 
 {"key": "武享UFC","name": "🔥UFC","type": 3,"api": "./js/ufc_open.js"},
 {"key": "武享吧","name": "🔥武享吧","type": 3,"api": "./js/hula8_open.js"},
