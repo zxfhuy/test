@@ -3,7 +3,7 @@
   "spider":"./Xiaoh.jar",
   "spider":"./pg.jar",
   "spider":"./18.jar",
-  "spider":"./2007.jar",
+  "spider":"./cili.jar",
  //"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96eGZodXkubmVvY2l0aWVzLm9yZy8wMDEvbGl2ZS9kc2ozLjAuanNvbg=="]}]}],
  //"lives":[{"name":"live","type":0,"url":"http://sx.liuyun.wang:88/zb.txt","playerType":1,"epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png" }],
    "lives":[{"name":"live","type":0,"url":"https://zxfhuy.neocities.org/001/live/dsj3.0.json","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
