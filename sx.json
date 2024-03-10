@@ -1,5 +1,7 @@
 {
   "wallpaper":"http://sx.liuyun.wang:88/bizhi.php",
+  "spider":"./ts.jar",
+  "spider":"./sx.jar",
   "spider":"./ys1211.jar",
   "spider":"./zxfhuy.jar",
   "lives":[{"name":"live","type":0,"url":"https://cdn.jsdelivr.net/gh/zxfhuy/test@master/tv/tv.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
@@ -9,7 +11,7 @@
 "sites":[
     {
       "key": "csp_Bili",
-      "name": "哔哩 | 哔哩",
+      "name": "🔥哔哩",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 1,
@@ -19,21 +21,21 @@
     },
     {
       "key": "网飞影视",
-      "name": "影视 | 网飞",
+      "name": "🔥网飞",
       "type": 3,
       "api": "./drpy2.min.js",
       "ext": "./js/网飞TV.js"
     },
     {
       "key": "追剧迷",
-      "name": "影视 | 追剧迷",
+      "name": "🔥追剧",
       "type": 3,
       "api": "./drpy2.min.js",
       "ext": "./js/追剧迷.js"
     },
     {
       "key": "海兔",
-      "name": "影视 | 海兔影院",
+      "name": "🔥海兔",
       "type": 3,
       "api": "./sx.jar",
       "filterable": 1,
@@ -43,7 +45,7 @@
     },
     {
       "key": "无心影视",
-      "name": "影视 | 无心影视",
+      "name": "🔥无心",
       "type": 3,
       "api": "./sx.jar",
       //"api": "csp_XBPQ",
