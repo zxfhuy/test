@@ -1,10 +1,8 @@
 {
   "wallpaper":"http://sx.liuyun.wang:88/bizhi.php",
   "spider":"./sx.jar",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/Yoursmile2.jar",
-  "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxfhuy/test/main/Xiaoh.jar",
-  "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxfhuy/test/main/pg.jar",
-  "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxfhuy/test/main/18.jar",
+  "spider":"./Xiaoh.jar",
+  "spider":"./18.jar",
   "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxfhuy/test/main/cili.jar",
  
   "lives":[{"name":"live","type":0,"url":"https://cdn.jsdelivr.net/gh/zxfhuy/test@master/tv/tv.m3u","playerType":1,"ua":"okhttp/3.15","epg":"http://diyp.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
