@@ -188,16 +188,16 @@
 {"key":"hav","name":"🔞黄艾薇","type":0,"api":"https://www.pgxdy.com/api/xml.php","searchable":1,"changeable":1},
 {"key":"afasu","name":"🔞小湿妹","type": 0,"api":"https://www.afasu.com/api/xml.php","searchable":1,"quickSearch":1,"filterable":1}
   ],
-"parses": [
+  "parses": [
     {
-      "name":"并发",
+      "name": "并发",
       "type": 3,
-      "url":"Demo"
+      "url": "Demo"
     },
     {
-      "name":"聚合",
+      "name": "聚合",
       "type": 3,
-      "url":"Web"
+      "url": "Web"
     },
     {
       "name": "神仙解析1",
@@ -299,129 +299,8 @@
         "#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+"
       ]
     },
-    {"name":"主解析1","type": 0,"url":"https://jx.xmflv.cc/?url="},
-    {"name":"主解析2","type": 0,"url":"https://jx.777jiexi.com/player/?url="},
     {
-      "name":"主解析3",
-      "type": 0,
-      "url":"https://jx.jsonplayer.com/player/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent":"okhttp/4.1.0"
-        }
-      }
-    },
-    {
-      "name":"主解析4",
-      "url":"https://www.ckplayer.vip/jiexi/?url=",
-      "showType": 1
-    },
-    {
-      "name":"主解析5",
-      "type": 0,
-      "url":"https://www.yemu.xyz/?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "优酷",
-          "mgtv",
-          "芒果",
-          "letv",
-          "乐视",
-          "pptv",
-          "PPTV",
-          "sohu",
-          "bilibili",
-          "哔哩哔哩",
-          "哔哩"
-        ],
-        "header": {
-          "User-Agent":"okhttp/4.1.0"
-        }
-      }
-    },
-    {"name":"主解析6","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
-    {"name":"主解析7","type": 0,"url":"https://jy3.wevip.cc/?url="},
-    {"name":"主解析8","type": 0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
-
-{"name":"影视解析1","type": 1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
-{"name":"影视解析2","type": 1,"url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
-{"name":"影视解析4","type": 1,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"影视解析5","type": 1,"url":"https://jx.nnxv.cn/tv.php?url="},
-{"name":"影视解析6","type": 1,"url":"https://www.yemu.xyz/?url="},
-{"name":"影视解析7","type": 1,"url":"https://www.dmplay.xyz/d?url="},
-{"name":"影视解析8","type": 1,"url":"https://jx.m3u8.tv/jiexi/?url="},
-
-{"name":"蓝光秒播","type":1,"url":"http://43.143.107.57:417/api/?key=73259318e3d893e5b73fd87f20fbc2f7&url=","ext":{"flag":["qq","qiyi","mgtv","youku","letv","sohu","xigua","1905","优播线路","腾播线路"],"header":{"User-Agent":"Dart/2.14 (dart:io)"}}},
-
-{"name":"🐱1号","type": 0,"url":"https://yparse.ik9.cc/index.php?url=","ext": {"flag": [ "qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua", "1905"]}},
-{"name":"🐱2号","type": 0,"url":"https://vip.lianfaka.com/vip/?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header": {"User-Agent":"okhttp/4.1.0"}}},
-{"name":"🐱3号","type": 0, "url":"https://jx.777jiexi.com/player/?url=" },
-{"name":"🐱4号","type": 0, "url":"https://www.8090g.cn/?url="},
-{"name":"🐱5号","type": 0,"url":"https://www.pouyun.com/?url="},
-{"name":"🐱6号","type": 0,"url":"https://api.jiexi.la/?url="},
-{"name":"🐱7号","type": 0,"url":"https://www.pangujiexi.com/pangu/?url="},
-{"name":"🐱8号","type": 0,"url":"https://parse.mw0.cc/?url="},
-{"name":"🐱9号","type": 0,"url":"https://jx.iztyy.com/svip/?url="},
-{"name":"🐱10号","type": 0,"url":"https://jx.ppflv.com/?url="},
-{"name":"🐱11号","type": 0,"url":"https://jx.m3u8.tv/jiexi/?url="},
-{"name":"🐱12号","type": 0,"url":"https://www.ckplayer.vip/jiexi/?url="},
-{"name":"🐱13号","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
-{"name":"🐱14号","type": 0,"url":"https://jx.bozrc.com:4433/player/?url="},
-{"name":"🐱25号","type": 0,"url":"http://www.sfsft.com/admin.php?url="},
-{"name":"🐱15号","type": 0,"url":"https://jx.parwix.com:4433/player/analysis.php?v=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"🐱16号","type": 0,"url":"https://www.nxflv.com/?url="},
-{"name":"🐱17号","type": 0,"url":"https://www.yemu.xyz/?url=","ext": {"flag": ["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-{"name":"🐱18号","type": 0,"url":"https://jx.zhanlangbu.com/?url=","ext": {"header": {"User-Agent":"okhttp/4.1.0"},"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"]}},
-
-    {
-      "name":"解析1",
-      "type": 0,
-      "url":"https://xcqq.vip/api/?type=app&key=AYUEMgpSnGJNHbmSNn&url="
-    }
-  ],
-  "rules": [
-    {
-      "name":"非凡量子暴风",
-      "hosts": [
-        "vip.ffzy",
-        "hd.ffzy",
-        "vip.lz",
-        "hd.lz",
-        ".cdnlz",
-        "bfzy"
-      ],
-      "regex": [
-        "#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+",
-        "#EXTINF.*?\\s+.*?11697777.*?\\.ts\\s+"
-      ]
-    },
-    {
-      "name":"索尼广告",
+      "name": "索尼广告",
       "hosts": [
         "suonizy"
       ],
@@ -433,7 +312,7 @@
       ]
     },
     {
-      "name":"火山嗅探",
+      "name": "火山嗅探",
       "hosts": [
         "huoshan.com"
       ],
@@ -442,7 +321,7 @@
       ]
     },
     {
-      "name":"抖音嗅探",
+      "name": "抖音嗅探",
       "hosts": [
         "douyin.com"
       ],
@@ -453,16 +332,16 @@
   ],
   "doh": [
     {
-      "name":"AdGuard",
-      "url":"https://dns.adguard.com/dns-query",
+      "name": "AdGuard",
+      "url": "https://dns.adguard.com/dns-query",
       "ips": [
         "94.140.14.140",
         "94.140.14.141"
       ]
     },
     {
-      "name":"Cloudflare",
-      "url":"https://cloudflare-dns.com/dns-query",
+      "name": "Cloudflare",
+      "url": "https://cloudflare-dns.com/dns-query",
       "ips": [
         "1.1.1.1",
         "1.0.0.1",
@@ -471,24 +350,24 @@
       ]
     },
     {
-      "name":"DNSWatch",
-      "url":"https://resolver2.dns.watch/dns-query",
+      "name": "DNSWatch",
+      "url": "https://resolver2.dns.watch/dns-query",
       "ips": [
         "84.200.69.80",
         "84.200.70.40"
       ]
     },
     {
-      "name":"Google",
-      "url":"https://dns.google/dns-query",
+      "name": "Google",
+      "url": "https://dns.google/dns-query",
       "ips": [
         "8.8.4.4",
         "8.8.8.8"
       ]
     },
     {
-      "name":"Quad9",
-      "url":"https://dns.quad9.net/dns-quer",
+      "name": "Quad9",
+      "url": "https://dns.quad9.net/dns-quer",
       "ips": [
         "9.9.9.9",
         "149.112.112.112"
@@ -532,172 +411,172 @@
   ],
   "ijk": [
     {
-      "group":"软解码",
+      "group": "软解码",
       "options": [
         {
           "category": 4,
-          "name":"opensles",
-          "value":"0"
+          "name": "opensles",
+          "value": "0"
         },
         {
           "category": 4,
-          "name":"overlay-format",
-          "value":"842225234"
+          "name": "overlay-format",
+          "value": "842225234"
         },
         {
           "category": 4,
-          "name":"framedrop",
-          "value":"1"
+          "name": "framedrop",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"soundtouch",
-          "value":"1"
+          "name": "soundtouch",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"start-on-prepared",
-          "value":"1"
+          "name": "start-on-prepared",
+          "value": "1"
         },
         {
           "category": 1,
-          "name":"http-detect-range-support",
-          "value":"0"
+          "name": "http-detect-range-support",
+          "value": "0"
         },
         {
           "category": 1,
-          "name":"fflags",
-          "value":"fastseek"
+          "name": "fflags",
+          "value": "fastseek"
         },
         {
           "category": 2,
-          "name":"skip_loop_filter",
-          "value":"48"
+          "name": "skip_loop_filter",
+          "value": "48"
         },
         {
           "category": 4,
-          "name":"reconnect",
-          "value":"1"
+          "name": "reconnect",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"max-buffer-size",
-          "value":"5242880"
+          "name": "max-buffer-size",
+          "value": "5242880"
         },
         {
           "category": 4,
-          "name":"enable-accurate-seek",
-          "value":"0"
+          "name": "enable-accurate-seek",
+          "value": "0"
         },
         {
           "category": 4,
-          "name":"mediacodec",
-          "value":"0"
+          "name": "mediacodec",
+          "value": "0"
         },
         {
           "category": 4,
-          "name":"mediacodec-auto-rotate",
-          "value":"0"
+          "name": "mediacodec-auto-rotate",
+          "value": "0"
         },
         {
           "category": 4,
-          "name":"mediacodec-handle-resolution-change",
-          "value":"0"
+          "name": "mediacodec-handle-resolution-change",
+          "value": "0"
         },
         {
           "category": 4,
-          "name":"mediacodec-hevc",
-          "value":"0"
+          "name": "mediacodec-hevc",
+          "value": "0"
         },
         {
           "category": 1,
-          "name":"dns_cache_timeout",
-          "value":"600000000"
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
       ]
     },
     {
-      "group":"硬解码",
+      "group": "硬解码",
       "options": [
         {
           "category": 4,
-          "name":"opensles",
-          "value":"0"
+          "name": "opensles",
+          "value": "0"
         },
         {
           "category": 4,
-          "name":"overlay-format",
-          "value":"842225234"
+          "name": "overlay-format",
+          "value": "842225234"
         },
         {
           "category": 4,
-          "name":"framedrop",
-          "value":"1"
+          "name": "framedrop",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"soundtouch",
-          "value":"1"
+          "name": "soundtouch",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"start-on-prepared",
-          "value":"1"
+          "name": "start-on-prepared",
+          "value": "1"
         },
         {
           "category": 1,
-          "name":"http-detect-range-support",
-          "value":"0"
+          "name": "http-detect-range-support",
+          "value": "0"
         },
         {
           "category": 1,
-          "name":"fflags",
-          "value":"fastseek"
+          "name": "fflags",
+          "value": "fastseek"
         },
         {
           "category": 2,
-          "name":"skip_loop_filter",
-          "value":"48"
+          "name": "skip_loop_filter",
+          "value": "48"
         },
         {
           "category": 4,
-          "name":"reconnect",
-          "value":"1"
+          "name": "reconnect",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"max-buffer-size",
-          "value":"5242880"
+          "name": "max-buffer-size",
+          "value": "5242880"
         },
         {
           "category": 4,
-          "name":"enable-accurate-seek",
-          "value":"0"
+          "name": "enable-accurate-seek",
+          "value": "0"
         },
         {
           "category": 4,
-          "name":"mediacodec",
-          "value":"1"
+          "name": "mediacodec",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"mediacodec-auto-rotate",
-          "value":"1"
+          "name": "mediacodec-auto-rotate",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"mediacodec-handle-resolution-change",
-          "value":"1"
+          "name": "mediacodec-handle-resolution-change",
+          "value": "1"
         },
         {
           "category": 4,
-          "name":"mediacodec-hevc",
-          "value":"1"
+          "name": "mediacodec-hevc",
+          "value": "1"
         },
         {
           "category": 1,
-          "name":"dns_cache_timeout",
-          "value":"600000000"
+          "name": "dns_cache_timeout",
+          "value": "600000000"
         }
       ]
     }
