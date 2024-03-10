@@ -1,9 +1,7 @@
 {
-  "spider": "https://qixing.myhkw.com/tianwei/fty.jar;md5;5aee1ff968a3dc5cbbf225399e9441e9",
-  "spider":"https://cdn.gitmirror.com/gh/zxfhuy/test/main/Yoursmile2.jar",
-  "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxfhuy/test/main/Xiaoh.jar",
-  "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxfhuy/test/main/pg.jar",
-  "spider":"https://github.moeyy.xyz/https://raw.githubusercontent.com/zxfhuy/test/main/18.jar",
+  "spider":"./ffty.jar",
+  "spider":"./pg.jar",
+  "spider":"./18.jar",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
    "lives": [
         {
