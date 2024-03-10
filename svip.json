@@ -14,7 +14,7 @@
   "sites": [
              {
             "key": "天天",
-            "name": "🐉┃天天秒播┃",
+            "name": "🔥天天",
             "type": 3,
             "api": "csp_TTian",
             "jar": "http://tc.feixunline.cn/down.php/2e85feb2888d9efb5b396258f22841ac.jar",
@@ -23,7 +23,7 @@
         },
     {
       "key": "贱贱",
-      "name": "🐉┃荐片影视┃",
+      "name": "🔥荐片",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -33,49 +33,11 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jp.js"
     },
     {
-      "key": "drpy_js_360影视",
-      "name": "🐉┃360 官源┃",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/360影视.js"
-    },
-    {
-      "key": "drpy_js_奇珍异兽",
-      "name": "🐉┃奇艺官源┃",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/奇珍异兽.js"
-    },
-    {
-      "key": "drpy_js_优酷",
-      "name": "🐉┃优酷官源┃",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/优酷.js"
-    },
-    {
-      "key": "drpy_js_百忙无果",
-      "name": "🐉┃芒果官源┃",
-      "type": 3,
-      "api": "./lib/drpy2.min.js",
-      "ext": "./lib/百忙无果.js"
-    },
-    {
-      "key": "南瓜",
-      "name": "🐉┃南瓜秒播┃",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1
-    },
-    {
       "key": "drpy_js_网飞.TV",
-      "name": "🐉┃网飞影视┃",
+      "name": "🔥网飞",
       "type": 3,
-      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
-      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
+      "api": "./drpy2.min.js",
+      "ext": "./js/网飞.TV.js"
     },
     {
             "key": "T4-duanju",
@@ -90,12 +52,12 @@
     },
     {
       "key": "xyyy",
-      "name": "🐉┃小姨音乐┃",
+      "name": "🔥小姨",
       "type": 4,"api": "https://catbox.n13.club/wy.php"
     },
     {
       "key": "49zy",
-      "name": "🐉┃狮鹫秒播┃",
+      "name": "🔥秒播",
       "type": 1,
       "api": "https://49zyw.com/api.php/provide/vod/?ac=list",
       "searchable": 1,
