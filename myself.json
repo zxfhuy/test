@@ -12,6 +12,13 @@
       "ext": "http://yingszj.xn--654a.cc/api.php/app/"
     },
     {
+      "key": "drpy_js_网飞.TV",
+      "name": "🅱️网飞",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/网飞.TV.js"
+    },
+    {
       "key": "新浪",
       "name": "💯新浪",
       "type": 1,
@@ -142,7 +149,7 @@
     },
     {
       "key": "T4-duanju5",
-      "name": "💯短剧屋",
+      "name": "💯短剧",
       "type": 4,
       "api": "https://catbox.n13.club/duanju5.php",
       "searchable": 1,
@@ -185,7 +192,7 @@
       "url": "https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
     },
     {
-      "name": "神仙解析3",
+      "name": "🅱️神仙解析3",
       "type": 1,
       "url": "https://jx.xyflv.cc/?url="
     },
