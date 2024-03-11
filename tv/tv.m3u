@@ -206,16 +206,13 @@ HKS卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.h
 澳门Macau,http://61.244.22.5/ch3/ch3.live/chunklist_w1228316132.m3u8
 
 4FUNTV,https://stream.4fun.tv:8888/hls/4f.m3u8
-电影RU1,https://edge.vedge.infomaniak.com/livecast/ik:event/.m3u8
-电影RU2,https://edge.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
-电影RU3,https://edge.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
-电影RU4,https://edge.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
+电影RU1,https://edge13.vedge.infomaniak.com/livecast/ik:event/.m3u8
+电影RU2,https://edge13.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8
+电影RU3,https://edge13.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8
+电影RU4,https://edge13.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8
 
 东方卫视,http://61.51.122.50:8888/newlive/live/hls/36/live.m3u8
 东方卫视,http://39.134.67.110/PLTV/88888888/224/3221225960/1.m3u8
-江西卫视,http://120.196.232.37:8088/wh7f454c46tw3619188686_-1687250626/000000001001PLTV/651/224/3221227581/1.m3u8?HlsProfileId=&icpid=13&RTS=1705393398&from=38&hms_devid=2247&online=1705393398&vqe=3
-湾湾八TV,https://live-streams-ssai-01.tonton.com.my/live/a884c33b-6b11-4433-8bf9-a8899939e224/live.isml/.m3u8
-NHK世界,https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛新闻,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 
