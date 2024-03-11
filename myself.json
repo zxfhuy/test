@@ -1,7 +1,7 @@
 {
   "spider": "./pg.jar",
   "sites": [
-     {
+   {
       "key": "鑫鑫影视",
       "name": "🥇鑫鑫",
       "type": 3,
@@ -91,7 +91,7 @@
       "searchable": 1,
       "changeable": 1
     },
-        {
+    {
       "key": "量子",
       "name": "💯量子",
       "type": 1,
