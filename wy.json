@@ -227,13 +227,12 @@
 {"key":"贝乐虎","name":"🥇贝乐虎","type":3,"api":"./js/ubestkid_open.js"},  
 {"key":"贝乐虎","name":"🥇贝乐虎","type":3,"api":"./js/boosj_open.js"}, 
 {"key":"素白白","name":"🥇素白白","type":3,"api":"./js/subaibai_open.js"},
-{"key":"一起看","name":"🅱一起看","type":3,"api":"./js/drpy2.min.js","ext":"./js/yqktv_open.js"},
-{"key":"聚视网","name":"🌏️央视","type":3,"api":"./js/cntv_open.js"},
+{"key":"聚视网","name":"🅱央视","type":3,"api":"./js/cntv_open.js"},
 {"key":"cctv","name":"📲cctv","type":4,"api":"https://catbox.n13.club/cctv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
 
-{"key":"djwuqu","name":"📲综合","type":4,"api":"./cctvpy/cctv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
-{"key":"djwuqu1","name":"📲音乐","type":4,"api":"https://catbox.n13.club/yy.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
-{"key":"djwuqu2","name":"📲mtv","type":4,"api":"https://catbox.n13.club/mv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
+//{"key":"djwuqu","name":"🌏️综合","type":4,"api":"./cctvpy/cctv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
+//{"key":"djwuqu1","name":"📲音乐","type":4,"api":"https://catbox.n13.club/yy.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
+//{"key":"djwuqu2","name":"📲mtv","type":4,"api":"https://catbox.n13.club/mv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
 
 {"key":"酷我短剧","name":"📲酷我","type":3,"api":"./js/kuwo_open.js"}, 
 {"key":"虎牙直播","name":"📲虎牙","type":3,"api":"./js/huya_open.js","ext":{"from": "official","custom": "2135,一起看#6245,放映厅"}},
