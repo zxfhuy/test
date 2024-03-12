@@ -247,7 +247,7 @@
     {
       "name":"live.ipv6",
       "type": 0,
-      "url":"http://home.jundie.top:81/Cat/tv/live.txt",
+      "url":"https://qixing.myhkw.com/tianwei/lives/live.txt",
       "playerType":1,
       "ua":"okhttp/3.15",
       "epg":"http://epg.112114.xyz/?ch={name}&date={date}",
