@@ -10,7 +10,7 @@
       "name":"💯网飞",
       "type": 3,
       "api":"./drpy2.min.js",
-      "ext":"./js/网飞.TV.js"
+      "ext":"./js/网飞TV.js"
     },
     {
       "key":"Czsapp",
