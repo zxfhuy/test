@@ -4,7 +4,8 @@
   "spider":"./sx.jar",
  
   "sites": [
-    {"key":"我的哔哩","name":"🅱️哔哩","type":3,"api":"./js/mybili_open.js"},
+	{"key":"我的哔哩","name":"🅱️哔哩","type":3,"api":"./js/mybili_open.js"},
+
     {
       "key":"drpy_js_网飞.TV",
       "name":"🅱️网飞",
@@ -221,17 +222,18 @@
 {"key":"人人影视","name":"🥇人人","type":3,"api":"./js/rttks_open.js"}, 
 {"key":"996影视","name":"🥇996","type":3,"api":"./js/ys996_open.js"},
 {"key":"南瓜","name":"🥇南瓜","type":3,"api":"./js/ng_open.js"},
-{"key":"xyyy","name":"🥇音乐","type":4,"api":"https://catbox.n13.club/wy.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
 {"key":"爱动漫","name":"🥇动漫","type":3,"api":"./js/adm_open.js"},
 {"key":"兔小贝","name":"🥇兔小贝","type":3,"api":"./js/tuxiaobei_open.js"}, 
 {"key":"贝乐虎","name":"🥇贝乐虎","type":3,"api":"./js/ubestkid_open.js"},  
 {"key":"贝乐虎","name":"🥇贝乐虎","type":3,"api":"./js/boosj_open.js"}, 
 {"key":"素白白","name":"🥇素白白","type":3,"api":"./js/subaibai_open.js"},
-{"key":"一起看","name":"🥇一起看","type":3,"api":"./js/yqktv_open.js"},
+{"key":"一起看","name":"🅱一起看","type":3,"api":"./js/drpy2.min.js","ext":"./js/yqktv_open.js"},
 {"key":"聚视网","name":"🌏️央视","type":3,"api":"./js/cntv_open.js"},
+{"key":"cctv","name":"📲cctv","type":4,"api":"https://catbox.n13.club/cctv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
+{"key":"djwuqu","name":"📲音乐","type":4,"api":"https://catbox.n13.club/yy.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
 {"key":"酷我短剧","name":"📲酷我","type":3,"api":"./js/kuwo_open.js"}, 
 {"key":"虎牙直播","name":"📲虎牙","type":3,"api":"./js/huya_open.js","ext":{"from": "official","custom": "2135,一起看#6245,放映厅"}},
-{"key":"哔哩直播","name":"🅱直播","type":3,"api":"./js/bililive_open.js","ext":{ "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"}}, 
+{"key":"哔哩直播","name":"📲直播","type":3,"api":"./js/bililive_open.js","ext":{ "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;"}}, 
 
 {"key":"1","name":"---🇨🇳视听分割线🇨🇳---","type":0,"api":""},
 
@@ -372,12 +374,87 @@
       "url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
     },
     {
-      "name":"🅱️神仙解析5",
+      "name":"🅱️福英解析5",
       "type":1,
       "url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
     },
+    {"name":"🅱️福英解析6","type": 0,"url":"https://vip.bljiex.com/?v="},
+    {"name":"🅱️福英解析7","type": 0,"url":"https://jx.777jiexi.com/player/?url="},
     {
-      "name":"🅱️福英解析6",
+      "name":"🅱️福英解析8",
+      "type": 0,
+      "url":"https://jx.jsonplayer.com/player/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent":"okhttp/4.1.0"
+        }
+      }
+    },
+    {
+      "name":"🅱️福英解析9",
+      "url":"https://www.ckplayer.vip/jiexi/?url=",
+      "showType": 1
+    },
+    {
+      "name":"🅱️福英解析10",
+      "type": 0,
+      "url":"https://www.yemu.xyz/?url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "mgtv",
+          "芒果",
+          "letv",
+          "乐视",
+          "pptv",
+          "PPTV",
+          "sohu",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩"
+        ],
+        "header": {
+          "User-Agent":"okhttp/4.1.0"
+        }
+      }
+    },
+    {"name":"🅱️福英解析11","type": 0,"url":"https://jx.jsonplayer.com/player/?url="},
+    {"name":"🅱️福英解析12","type": 0,"url":"https://jy3.wevip.cc/?url="},
+    {"name":"🅱️福英解析13","type": 0,"url":"https://www.playm3u8.cn/jiexi.php?url="},
+    {"name":"🅱️福英解析14","type": 1,"url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="},
+    {"name":"🅱️福英解析15","type": 1,"url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="},
+    {"name":"🅱️福英解析16","type": 1,"url":"https://jx.m3u8.tv/jiexi/?url="},
+    {"name":"🅱️福英解析17","type": 1,"url":"https://jx.nnxv.cn/tv.php?url="},
+    {"name":"🅱️福英解析18","type": 1,"url":"https://www.yemu.xyz/?url="},
+    {"name":"🅱️福英解析19","type": 1,"url":"https://www.dmplay.xyz/d?url="},
+    {"name":"🅱️福英解析20","type": 1,"url":"https://jx.m3u8.tv/jiexi/?url="},
+    {
+      "name":"🅱️福英解析21",
       "type": 0,
       "url":"https://xcqq.vip/api/?type=app&key=AYUEMgpSnGJNHbmSNn&url="
     }
