@@ -5,18 +5,24 @@
   "spider":"./sx.jar",
  
   "sites": [
-	{"key":"我的哔哩","name":"🅱️哔哩","type":3,"api":"./js/mybili_open.js"},
-
+    {"key":"我的哔哩","name":"🅱️哔哩","type":3,"api":"./js/mybili_open.js"},
     {
       "key":"drpy_js_网飞.TV",
-      "name":"💯网飞",
+      "name":"🅱️网飞",
       "type": 3,
       "api":"./drpy2.min.js",
-      "ext":"./js/网飞.TV.js"
+      "ext":"./js/网飞TV.js"
+    },
+    {
+      "key":"drpy_js_追剧迷",
+      "name":"🅱️剧迷",
+      "type": 3,
+      "api":"./drpy2.min.js",
+      "ext":"./js/追剧迷.js"
     },
     {
       "key":"Czsapp",
-      "name":"💯厂长",
+      "name":"🅱️厂长",
       "type": 3,
       "api":"csp_Czsapp",
       "playerType": 2,
