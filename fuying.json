@@ -9,7 +9,7 @@
   "spider":"./zxfhuy.jar",
   
    "lives": [
-        {
+    {
             "name": "live",
             "type": 0,
             "url": "https://cdn.jsdelivr.net/gh/zxfhuy/test@master/tv/tv.m3u",
@@ -178,7 +178,7 @@
                 "恐怖片",
                 "动作片"
             ]
-        },
+    },
     {
       "key": "车妹",
       "name": "🐉┃车妹秒播┃",
@@ -210,7 +210,7 @@
       "changeable": 1,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
     },
-        {
+    {
       "key": "嘿嘿",
       "name": "🐉┃嘿嘿秒播┃",
       "type": 3,
@@ -628,8 +628,8 @@
 {
 "key": "dr_码上看大师兄",
 "name": "🐉┃大师兄源┃",
-"type": 3
-, "api": "./js/merge.min.js",
+"type": 3,
+"api": "./js/merge.min.js",
 "searchable": 1,
 "playerType": 2,
 "quickSearch": 1,
@@ -639,149 +639,15 @@
 {
 "key": "dr_码上看中国人",
 "name": "🐉┃國人影视┃",
-"type": 3
-, "api": "./js/merge.min.js",
-"searchable": 1
-, "playerType": 2,
+"type": 3,
+"api": "./js/merge.min.js",
+"searchable": 1,
+"playerType": 2,
 "quickSearch": 1,
 "filterable": 1, 
 "ext": "./js/中国人.js"
 },
-    {
-      "key": "L88js",
-      "name": "🐉┃LIVE看球┃",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "看球",
-      "name": "🐉┃直播看球┃",
-      "type": 3,
-      "api": "csp_Kanqiu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "gridview": 3,
-      "style": {
-        "type": "list"
-      },
-      "jar": "http://like.xn--z7x900a.live:66/jar/fatcat.jar;md5;759ab954144e25402ba2cc5ee6c6c16a"
-    },
-    {
-      "key": "csp_qiumi",
-      "name": "🐉┃Jrs 球迷┃",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/jrk.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_310直播",
-      "name": "🐉┃310 看球┃",
-      "type": 3,
-      "api": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/drpy2.min.js",
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/310直播.js",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "key": "csp_XPath_企鹅体育",
-      "name": "🐉┃企鹅体育┃",
-      "type": 3,
-      "api": "csp_XPath",
-      "style": {
-        "type": "list"
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/企鹅直播.json"
-    },
-    {
-      "key": "相声",
-      "name": "🐉┃相声BPQ┃",
-      "type": 3,
-      "searchable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "quickSearch": 0,
-      "api": "csp_XBPQ",
-      "jar": "./js/c.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-      "ext": {
-        "主页url": "https://www.xsmp3.com",
-        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-        "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
-        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
-        "标题": "title=\"&&\"",
-        "副标题": ">&&</a",
-        "链接": "href=\"&&\"",
-        "播放二次截取": "autoplay&&;</script>",
-        "播放数组": "\\[&&\\]",
-        "播放列表": "{&&}",
-        "播放链接": "url*\"&&\"",
-        "播放标题": "name*\"&&\"",
-        "播放副标题": "artist*\"&&\"",
-        "线路数组": "相声随身听",
-        "线路标题": "相声随身听",
-        "导演": "小米",
-        "主演": "相声明星",
-        "简介": "相声合集",
-        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
-        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
-      }
-    },
-    {
-      "key": "评书",
-      "name": "🐉┃评书BPQ┃",
-      "type": 3,
-      "searchable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "quickSearch": 0,
-      "api": "csp_XBPQ",
-      "jar": "./js/c.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-      "ext": {
-        "主页url": "https://www.psmp3.com",
-        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-        "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
-        "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
-        "标题": "title=\"&&\"",
-        "副标题": ">&&</a",
-        "链接": "href=\"&&\"",
-        "播放二次截取": "autoplay&&;</script>",
-        "播放数组": "\\[&&\\]",
-        "播放列表": "{&&}",
-        "播放链接": "url*\"&&\"",
-        "播放标题": "name*\"&&\"",
-        "播放副标题": "artist*\"&&\"",
-        "线路数组": "评书随身听",
-        "线路标题": "评书随身听",
-        "导演": "小米",
-        "主演": "评书明星",
-        "简介": "评书合集",
-        "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
-        "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
-      }
-    },
+
     {
       "key": "YiSo",
       "name": "🐉┃易搜4K搜┃",
@@ -851,71 +717,6 @@
       "filterable": 0,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "Bili",
-      "name": "🐉┃哔哔合集┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-    },
-    {
-      "key": "少儿教育",
-      "name": "🐉┃少儿教育┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./js/少儿教育.json"
-    },
-    {
-      "key": "小学课堂",
-      "name": "🐉┃小学课堂┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./js/小学课堂.json"
-    },
-    {
-      "key": "初中课堂",
-      "name": "🐉┃初中课堂┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./js/初中课堂.json"
-    },
-    {
-      "key": "高中教育",
-      "name": "🐉┃高中课堂┃",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0,
-      "ext": "./js/高中课堂.json"
     },
   {"key":"新浪资源","name":"🔥新浪","type":1,"api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
 {"key":"八戒资源","name":"🔥八戒","type":1,"api":"http://cj.bajiecaiji.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
