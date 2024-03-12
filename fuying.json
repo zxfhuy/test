@@ -1,5 +1,6 @@
 {
-  "spider":"./pg.jar",
+  "spider":"./ts.jar",
+  "spider":"./sx.jar",
   "sites": [
     {"key":"豆豆","name":"💯豆豆","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable": 0},
 	{"key":"我的哔哩","name":"💯哔哩","type":3,"api":"./js/mybili_open.js"},
