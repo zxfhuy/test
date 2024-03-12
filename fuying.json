@@ -218,8 +218,6 @@
 
 {"key":"玄天影视","name":"🥇玄天","type":3,"api":"./js/yjys_open.js"},
 {"key":"畅梦","name":"🥇畅梦","type":3,"api":"./js/drpy2.min.js","ext":"./js/changmeng.js"},
-{"key":"drpy_js_百忙无果","name":"🥇忙果","type":3,"api":"./js/drpy2.min.js","ext":"./js/4mg.js"},
-{"key":"drpy_js_菜狗","name":"🥇搜狗","type":3,"api":"./js/drpy2.min.js","ext":"./js/5sg.js"},
 {"key":"drpy_js_酷云七七","name":"🥇酷云","type":3,"api":"./js/drpy2.min.js","ext":"./js/6qq.js"},
 {"key":"drpy_js_凌云影视","name":"🥇凌云","type":3,"api":"./js/drpy2.min.js","ext":"./js/7ly.js"},
 {"key":"drpy_js_9U电影","name":"🥇89U","type":3,"api":"./js/drpy2.min.js","ext":"./js/89U.js"},
