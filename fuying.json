@@ -264,42 +264,96 @@
   ],
   "parses": [
     {
-      "name":"聚合1",
+      "name": "聚合1",
       "type": 3,
-      "url":"Demo"
+      "url": "Demo"
     },
     {
-      "name":"聚合0",
+      "name": "聚合0",
       "type": 3,
-      "url":"Web"
+      "url": "Web"
+    },
+            {
+      "name": "🅱️福英解析1",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url="
     },
     {
-      "name": "Json并发",
-      "type": 2,
-      "url": "Parallel"
+      "name": "🅱️福英解析2",
+      "type": 0,
+      "url": "https://jx.xmflv.com/?url=",
+      "ext": {
+        "flag": [
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/3.12.0"
+        }
+      }
     },
     {
-      "name": "Json轮询",
-      "type": 2,
-      "url": "Sequence"
+      "name": "🅱️福英解析3",
+      "type": 1,
+      "url": "https://daina.hk/api/?key=e1e84ecae847b6e4a1a27fd4611f45f5&url=",
+      "ext": {
+        "flag": [
+          "FYNB",
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.1.0"
+        }
+      }
     },
    {
-      "name":"神仙解析1",
+      "name":"🅱️福英解析4",
       "type":1,
       "url":"http://42.157.129.144:2323/CH/caihong_1993138546.php?url="
     },
     {
-      "name":"神仙解析2",
+      "name":"🅱️神仙解析5",
       "type":1,
       "url":"https://vip.mosangkeji.com/api/?key=afcQ0C7vUiNOy4tnvG&url="
     },
     {
-      "name":"神仙解析3",
-      "type":1,
-      "url":"https://jx.xyflv.cc/?url="
-    },
-    {
-      "name":"🅱️神仙嗅探",
+      "name":"🅱️福英解析6",
       "type": 0,
       "url":"https://xcqq.vip/api/?type=app&key=AYUEMgpSnGJNHbmSNn&url="
     }
