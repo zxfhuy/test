@@ -1,9 +1,7 @@
 {
-  "spider":"./fty1113.jar",
-  "spider":"./ts.jar",
-  "spider":"./pg.jar", 
-  "spider":"./sx.jar",
- 
+ "spider":"./pg.jar", 
+ "spider":"./ts.jar",
+	
   "sites": [
     {"key":"我的哔哩","name":"🅱️哔哩","type":3,"api":"./js/mybili_open.js"},
     {
@@ -43,7 +41,7 @@
     },
     {
       "key":"新浪",
-      "name":"🥇新浪",
+      "name":"💯新浪",
       "type":1,
       "api":"http://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable":1,
@@ -70,7 +68,7 @@
     },
     {
       "key":"HH",
-      "name":"🥇豪华",
+      "name":"💯豪华",
       "type":1,
       "api":"https://hhzyapi.com/api.php/provide/vod/?ac=list",
       "searchable":1,
@@ -107,7 +105,7 @@
     },
     {
       "key":"暴風",
-      "name":"🥇暴風",
+      "name":"💯暴風",
       "type":1,
       "api":"https://bfzyapi.com/api.php/provide/vod",
       "searchable":1,
