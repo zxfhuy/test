@@ -190,6 +190,8 @@
       "changeable": 0,
       "ext": true
     },
+{"key":"海兔影院","name":"🥇海兔","type":0,"api":"https://www.haituu.tv/api.php/provide/vod/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]},
+
 {"key":"金鹰伦理","name":"🥇金鹰","type":0,"api":"https://jyzyapi.com/provide/vod/from/jinyingm3u8/at/xml/","playUrl":"https://hd.iapijy.com/play?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"卧龙资源","name":"🥇卧龙","type":0,"api":"https://collect.wolongzyw.com/api.php/provide/vod/at/xml/","playUrl":"https://jx.wolongzywcdn.com:65/m3u8.php?url=","searchable":1,"quickSearch":1,"filterable": 0},
 {"key":"百度伦理","name":"🥇百度","type":1,"api":"https://api.apibdzy.com/api.php/provide/vod","playUrl":"https://jx.jxbdzyw.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
@@ -288,7 +290,34 @@
       "type": 3,
       "url": "Web"
     },
-            {
+    {
+      "name": "🅱️福英解析",
+      "type": 1,
+      "url": "https://www.haituu.tv/addons/dp/player/dp.php?key=0&from=&id=307910&api=&url=",
+      "ext": {
+        "flag": [
+          "FYNB",
+          "mgtv",
+          "qiyi",
+          "imgo",
+          "爱奇艺",
+          "奇艺",
+          "qq",
+          "腾讯",
+          "youku",
+          "优酷",
+          "pptv",
+          "PPTV",
+          "letv",
+          "乐视",
+          "leshi",
+          "bilibili",
+          "哔哩哔哩",
+          "哔哩",
+          "mgtv",
+          "芒果"
+        ],
+    {
       "name": "🅱️福英解析1",
       "type": 0,
       "url": "https://jx.xmflv.com/?url="
