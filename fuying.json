@@ -32,6 +32,8 @@
 	  //"ext":"https://www.czzy.site/或https://www.cz01.vip/或https://www.czzy55.com/"
       "ext":"https://www.czzy77.com"
     },
+    {"key":"csp_MYYS","name":"🐜蚂蚁","type":3,"api":"csp_MYYS","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://rzys.xyz"},
+    {"key":"csp_MLYS","name":"🐴毛驴","type":3,"api":"csp_MLYS","searchable":1,"quickSearch":1,"filterable":0,"changeable":1,"ext":"https://www.maolvys.com/"},
     {
             "key": "黑狐",
             "name": "🔥黑狐",
