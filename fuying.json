@@ -9,8 +9,9 @@
 {"key":"奇优","name":"️Ⓜ️奇优","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/奇优.json"},
 {"key":"龟龟","name":"Ⓜ️龟龟","type":3,"api":"csp_XBPQ","playerType":"2","searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":{"主页url":"https://www.jugege.cc/","副标题":"pic-text text-right\">&&</b>","搜索模式":"1","搜索url":"https://www.jugege.cc/vodsearch/{wd}-------------.html","图片":"data-original=\"&&\"","嗅探词":"huoshanvod.com#.mp4#m3u8#.m3u8#/tos/","影片类型":"<div class=\"module-info-tag\">&&立即播放","导演":"导演：&&</div>","主演":"主演：&&</div>","分类":"电影$1#连续剧$2#综艺$3#动漫$4","分类url":"https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"}},
 {"key":"49资源网","name":"Ⓜ️49网","type":1,"api":" https://49zyw.com/api.php/provide/vod/","playUrl":"https://49zyplayerurl.com/?url=","searchable":1,"quickSearch":1,"filterable": 0},
-{"key":"csp_xpath_tjyy","name":"Ⓜ️奇优","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/qiyou.json"},
 
+{"key":"csp_xpath_tjyy","name":"Ⓜ️奇优","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/qiyou.json"},
+{"key":"量子资源1","name":"🔥量子","type": 3,"api":"./js/lz_open.js"},
 {"key":"csp_appysv2_555电影","name":"Ⓜ️555","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://5sene.site/api.php/app/"},
 {"key":"飞速资源","name":"Ⓜ️飞速","type":0,"api":"https://www.feisuzyapi.com/api.php/provide/vod/at/xml/","playUrl":"https://www.feisuplayer.com/m3u8/?url="},
 {"key":"天空资源","name":"Ⓜ️天空","type":1,"api":"http://api.tiankongapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":0,"categories":[]},
@@ -61,24 +62,23 @@
 {"key":"U酷伦理","name":"🔥U酷","type": 1,"api":"https://api.ukuapi.com/api.php/provide/vod","playUrl":"https://api.ukubf.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
 
 {"key":"快车资源","name":"🔥快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-//{"key":"艾旦影视","name":"🔥看看","type":1,"api":"https://www.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
+{"key":"艾旦影视","name":"🔥看看","type":1,"api":"https://www.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"00无尽资源","name":"🔥无尽","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jx.wujinkk.com/dplayer/?url="},
 //{"key":"csp_xpath_lenxitv","name":"🔥冷曦","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lenxi.json"},   
 
 {"key":"非凡资源","name":"🔥非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"https://ffzyplayer.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
-{"key":"海兔影院","name":"🔥海兔","type":1,"api":"https://www.haituu.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"暴风采集","name":"🔥暴风","type":1,"api":"http://app.bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"易看","name":"🔥易看","type": 3,"api":"./js/caiji.js","ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"},
+//{"key":"海兔影院","name":"🔥海兔","type":1,"api":"https://www.haituu.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
+//{"key":"暴风采集","name":"🔥暴风","type":1,"api":"http://app.bfzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
+//{"key":"易看","name":"🔥易看","type": 3,"api":"./js/caiji.js","ext":"https://api.yikanapi.com/api.php/provide/vod/from/yikan"},
 
 {"key":"csp_xml_极速资源","name":"🔥极速","type":0,"api":"https://jszyapi.com/api.php/provide/vod/from/jsm3u8/at/xml","playUrl":"https://jsjiexi.com/play/?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ikun资源","name":"🔥Ikun","type":0,"api":"https://ikunzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1},
 {"key":"csp_xml_虎牙资源","name":"🔥虎牙","type":0,"api":"https://www.huyaapi.com/api.php/provide/vod/from/hym3u8/at/xml/","playUrl":"https://huyajx.com/play?url=","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"乐视资源","name":"🔥乐视","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/","playUrl":"https://leshivideoplayurl.com/?url=","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"乐视资源","name":"🔥乐视","type":1,"api":"https://leshizyapi.com/api.php/provide/vod/","playUrl":"https://leshivideoplayurl.com/?url=","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key":"耀协影视","name":"🔥耀协","type":1,"api":"http://zyz.yxys.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"索尼资源","name":"🔥索尼","type": 3,"api":"./js/caiji.js","ext":{"url":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories": ["国产剧","欧美剧","海外剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","伦理片","大陆综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫" ]}},
+//{"key":"索尼资源","name":"🔥索尼","type": 3,"api":"./js/caiji.js","ext":{"url":"https://suoniapi.com/api.php/provide/vod/from/snm3u8/","categories": ["国产剧","欧美剧","海外剧","韩剧","日剧","港剧","台剧","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","动画片","伦理片","大陆综艺","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫" ]}},
 {"key":"新浪影视","name":"🔥新浪","type":1,"api":"http://zyz.yxys.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"量子资源1","name":"🔥量子","type": 3,"api":"./js/lz_open.js"},
 
 //{"key":"1","name":"👠-----禁止未成年人访问-----👠","type":0,"api":""},
 {"key":"kkzy.me","name":"🔞伦理","type": 1,"api":"https://kkzy.me/api.php/provide/vod/","playUrl":"https://49zyplayerurl.com/?url=","searchable": 1,"quickSearch": 1,"filterable": 0},
