@@ -101,7 +101,7 @@
 {"key":"玉兔资源","name":"🔞玉兔","type":1,"api":"https://yutuzy5.com/api.php/provide/vod/?ac=list", "searchable":1,"quickSearch": 1, "filterable": 0 }, 
 {"key":"鸡坤资源", "name":"🔞鸡坤", "type": 1, "api":"https://jkunzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 
-{"key":"*皇冠资源","name":"🔞皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
+//{"key":"*皇冠资源","name":"🔞皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 {"key":"*AIvin","name":"🔞AIvin","type": 0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml"},
 {"key":"*色猫资源","name":"🔞色猫","type":1,"api":"https://api.maozyapi.com/inc/apijson_vod.php","searchable":0,"quickSearch":0},
 {"key":"*老鸭资源","name":"🔞老鸭","type":1,"api":"https://api.apilyzy.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
