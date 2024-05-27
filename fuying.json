@@ -38,11 +38,8 @@
 {"key":"北极狐","name":"🥇北极","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/" },
 
 {"key":"聚视网","name":"📺聚视★","type":3,"api":"./js/cntv_open.js"},
-{"key":"cctv","name":"📺央视★","type":4,"api":"https://catbox.n13.club/cctv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
-{"key":"直播","name":"📺直播★","type":3,"api":"https://zxfhuy.neocities.org/001/直播转点播.js","ext" : "影视盒S$https://zxfhuy.neocities.org/001/x.txt#影视盒H$https://zxfhuy.neocities.org/001/live/tv/ss.txt#影视盒X$https://zxfhuy.neocities.org/001/live/tv/ss2.txt#影视TV$https://zxfhuy.neocities.org/001/live/23-11-17tv.txt#MTV1$https://zxfhuy.neocities.org/001/live/tv/mv.txt#MTV2$https://qu.ax/KmzB.txt#吾爱$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0&&&https://zxfhuy.neocities.org/001/%E5%9B%BE%E7%89%87/app_icon.png"},
-
-//{"key":"360","name":"Ⓜ️360","type":3,"api":"csp_SP33","searchable":1,"quickSearch":1,"filterable":1,"changeable":1},
-
+{"key":"直播","name":"📺直播★","type":3,"api":"https://8046.kstore.space/js/直播转点播.js","ext" : "影视盒S$https://zxfhuy.neocities.org/001/x.txt#影视盒H$https://zxfhuy.neocities.org/001/live/tv/ss.txt#影视盒X$https://zxfhuy.neocities.org/001/live/tv/ss2.txt#影视TV$https://zxfhuy.neocities.org/001/live/23-11-17tv.txt#MTV1$https://zxfhuy.neocities.org/001/live/tv/mv.txt#MTV2$https://qu.ax/KmzB.txt#吾爱$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0&&&https://zxfhuy.neocities.org/001/%E5%9B%BE%E7%89%87/app_icon.png"},
+	  
 {"key":"csp_biubiu_555电影","name":"🔥555","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable": 0,"ext":"./js/555.json","jar":"./kmys.jar"},
 {"key":"1080资源库","name":"🔥1080","type":1,"api":"https://api.1080zyku.com/inc/api_mac10.php","searchable":0,"quickSearch":0},
 {"key":"量子资源","name":"🔥量子","type":1,"api":"http://cj.lziapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
@@ -64,9 +61,9 @@
 {"key":"U酷伦理","name":"🔥U酷","type": 1,"api":"https://api.ukuapi.com/api.php/provide/vod","playUrl":"https://api.ukubf.com/m3u8/?url=","searchable":1,"quickSearch":1,"categories":[]},
 
 {"key":"快车资源","name":"🔥快车","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"艾旦影视","name":"🔥艾旦","type":1,"api":"https://lovedan.net/api.php/provide/vod/","searchable":1,"quickSearch":1},
+//{"key":"艾旦影视","name":"🔥看看","type":1,"api":"https://www.hikan.xyz/api.php/provide/vod/","searchable":1,"quickSearch":1},
 {"key":"00无尽资源","name":"🔥无尽","type":1,"api":"https://api.wujinapi.cc/api.php/provide/vod/","searchable":1,"quickSearch":1,"playUrl":"https://jx.wujinkk.com/dplayer/?url="},
-{"key":"csp_xpath_lenxitv","name":"🔥冷曦","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lenxi.json"},   
+//{"key":"csp_xpath_lenxitv","name":"🔥冷曦","type": 3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/lenxi.json"},   
 
 {"key":"非凡资源","name":"🔥非凡","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"https://ffzyplayer.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"海兔影院","name":"🔥海兔","type":1,"api":"https://www.haituu.tv/api.php/provide/vod/","searchable":1,"quickSearch":1},
