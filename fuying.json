@@ -37,7 +37,6 @@
 {"key":"drpy_js_追剧迷","name":"🥇剧迷","type": 3,"api":"./drpy2.min.js","ext":"./js/追剧迷.js"},
 {"key":"北极狐","name":"🥇北极","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.kuin.one/api.php/app/" },
 
-{"key": "赞赞","name": "📺赞赞★","type": 3,"jar": "https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_AppYsV2","ext": "http://111.230.51.151:2323/api.php/app/","searchable": 1,"quickSearch": 1,"changeable": 0},
 {"key":"聚视网","name":"📺聚视★","type":3,"api":"./js/cntv_open.js"},
 {"key":"cctv","name":"📺央视★","type":4,"api":"https://catbox.n13.club/cctv.php","searchable":1,"quickSearch":1,"filterable":1,"changeable": 0,"ext": true},
 {"key":"直播","name":"📺直播★","type":3,"api":"https://zxfhuy.neocities.org/001/直播转点播.js","ext" : "影视盒S$https://zxfhuy.neocities.org/001/x.txt#影视盒H$https://zxfhuy.neocities.org/001/live/tv/ss.txt#影视盒X$https://zxfhuy.neocities.org/001/live/tv/ss2.txt#影视TV$https://zxfhuy.neocities.org/001/live/23-11-17tv.txt#MTV1$https://zxfhuy.neocities.org/001/live/tv/mv.txt#MTV2$https://qu.ax/KmzB.txt#吾爱$http://52bsj.vip:81/api/v3/file/get/763/live.txt?sign=87BTGT1_6AOry7FPwy_uuxFTv2Wcb9aDMj46rDdRTD8%3D%3A0&&&https://zxfhuy.neocities.org/001/%E5%9B%BE%E7%89%87/app_icon.png"},
