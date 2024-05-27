@@ -29,20 +29,12 @@
 {"key":"追剧迷","name":"🥇追剧","type": 3,"api":"./js/zjm_open.js"},
 
 {"key":"玄天影视","name":"🥇玄天","type":3,"api":"./js/yjys_open.js"},
-{"key":"畅梦","name":"🥇畅梦","type":3,"api":"./js/drpy2.min.js","ext":"./js/changmeng.js"},
-{"key":"drpy_js_酷云七七","name":"🥇酷云","type":3,"api":"./js/drpy2.min.js","ext":"./js/6qq.js"},
 {"key":"drpy_js_凌云影视","name":"🥇凌云","type":3,"api":"./js/drpy2.min.js","ext":"./js/7ly.js"},
 
-{"key":"drpy_js_9U电影","name":"🥇89U","type":3,"api":"./js/drpy2.min.js","ext":"./js/89U.js"},
 {"key":"人人影视","name":"🥇人人","type":3,"api":"./js/rttks_open.js"}, 
-{"key":"996影视","name":"🥇996","type":3,"api":"./js/ys996_open.js"},
 {"key":"南瓜","name":"🥇南瓜","type":3,"api":"./js/ng_open.js"},
-
-{"key":"素白白","name":"🥇素白白","type":3,"api":"./js/subaibai_open.js"},
-{"key":"4K影视","name":"🥇四克","type": 3,"api":"./js/4kys_open.js"},
 {"key":"非凡资源k","name":"🥇非凡","type": 3,"api":"./js/ff_open.js"},
 {"key":"起飞影院","name":"🥇起飞","type": 3,"api":"./js/qfys_open.js"},
-
 
 {"key":"drpy_js_追剧迷","name":"🥇剧迷","type": 3,"api":"./drpy2.min.js","ext":"./js/追剧迷.js"},
 {"key":"天天","name":"🥇天天","type": 3,"api":"csp_TTian","jar":"http://tc.feixunline.cn/down.php/2e85feb2888d9efb5b396258f22841ac.jar","playerType": 2,"ext":"http://op.ysdqjs.cn"},
