@@ -33,20 +33,12 @@
       "name": "✨️念心线路✨️"
     },
     {
-      "url": "https://pz.nianxin.top/nx/nx.json",
-      "name": "✨️念心备用✨️"
-    },
-    {
       "url": "https://d.kstore.dev/download/7336/yhykeji.json",
       "name": "✨️YHY线路✨️"
     },
     {
       "url": "https://7337.kstore.space/twvip/自用测试.json",
       "name": "✨️天微科技✨️"
-    },
-    {
-      "url": "https://pz.nxbox.top/dj/dj.json",
-      "name": "✨️念心短剧✨️"
     },
     {
       "url": "http://我不是.摸鱼儿.com",
