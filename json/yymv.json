@@ -1,0 +1,45 @@
+{
+  "class": [
+    {
+      "type_name": "国语金曲",
+      "type_id": "国语金曲"
+    },
+    {
+      "type_name": "2024年热榜",
+      "type_id": "2024年热榜"
+    },
+    {
+      "type_name": "MV合集",
+      "type_id": "MV合集"
+    },
+    {
+      "type_name": "演唱会",
+      "type_id": "演唱会"
+    },
+    {
+      "type_name": "古风歌曲",
+      "type_id": "古风歌曲"
+    },
+    {
+      "type_name": "一人一首",
+      "type_id": "一人一首"
+    },
+    {
+      "type_name": "车载DJ",
+      "type_id": "车载DJ"
+    },
+    {
+      "type_name": "女团现场",
+      "type_id": "女团现场"
+    },
+    {
+      "type_name": "抖音热歌",
+      "type_id": "抖音热歌"
+    },
+    {
+      "type_name": "经典老歌",
+      "type_id": "经典老歌"
+    }
+  ],
+  "cookie": "SESSDATA=7624af93%2C1696008331%2C862c8%2A42; bili_jct=141a474ef3ce8cf2fedf384e68f6625d; DedeUserID=3493271303096985; DedeUserID__ckMd5=212a836c164605b7"
+}
