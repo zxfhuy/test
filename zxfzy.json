@@ -29,7 +29,7 @@
 {"key":"探探","name":"🅱️金牌影视","type":3,"api":"./drpy_libs/drpy2.min.js","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.dev/download/8046/js/%E9%9B%A8%E8%A7%81%E8%A7%86%E9%A2%91.js"},
 {"key":"mgys","name":"🅱️果果┃影视","type":3,"playerType":"2","api": "./drpy_libs/drpy2.min.js","ext":"https://d.kstore.dev/download/8046/js/mguo.js"},
 {"key":"qqys","name":"🅱️腾腾┃影视","type":3,"api":"./drpy_libs/drpy2.min.js","ext": "https://d.kstore.dev/download/8046/js/tx1.js"},
-{"key":"人人影视","name":"🅱️人人短剧","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"https://d.kstore.dev/download/8046/json/人人.json","jar":"./jar/XBQH.jar"},
+{"key":"人人影视","name":"🅱️人人短剧","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch":1,"filterable":1,"ext":"./json/人人.json","jar":"./jar/XBQH.jar"},
 {"key":"影视1","name":"🅱️凯速直播①","type":3,"api":"./tv/maojx.js","ext":"./tv/kszb.txt","jar":"./jar/tv.jar"},
 {"key":"影视8","name":"🅱️恐怖电影②","type":3,"api":"./tv/sdtv.js","ext":"./tv/恐怖片.nzk","jar":"./tv/sdtv.jar"},
 {"key":"聚视","name":"🅱️央视直播③","type":3,"api":"https://d.kstore.dev/download/8046/js/cntv_open.js"},
@@ -139,12 +139,17 @@
 {"key": "csp_Nongm","name": "郑仪⑩短剧","jar":"./jar/f0202.txt","type": 3,"api": "csp_Nongm"},
 {"key": "csp_真不卡","name": "郑仪⑪短剧","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1, "filterable": 1,"ext": "./json/真不卡影视.json"},
 {"key": "红狐狸影院","name": "郑仪⑫短剧","type": 3,"api": "csp_XBPQ","ext": {"简介": "+line-height: 20px;\">&&</div>","分类url": "https://honghuli.com/fenlei/{cateId}-{area}--{class}-----{catePg}---{year}.html","分类": "短剧$35"}},
+
+{"key":"csp_Kuaikan","name":"郑仪┃秒播①","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xBPQ_看了么","name":"郑仪┃秒播②","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/看了么.json"},
+{"key":"csp_xBPQ_Auete","name":"郑仪┃秒播③","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
+
 {"key":"csp_xml","name":"影图┃影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_日后","name":"三思┃影视","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/348影视.json","jar":"./jar/yytt.jar"},
 {"key":"鸭奈飞","name":"🦆奈飞┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://yanetflix.one/api.php/app/"}, 
 {"key":"Kuaikan","name":"快看┃影视","type":3,"api":"csp_Kuaikan","searchable": 1,"changeable":1},
 {"key":"影图","name": "影图┃影视","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","searchable":1,"quickSearch":1},
-{"key":"csp_xpath_zaixiandianying8","name":"在线┃电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/zaixiandianying8.json"},
+{"key":"csp_xpath_zaixiandianying8","name":"在线┃电影","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/zaixiandianying8.json"},
 {"key": "csp_瓜子","name": "瓜子┃秒播","api": "csp_Gz360","jar": "./jar/gzys.jar","type": 3,"searchable": 1, "playerType": 2,"timeout": 30,"changeable": 0},
   
 {"key":"鸭鸭资源","name":"鸭鸭┃影视","type":1,"api":"https://cj.yayazy.net/api.php/provide/vod","searchable":1,"quickSearch":1},
@@ -349,7 +354,6 @@
 	"分类url":"https://www.huajie2.com/search.php?page={catePg}&searchtype=5&order={by}&tid={cateId}&area={area}&year={year}&letter=&yuyan={lang}&state=&money=&ver=&jq=",
 	"分类":"电视剧&电影&综艺&动漫","分类值":"2&1&3&4"}
 },
-{"key":"csp_五五","name":"五五┃电影","type":3,"api":"csp_XBPQ","ua": "okhttp/3.15","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/五五.json"},
 {"key":"SEVEN","name":"七新┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类url":"http://www.7xdy.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k","分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}},
 {
     "key":"csp_影業",
@@ -368,20 +372,57 @@
     "分类url":"http://www.98dyb.com/{cateId}/index{catePg}.html[http://www.7xdy.com/{cateId}/index.html];;k",
     "分类":"电影$dianyingpian#电视剧$dianshiju#综艺$zongyi#动漫$dongman"}
 },
+{"key":"csp_五五","name":"五五┃电影","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/5551.json"},
 {
-    "key":"csp_影業1",
-    "name":"五五🔸影院",
+    "key":"csp_影業3",
+    "name":"五五┃影院",
     "type":3,
     "api":"csp_XBPQ",
     "ext": {
     "站名":"55影视",
-    "主页url":"https://www.ww1pvz.shop/index/home.html",
+    "主页url":"https://555ys.cc/",
+	//"备用主页url":"https://555ys.pro/ ",
+	//"备用主页url":"https://555ys.vip/",
+	//"备用主页url":"https://www.5wuzy.wiki/index/home.html",
+    "简介":"+<p class=\"col-pd\"&&</p>",
+    "导演":"导演：&&</p>",
+    "主演":"主演：&&</p>",
+    "线路数组":"<h3 class=\"title\">&&/h3>",
+    "线路标题":"酷影专享✨+src=*>&&<",
+    "分类url":"https://555ys.cc/voddetail/id/{cateId}/page/{catePg}/year/{year}.html",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+},
+{
+    "key":"csp_影業1",
+    "name":"五五🔸影院1",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": {
+    "站名":"55影视",
+    "主页url":"https://www.ww1pvz.shop/",
+    //最新网址：https://www.ww1pvz.shop，发布页：https://55r6q3.com
     "简介":"+<p class=\"col-pd\"&&</p>",
     "导演":"导演：&&</p>",
     "主演":"主演：&&</p>",
     "线路数组":"<h3 class=\"title\">&&/h3>",
     "线路标题":"郑仪专享✨+src=*>&&<",
-    "分类url":"https://www.ww1pvz.shop/show/{cateId}-{area}-{by}------{catePg}---{year}.html;;ak",
+    "分类url":"https://www.ww1pvz.shop/voddetail/{cateId}class/{class}/page/{catePg}/year/{year}.html",
+    "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
+},
+{
+    "key":"csp_影業2",
+    "name":"五五┃影院2",
+    "type":3,
+    "api":"csp_XBPQ",
+    "ext": {
+    "站名":"55影视",
+    "主页url":"https://555ys.pro/",
+    "简介":"+<p class=\"col-pd\"&&</p>",
+    "导演":"导演：&&</p>",
+    "主演":"主演：&&</p>",
+    "线路数组":"<h3 class=\"title\">&&/h3>",
+    "线路标题":"酷影专享✨+src=*>&&<",
+    "分类url":"https://555ys.pro/voddetail/{cateId}/page/{catePg}/year/{year}.html",
     "分类":"电影$1#电视剧$2#综艺$3#动漫$4"}
 },
 {"key": "厂长",
