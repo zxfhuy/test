@@ -1,23 +1,7 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
+#EXTM3U x-tvg-url="https://g.3344550.xyz/https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml","http://epg.51zmt.top:8000/e.xml","http://epg.aptvapp.com/xml","https://epg.pw/xmltv/epg_CN.xml","https://epg.pw/xmltv/epg_HK.xml","https://epg.pw/xmltv/epg_TW.xml"
 #🇨🇳浙江地方
-#EXTINF:-1 tvg-id="1" tvg-name="接口免费" tvg-logo="http://175.178.251.183:6689/LR.jpg" group-title="浙江地方",接口免费
+#EXTINF:-1 tvg-id="1" tvg-name="接口免费" tvg-logo="https://d.kstore.dev/download/8046/tuopian/ysh.png" group-title="浙江地方",接口免费
 https://liuliuliu.tv/api/channels/1997/stream
-#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang5.png" group-title="浙江地方",浙江新闻
-https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang7.png" group-title="浙江地方",浙江国际
-https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="浙江地方",浙江教科
-https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="浙江地方",浙江少儿
-https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang4.png" group-title="浙江地方",浙江民生
-https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang2.png" group-title="浙江地方",浙江经济
-https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="钱江都市" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang1.png" group-title="浙江地方",浙江钱江
-https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://live.fanmingming.cn/tv/之江记录.png" group-title="地方频道",之江纪录
-https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江地方",浙江卫视
 http://39.134.64.87:6610/PLTV/88888888/224/3221226339/index.m3u8?IASHttpSessionId=
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江地方",浙江卫视
@@ -36,6 +20,22 @@ http://39.134.65.251/PLTV/88888888/224/3221225514/1.m3u8
 http://39.134.65.194/PLTV/88888888/224/3221225514/1.m3u8
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="浙江地方",浙江卫视
 http://39.134.67.108/PLTV/88888888/224/3221225959/1.m3u8
+#EXTINF:-1 tvg-id="浙江新闻" tvg-name="浙江新闻" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang5.png" group-title="浙江地方",浙江新闻
+https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江国际" tvg-name="浙江国际" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang7.png" group-title="浙江地方",浙江国际
+https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江教科" tvg-name="浙江教科影视" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang3.png" group-title="浙江地方",浙江教科
+https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江少儿" tvg-name="浙江少儿" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang6.png" group-title="浙江地方",浙江少儿
+https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江民生" tvg-name="浙江民生休闲" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang4.png" group-title="浙江地方",浙江民生
+https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江经视" tvg-name="浙江经济生活" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang2.png" group-title="浙江地方",浙江经济
+https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
+#EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="钱江都市" tvg-logo="https://gitee.com/suxuang/TVlogo/raw/main/img/Zhejiang1.png" group-title="浙江地方",浙江钱江
+https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
+#EXTINF:-1 tvg-id="之江纪录" tvg-name="之江纪录" tvg-logo="https://live.fanmingming.cn/tv/之江记录.png" group-title="浙江地方",之江纪录
+https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江地方",浙江钱江
 https://tvbox.nat.netsite.cc:8043/proxy/2044904392/2044904392.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="浙江地方",浙江生活
