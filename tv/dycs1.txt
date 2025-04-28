@@ -1845,6 +1845,23 @@ CCTV13,http://220.187.217.113:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1
 CCTV14,http://220.187.217.113:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江电信』
 CCTV15,http://220.187.217.113:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江电信』
 
+CCTV14,http://222.219.183.103:8089/hls/14/index.m3u8
+CCTV16,http://222.219.183.103:8089/hls/16/index.m3u8
+CCTV17,http://222.219.183.103:8089/hls/17/index.m3u8
+CCTV5+,http://60.223.255.143:8800/hls/16/index.m3u8
+
+CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
+CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8?$IPV6『CCTV3』
+CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
+CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
+CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$IPV6『CCTV3』
+CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
+CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$IPV6『CCTV3』
+CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
+
+CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
+
 浙江卫视,http://220.187.217.113:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江电信』
 湖南卫视,http://220.187.217.113:9901/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江电信』
 江苏卫视,http://220.187.217.113:9901/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江电信』
@@ -2152,23 +2169,6 @@ CCTV15,http://183.185.254.246:9999/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1
 安徽卫视,http://183.185.254.246:9999/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0$『山西联通』
 陕西卫视,http://183.185.254.246:9999/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0$『山西联通』
 
-CCTV3,http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8?$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8$IPV6『CCTV3』
-CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
-
-CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
-CCTV13,http://hls.hsrtv.cn/live/hsyouxian.m3u8
-CCTV14,http://222.219.183.103:8089/hls/14/index.m3u8
-CCTV16,http://222.219.183.103:8089/hls/16/index.m3u8
-CCTV17,http://222.219.183.103:8089/hls/17/index.m3u8
-
 CCTV1,http://183.223.157.33:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV2,http://183.223.157.33:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV3,http://183.223.157.33:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -2253,7 +2253,6 @@ CCTV12,http://60.223.255.143:8800/hls/12/index.m3u8
 CCTV13,http://60.223.255.143:8800/hls/13/index.m3u8
 CCTV14,http://60.223.255.143:8800/hls/14/index.m3u8
 CCTV15,http://60.223.255.143:8800/hls/15/index.m3u8
-CCTV5+,http://60.223.255.143:8800/hls/16/index.m3u8
 
 湖南卫视,http://60.223.255.143:8800/hls/17/index.m3u8
 浙江卫视,http://60.223.255.143:8800/hls/18/index.m3u8
