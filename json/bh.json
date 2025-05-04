@@ -1,0 +1,113 @@
+[
+  {
+    "name": "推荐",
+    "list": [
+      {
+        "name": "宝盒TV",
+        "url": "https://pan.beecld.com/f/v4j7T3/bhTV277.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/cctv7.png",
+        "version": "2.7.7|半本地"
+      },
+      {
+        "name": "宝盒BOX",
+        "url": "https://pan.beecld.com/f/7myVh0/TVBox.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/cctv7.png",
+        "version": "521宝盒TV|离线版"
+      },
+      {
+        "name": "宝盒MAX",
+        "url": "https://pan.beecld.com/f/m7rvcb/%E6%9C%88%E5%85%89%E5%AE%9D%E7%9B%92Max.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/cctv7.png",
+        "version": "3.2.7修复版"
+      },
+      {
+        "name": "开心影视",
+        "url": "https://pan.beecld.com/f/gxD0Ul/%E5%BC%80%E5%BF%83%E5%BD%B1%E8%A7%86.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/cctv7.png",
+        "version": "TV版"
+      },
+      {
+        "name": "聚合TV",
+        "url": "https://pan.beecld.com/f/zYmVCN/%E5%85%A8%E8%81%9A%E5%90%88.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/cctv7.png",
+        "version": "TV版"
+      }
+    ]
+  },
+  {
+    "name": "直播APP",
+    "list": [
+      {
+        "name": "TV",
+        "url": "https://pan.beecld.com/f/VbkAHD/TV.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/教育电台.png",
+        "version": "手机版"
+      },
+      {
+        "name": "小飞电视",
+        "url": "https://pan.beecld.com/f/kAveIM/%E5%B0%8F%E9%A3%9E%E7%94%B5%E8%A7%86.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/教育电台.png",
+        "version": "TV版"
+      },
+      {
+        "name": "电视大全",
+        "url": "https://pan.beecld.com/f/pwkwSq/%E7%94%B5%E8%A7%86%E5%A4%A7%E5%85%A8.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/教育电台.png",
+        "version": "手机版"
+      },
+      {
+        "name": "电视浏览器",
+        "url": "https://pan.beecld.com/f/0Qoety/%E7%94%B5%E8%A7%86%E6%B5%8F%E8%A7%88%E5%99%A8.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/教育电台.png",
+        "version": "TV版"
+      },
+      {
+        "name": "小白文件管理器TV版",
+        "url": "https://pan.7so.top/f/XQkQhO/xbwjglq_v2.8.0_xfdown.com.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/教育电台.png",
+        "version": "TV版"
+      },
+      {
+        "name": "小米电视助手",
+        "url": "https://pan.7so.top/f/WPjLFD/com.xiaomi.mitv.phone.tvassistant.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/教育电台.png",
+        "version": "手机版版"
+      }
+    ]
+  },
+  {
+    "name": "娱乐软件",
+    "list": [
+      {
+        "name": "应用管家",
+        "url": "https://pan.beecld.com/f/Bkw7iQ/%E5%BA%94%E7%94%A8%E7%AE%A1%E5%AE%B6.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/15.jpg",
+        "version": "TV版"
+      },
+      {
+        "name": "家庭KTV",
+        "url": "https://pan.beecld.com/f/lxvvSw/%E5%AE%B6%E5%BA%ADKTV.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/15.jpg",
+        "version": "TV版"
+      },
+      {
+        "name": "BV",
+        "url": "https://pan.beecld.com/f/KQo1Hx/BV.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/15.jpg",
+        "version": "TV版"
+      },
+      {
+        "name": "智能K歌",
+        "url": "https://pan.beecld.com/f/xRB3i5/%E6%99%BA%E8%83%BDK%E6%AD%8C.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/15.jpg",
+        "version": "TV版"
+      },
+      {
+        "name": "纯粹直播",
+        "url": "https://pan.beecld.com/f/rXbMsx/%E7%BA%AF%E7%B2%B9%E7%9B%B4%E6%92%AD.apk",
+        "icon": "https://d.kstore.dev/download/8046/tuopian/15.jpg",
+        "version": "TV版"
+      }
+    ]
+  }
+]
