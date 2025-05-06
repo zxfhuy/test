@@ -1,5 +1,5 @@
 🇨🇳影音频道,#genre#,http://diyp100.112114.xyz#http://epg.112114.xyz
-天龙八部之乔峰,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8
+天龙八部之乔峰,https://vip1.lz-cdn1.com/20230217/20640_9eee7111/index.m3u8#https://zyzmyg4.iz3710.com/20230427/YTdmMDMxY2/103959/1280/hls/encrypt/index.m3u8
 音乐盛典,https://t-cdn.kaiyanapp.com/8a9951ebd002bc5f75760bd5192cda49_720P.mp4
 一起甩头,http://api.eyepetizer.net/v1/common/redirect/video_play_url?resource_id=325872&resource_type=pgc_video&edition_type=default
 泳池浪漫,http://api.eyepetizer.net/v1/common/redirect/video_play_url?resource_id=325855&resource_type=pgc_video&edition_type=default
