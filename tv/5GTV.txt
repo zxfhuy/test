@@ -495,38 +495,6 @@ CCTV14,http://goo.bkpcp.top/mg/cctv14
 CCTV15,http://goo.bkpcp.top/mg/cctv15
 CCTV17,http://goo.bkpcp.top/mg/cctv17
 
-CCTV1,http://171.34.76.62:808/hls/9/index.m3u8$『江西标清』
-CCTV2,http://171.34.76.62:808/hls/10/index.m3u8$『江西标清』
-CCTV3,http://171.34.76.62:808/hls/11/index.m3u8$『江西标清』
-CCTV4,http://171.34.76.62:808/hls/12/index.m3u8$『江西标清』
-CCTV5,http://171.34.76.62:808/hls/13/index.m3u8$『江西标清』
-CCTV6,http://171.34.76.62:808/hls/14/index.m3u8$『江西标清』
-CCTV7,http://171.34.76.62:808/hls/15/index.m3u8$『江西标清』
-CCTV8,http://171.34.76.62:808/hls/16/index.m3u8$『江西标清』
-CCTV9,http://171.34.76.62:808/hls/17/index.m3u8$『江西标清』
-CCTV10,http://171.34.76.62:808/hls/18/index.m3u8$『江西标清』
-CCTV11,http://171.34.76.62:808/hls/19/index.m3u8$『江西标清』
-CCTV12,http://171.34.76.62:808/hls/20/index.m3u8$『江西标清』
-CCTV13,http://171.34.76.62:808/hls/21/index.m3u8$『江西标清』
-CCTV14,http://171.34.76.62:808/hls/22/index.m3u8$『江西标清』
-CCTV15,http://171.34.76.62:808/hls/23/index.m3u8$『江西标清』
-CCTV1,http://171.34.76.62:808/hls/24/index.m3u8$『江西标清』
-CCTV4,http://171.34.76.62:808/hls/8/index.m3u8$『江西标清』
-
-CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8$『高清1』
-CCTV2,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8$『高清2』
-CCTV3,http://202.168.187.208:9089/tsfile/live/0003_1.m3u8$『高清3』
-CCTV4,http://202.168.187.208:9089/tsfile/live/1000_1.m3u8$『高清4』
-CCTV5,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8$『高清5』
-
-CCTV1,http://111.9.163.109:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV1』
-CCTV2,http://111.9.163.109:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV2』
-CCTV3,http://111.9.163.109:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV3』
-CCTV4,http://111.9.163.109:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV4』
-CCTV5,http://111.9.163.109:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV5』
-CCTV6,http://111.9.163.109:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV6』
-CCTV8,http://111.9.163.109:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV8』
-
 CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8$『CCTV1高清』
 CCTV2,http://39.134.67.108/PLTV/88888888/224/3221225599/1.m3u8$『CCTV2高清』
 CCTV3,http://39.134.67.108/PLTV/88888888/224/3221225799/1.m3u8$『CCTV3高清』
@@ -565,6 +533,25 @@ CCTV15,http://39.134.67.110/PLTV/88888888/224/3221225513/1.m3u8$移动|回看
 CCTV16,http://39.134.67.110/PLTV/88888888/224/3221225893/1.m3u8$移动|回看
 CCTV17,http://39.134.67.110/PLTV/88888888/224/3221225708/1.m3u8$移动|回看
 
+CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$『CCTV1HD』
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8$『CCTV2HD』
+CCTV3,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8$『CCTV3HD』
+CCTV4,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8$『CCTV4HD』
+CCTV5,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8$『CCTV5HD』
+CCTV5+,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8$『CCTV5+HD』
+CCTV6,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8$『CCTV6HD』
+CCTV7,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8$『CCTV7HD』
+CCTV8,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8$『CCTV8HD』
+CCTV9,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8$『CCTV9HD』
+CCTV10,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8$『CCTV10HD』
+CCTV11,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8$『CCTV11HD』
+CCTV12,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8$『CCTV12HD』
+CCTV13,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8$『CCTV13HD』
+CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8$『CCTV14HD』
+CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$『CCTV15HD』
+CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8$『CCTV16HD』
+CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8$『CCTV17HD』
+
 CCTV1,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8$『CCTV1』
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8$『CCTV2』
 CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8$『CCTV2』
@@ -586,6 +573,43 @@ CCTV14,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8$
 CCTV15,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8$『CCTV15』
 CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8$『CCTV16』
 CCTV17,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8$『CCTV17』
+
+CCTV1,http://202.168.187.208:9089/tsfile/live/1003_1.m3u8$『高清1』
+CCTV2,http://202.168.187.208:9089/tsfile/live/0002_1.m3u8$『高清2』
+CCTV3,http://202.168.187.208:9089/tsfile/live/0003_1.m3u8$『高清3』
+CCTV4,http://202.168.187.208:9089/tsfile/live/1000_1.m3u8$『高清4』
+CCTV5,http://202.168.187.208:9089/tsfile/live/0005_1.m3u8$『高清5』
+
+CCTV1,http://111.9.163.109:85/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV1』
+CCTV2,http://111.9.163.109:85/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV2』
+CCTV3,http://111.9.163.109:85/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV3』
+CCTV4,http://111.9.163.109:85/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV4』
+CCTV5,http://111.9.163.109:85/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV5』
+CCTV6,http://111.9.163.109:85/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV6』
+CCTV8,http://111.9.163.109:85/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『CCTV8』
+
+CCTV1,http://113.140.12.230:8888/newlive/live/hls/2/live.m3u8$『CCTV1-1』
+CCTV1,http://ali.hlspull.yximgs.com/live/622a78ebe0ba9358773e72606602e5a7.flv$『CCTV1-2』
+CCTV1,http://39.134.65.245/PLTV/88888888/224/3221225816/1.m3u8$『CCTV1-3』
+CCTV1,http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8$『CCTV1-4』
+
+CCTV1,http://171.34.76.62:808/hls/9/index.m3u8$『江西标清』
+CCTV2,http://171.34.76.62:808/hls/10/index.m3u8$『江西标清』
+CCTV3,http://171.34.76.62:808/hls/11/index.m3u8$『江西标清』
+CCTV4,http://171.34.76.62:808/hls/12/index.m3u8$『江西标清』
+CCTV5,http://171.34.76.62:808/hls/13/index.m3u8$『江西标清』
+CCTV6,http://171.34.76.62:808/hls/14/index.m3u8$『江西标清』
+CCTV7,http://171.34.76.62:808/hls/15/index.m3u8$『江西标清』
+CCTV8,http://171.34.76.62:808/hls/16/index.m3u8$『江西标清』
+CCTV9,http://171.34.76.62:808/hls/17/index.m3u8$『江西标清』
+CCTV10,http://171.34.76.62:808/hls/18/index.m3u8$『江西标清』
+CCTV11,http://171.34.76.62:808/hls/19/index.m3u8$『江西标清』
+CCTV12,http://171.34.76.62:808/hls/20/index.m3u8$『江西标清』
+CCTV13,http://171.34.76.62:808/hls/21/index.m3u8$『江西标清』
+CCTV14,http://171.34.76.62:808/hls/22/index.m3u8$『江西标清』
+CCTV15,http://171.34.76.62:808/hls/23/index.m3u8$『江西标清』
+CCTV1,http://171.34.76.62:808/hls/24/index.m3u8$『江西标清』
+CCTV4,http://171.34.76.62:808/hls/8/index.m3u8$『江西标清』
 
 🇨🇳卫视频道,#genre#
 浙江卫视,http://123.159.125.38:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
