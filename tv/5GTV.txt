@@ -513,23 +513,6 @@ CCTV15,http://171.14.92.77:808/hls/15/index.m3u8$『4G_CCTV15』
 CCTV16,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8?auth_key=1745305104-0-0-394dd858ed1dbaacdf5804a639a433a3$『4G_CCTV16』
 CCTV17,http://171.14.92.77:808/hls/17/index.m3u8$『4G_CCTV17』
 
-🇨🇳河南电信
-CCTV1,http://119.129.172.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV2,http://119.129.172.42:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV3,http://119.129.172.42:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV4,http://119.129.172.42:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV5,http://119.129.172.42:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV6,http://119.129.172.42:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV7,http://119.129.172.42:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV8,http://119.129.172.42:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV9,http://119.129.172.42:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV10,http://119.129.172.42:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV11,http://119.129.172.42:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV12,http://119.129.172.42:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV13,http://119.129.172.42:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV14,http://119.129.172.42:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-CCTV15,http://119.129.172.42:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
-
 CCTV1,http://tvbox6.icu/tv/migu.php?id=cctv1$咪咕直播
 CCTV2,http://tvbox6.icu/tv/migu.php?id=cctv2$咪咕直播
 CCTV3,http://tvbox6.icu/tv/migu.php?id=cctv3$咪咕直播
@@ -549,6 +532,25 @@ CCTV13,http://tvbox6.icu/tv/migu.php?id=cctv13$咪咕直播
 CCTV14,http://tvbox6.icu/tv/migu.php?id=cctv14$咪咕直播
 CCTV15,http://tvbox6.icu/tv/migu.php?id=cctv15$咪咕直播
 CCTV17,http://tvbox6.icu/tv/migu.php?id=cctv17$咪咕直播
+
+CCTV1,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv1hd$高码
+CCTV2,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv2hd8m$高码
+CCTV3,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv3hd$高码
+CCTV4,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv4hd4m$高码
+CCTV5,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv5hd$高码
+CCTV5+,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv5phd$高码
+CCTV6,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv6hd$高码
+CCTV7,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv7hd4m$高码
+CCTV8,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv8hd$高码
+CCTV9,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv9hd4mc$高码
+CCTV10,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv10hd$高码
+CCTV11,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv11hd4m$高码
+CCTV12,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv12hd4m$高码
+CCTV13,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv13hd4m$高码
+CCTV14,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctvsehd$高码
+CCTV15,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctvyyhd4m$高码
+CCTV16,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv16hd4m$高码
+CCTV17,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cctv17hd4m$高码
 
 CCTV1,http://itv.iptv1688.top:2016/itv.php?id=CCTV1$『CCTV1』
 CCTV2,http://itv.iptv1688.top:2016/itv.php?id=CCTV2$『CCTV2』
@@ -818,6 +820,33 @@ CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$天津联通酒店
 浙江卫视,http://39.134.65.179/PLTV/88888888/224/3221225514/1.m3u8$移动|回看
 浙江卫视,http://39.134.65.173/PLTV/88888888/224/3221225514/1.m3u8$移动|回看
 浙江卫视,http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8$移动|回看
+
+浙江卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=zjwshd$高码
+北京卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=bjwshd$高码
+江苏卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=jswshd$高码
+湖南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hnwshd$高码
+东方卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hddfws$高码
+广东卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=gdwshd$高码
+深圳卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=szwshd$高码
+天津卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=tjwshd$高码
+安徽卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=ahwshd$高码
+山东卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=sdwshd$高码
+辽宁卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=lnwshd$高码
+河北卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hbwshd4m$高码
+河南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=henwshd4m$高码
+江西卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=jxwshd$高码
+湖北卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hbwshd$高码
+四川卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=scwshd4m$高码
+重庆卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=cqwshd4m$高码
+贵州卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=gzwshd4m$高码
+广西卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=gxwshd4m$高码
+云南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=ynwshd4m$高码
+东南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=dnwshd$高码
+海南卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hainwshd4m$高码
+海峡卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hxwshd4m$高码
+甘肃卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=gswshd4m$高码
+吉林卫视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=jlwshd4m$高码
+黑龙江视,http://ott-iptv.top/虪齺魕爧蠿齺虪齾爩/bestV1/best2024.php?id=hljwshd$高码
 
 北京卫视,http://39.134.65.179/PLTV/88888888/224/3221225678/1.m3u8$移动|回看
 北京卫视,http://39.134.65.173/PLTV/88888888/224/3221225678/1.m3u8$移动|回看
@@ -1398,107 +1427,107 @@ SiTV乐游,http://z.b.bkpcp.top/m.php?id=ly
 
 🇨🇳综合频道,#genre#
 浙江联通
-CCTV1,http://123.159.35.161:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV2,http://123.159.35.161:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV3,http://123.159.35.161:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV4,http://123.159.35.161:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV5,http://123.159.35.161:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV6,http://123.159.35.161:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV7,http://123.159.35.161:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV8,http://123.159.35.161:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV9,http://123.159.35.161:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV10,http://123.159.35.161:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV11,http://123.159.35.161:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV12,http://123.159.35.161:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV13,http://123.159.35.161:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV14,http://123.159.35.161:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-CCTV15,http://123.159.35.161:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
-浙江卫视,http://123.159.35.161:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-钱江频道,http://123.159.35.161:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-经济生活,http://123.159.35.161:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-科教影视,http://123.159.35.161:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-浙江新闻,http://123.159.35.161:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-浙江少儿,http://123.159.35.161:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-民生休闲,http://123.159.35.161:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-杭州综合,http://123.159.35.161:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-西湖明珠,http://123.159.35.161:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-杭州生活,http://123.159.35.161:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-杭州影视,http://123.159.35.161:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-北京卫视,http://123.159.35.161:9901/tsfile/live/0119_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-江苏卫视,http://123.159.35.161:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-上海卫视,http://123.159.35.161:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-湖南卫视,http://123.159.35.161:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-安徽卫视,http://123.159.35.161:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-重庆卫视,http://123.159.35.161:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-广东卫视,http://123.159.35.161:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-四川卫视,http://123.159.35.161:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-江西卫视,http://123.159.35.161:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-贵州卫视,http://123.159.35.161:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-山东卫视,http://123.159.35.161:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-辽宁卫视,http://123.159.35.161:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-吉林卫视,http://123.159.35.161:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-天津卫视,http://123.159.35.161:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-黑龙江卫视,http://123.159.35.161:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-东南卫视,http://123.159.35.161:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-河南卫视,http://123.159.35.161:9901/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-湖北卫视,http://123.159.35.161:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-陕西卫视,http://123.159.35.161:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-山西卫视,http://123.159.35.161:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-广西卫视,http://123.159.35.161:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-云南卫视,http://123.159.35.161:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-河北卫视,http://123.159.35.161:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
-内蒙古卫视,http://123.159.35.161:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+CCTV1,http://123.159.169.73:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV2,http://123.159.169.73:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV3,http://123.159.169.73:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV4,http://123.159.169.73:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV5,http://123.159.169.73:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV6,http://123.159.169.73:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV7,http://123.159.169.73:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV8,http://123.159.169.73:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV9,http://123.159.169.73:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV10,http://123.159.169.73:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV11,http://123.159.169.73:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV12,http://123.159.169.73:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV13,http://123.159.169.73:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV14,http://123.159.169.73:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV15,http://123.159.169.73:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+浙江卫视,http://123.159.169.73:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+钱江频道,http://123.159.169.73:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+经济生活,http://123.159.169.73:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+科教影视,http://123.159.169.73:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+浙江新闻,http://123.159.169.73:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+浙江少儿,http://123.159.169.73:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+民生休闲,http://123.159.169.73:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+杭州综合,http://123.159.169.73:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+西湖明珠,http://123.159.169.73:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+杭州生活,http://123.159.169.73:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+杭州影视,http://123.159.169.73:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+北京卫视,http://123.159.169.73:9901/tsfile/live/0119_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+江苏卫视,http://123.159.169.73:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+上海卫视,http://123.159.169.73:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+湖南卫视,http://123.159.169.73:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+安徽卫视,http://123.159.169.73:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+重庆卫视,http://123.159.169.73:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+广东卫视,http://123.159.169.73:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+四川卫视,http://123.159.169.73:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+江西卫视,http://123.159.169.73:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+贵州卫视,http://123.159.169.73:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+山东卫视,http://123.159.169.73:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+辽宁卫视,http://123.159.169.73:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+吉林卫视,http://123.159.169.73:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+天津卫视,http://123.159.169.73:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+黑龙江卫视,http://123.159.169.73:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+东南卫视,http://123.159.169.73:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+河南卫视,http://123.159.169.73:9901/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+湖北卫视,http://123.159.169.73:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+陕西卫视,http://123.159.169.73:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+山西卫视,http://123.159.169.73:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+广西卫视,http://123.159.169.73:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+云南卫视,http://123.159.169.73:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+河北卫视,http://123.159.169.73:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+内蒙古卫视,http://123.159.169.73:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
 浙江联通
-CCTV1,http://123.159.125.38:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV2,http://123.159.125.38:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV3,http://123.159.125.38:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV4,http://123.159.125.38:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV5,http://123.159.125.38:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV6,http://123.159.125.38:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV7,http://123.159.125.38:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV8,http://123.159.125.38:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV9,http://123.159.125.38:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV10,http://123.159.125.38:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV11,http://123.159.125.38:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV12,http://123.159.125.38:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV13,http://123.159.125.38:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV14,http://123.159.125.38:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-CCTV15,http://123.159.125.38:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江-联通』
-浙江卫视,http://123.159.125.38:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-钱江频道,http://123.159.125.38:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-经济生活,http://123.159.125.38:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-科教影视,http://123.159.125.38:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-浙江新闻,http://123.159.125.38:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-浙江少儿,http://123.159.125.38:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-民生休闲,http://123.159.125.38:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-杭州综合,http://123.159.125.38:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-西湖明珠,http://123.159.125.38:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-杭州生活,http://123.159.125.38:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-杭州影视,http://123.159.125.38:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-北京卫视,http://123.159.125.38:9901/tsfile/live/0119_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-江苏卫视,http://123.159.125.38:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-上海卫视,http://123.159.125.38:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-湖南卫视,http://123.159.125.38:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-安徽卫视,http://123.159.125.38:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-重庆卫视,http://123.159.125.38:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-广东卫视,http://123.159.125.38:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-四川卫视,http://123.159.125.38:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-江西卫视,http://123.159.125.38:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-贵州卫视,http://123.159.125.38:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-山东卫视,http://123.159.125.38:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-辽宁卫视,http://123.159.125.38:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-吉林卫视,http://123.159.125.38:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-天津卫视,http://123.159.125.38:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-黑龙江卫视,http://123.159.125.38:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-东南卫视,http://123.159.125.38:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-河南卫视,http://123.159.125.38:9901/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-湖北卫视,http://123.159.125.38:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-陕西卫视,http://123.159.125.38:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-山西卫视,http://123.159.125.38:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-广西卫视,http://123.159.125.38:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-云南卫视,http://123.159.125.38:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-河北卫视,http://123.159.125.38:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
-内蒙古卫视,http://123.159.125.38:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江-联通』
+CCTV1,http://123.159.34.56:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV2,http://123.159.34.56:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV3,http://123.159.34.56:9901/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV4,http://123.159.34.56:9901/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV5,http://123.159.34.56:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV6,http://123.159.34.56:9901/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV7,http://123.159.34.56:9901/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV8,http://123.159.34.56:9901/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV9,http://123.159.34.56:9901/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV10,http://123.159.34.56:9901/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV11,http://123.159.34.56:9901/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV12,http://123.159.34.56:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV13,http://123.159.34.56:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV14,http://123.159.34.56:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+CCTV15,http://123.159.34.56:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0$『浙江联通』
+浙江卫视,http://123.159.34.56:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+钱江频道,http://123.159.34.56:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+经济生活,http://123.159.34.56:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+科教影视,http://123.159.34.56:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+浙江新闻,http://123.159.34.56:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+浙江少儿,http://123.159.34.56:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+民生休闲,http://123.159.34.56:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+杭州综合,http://123.159.34.56:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+西湖明珠,http://123.159.34.56:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+杭州生活,http://123.159.34.56:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+杭州影视,http://123.159.34.56:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+北京卫视,http://123.159.34.56:9901/tsfile/live/0119_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+江苏卫视,http://123.159.34.56:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+上海卫视,http://123.159.34.56:9901/tsfile/live/0107_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+湖南卫视,http://123.159.34.56:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+安徽卫视,http://123.159.34.56:9901/tsfile/live/0116_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+重庆卫视,http://123.159.34.56:9901/tsfile/live/0142_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+广东卫视,http://123.159.34.56:9901/tsfile/live/0125_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+四川卫视,http://123.159.34.56:9901/tsfile/live/0123_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+江西卫视,http://123.159.34.56:9901/tsfile/live/0138_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+贵州卫视,http://123.159.34.56:9901/tsfile/live/0139_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+山东卫视,http://123.159.34.56:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+辽宁卫视,http://123.159.34.56:9901/tsfile/live/0121_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+吉林卫视,http://123.159.34.56:9901/tsfile/live/0005_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+天津卫视,http://123.159.34.56:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+黑龙江卫视,http://123.159.34.56:9901/tsfile/live/0143_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+东南卫视,http://123.159.34.56:9901/tsfile/live/0137_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+河南卫视,http://123.159.34.56:9901/tsfile/live/0139_2.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+湖北卫视,http://123.159.34.56:9901/tsfile/live/0132_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+陕西卫视,http://123.159.34.56:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+山西卫视,http://123.159.34.56:9901/tsfile/live/0118_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+广西卫视,http://123.159.34.56:9901/tsfile/live/0113_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+云南卫视,http://123.159.34.56:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+河北卫视,http://123.159.34.56:9901/tsfile/live/0117_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
+内蒙古卫视,http://123.159.34.56:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0$『浙江联通』
 河南电信
 CCTV1,http://1.199.243.186:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
 CCTV2,http://1.199.243.186:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
@@ -2655,8 +2684,6 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 🇨🇳斗鱼轮播,#genre#
 短剧​1,http://zzy789.xyz/douyu1.php?id=8475821
 英叔​1,http://zzy789.xyz/douyu1.php?id=7356023
-英叔​2,http://zzy789.xyz/douyu1.php?id=218859
-纪录片,http://zzy789.xyz/douyu1.php?id=4360438
 洪金宝,http://zzy789.xyz/douyu1.php?id=3928
 赵本山,http://zzy789.xyz/douyu1.php?id=9817716
 宋小宝,http://zzy789.xyz/douyu1.php?id=9817729
@@ -2777,7 +2804,42 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 2023年春晚,https://txmov2.a.kwimgs.com/bs3/video-hls/5251197255879398624_hlshd15.m3u8
 2024年春晚,https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 
-💯粤港澳台_690415,#genre#
+🇨🇳粤港澳台,#genre#
+凤凰中文,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8$高清P2p
+凤凰资讯,P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8$高清P2p
+凤凰资讯,P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8$高清P2p
+凤凰香港,P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8$高清P2p
+Now爆谷,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8$高清P2p
+中天新闻,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8$高清P2p
+无线新闻,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.m3u8$高清P2p
+无线新闻,P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.m3u8$高清P2p
+无线翡翠4k码,P2p://80.251.220.91:7999/114d4bdfcd993a587dbda655a2aeb984.m3u8$高清P2p
+无线翡翠,P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.m3u8$高清P2p
+无线华丽,P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.m3u8$高清P2p
+无线星河标国,P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.m3u8$高清P2p
+无线明珠,P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.m3u8$高清P2p
+澳门资讯,P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.m3u8$高清P2p
+凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
+凤凰资讯,https://cdn6.163189.xyz/live/fhzx/stream.m3u8
+凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8 
+无线翡翠,https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
+RTHK-31,https://cdn5.163189.xyz/live/rthk31/stream.m3u8
+RTHK-32,https://cdn5.163189.xyz/live/rthk32/stream.m3u8
+八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
+新加CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
+新加CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
+新加CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
+龙华电影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
+龙华经典,https://cdn3.132.us.kg/live/lhjd/stream.m3u8
+龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
+龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
+龙华日韩,https://cdn3.132.us.kg/live/lhrh/stream.m3u8
+龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
+央视综合,https://cdn5.132.us.kg/live/cctv1/stream.m3u8
+八度空间,https://cdn6.132.us.kg/live/8tv/stream.m3u8
+新加CHU,https://cdn6.132.us.kg/live/chu/stream.m3u8
+新加CH5,https://cdn6.132.us.kg/live/ch5/stream.m3u8
+新加CH8,https://cdn6.132.us.kg/live/ch8/stream.m3u8
 凤凰中文,http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8
 凤凰中文,P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8$『高码』
 凤凰中文,http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc$『凤凰中文1』
@@ -2800,6 +2862,8 @@ A计划续集,https://vip.ffzy-play7.com/20221115/4412_bf4bdaf6/index.m3u8
 凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$『高码』
 凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8$『香港卫视』
+半岛新闻1,http://live-hls-web-aje.getaj.net/AJE/01.m3u8$『半岛新闻』
+半岛新闻2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8$『半岛新闻』
 Now爆谷,P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.m3u8$『高码』
 中天新闻,P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.m3u8$『高码』
 无线新闻,P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.m3u8$『高码』
@@ -2865,20 +2929,6 @@ CHC家庭影院,http://iptv.huuc.edu.cn/hls/chctv.m3u8$IPV4『CHC家庭』
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 面包台,https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8#http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
-半岛新闻1,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-半岛新闻2,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
-电影RU1,https://edge13.vedge.infomaniak.com/livecast/ik:event/.m3u8$『el俄罗斯』
-电影RU2,https://edge13.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8$『el俄罗斯』
-电影RU3,https://edge13.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8$『el俄罗斯』
-电影RU4,https://edge13.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8$『el俄罗斯』
-电影RU1,https://edge15.vedge.infomaniak.com/livecast/ik:event/.m3u8$『el俄罗斯』
-电影RU2,https://edge15.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8$『el俄罗斯』
-电影RU3,https://edge15.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8$『el俄罗斯』
-电影RU4,https://edge15.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8$『el俄罗斯』
-电影RU1,https://edge18.vedge.infomaniak.com/livecast/ik:event/.m3u8$『el俄罗斯』
-电影RU2,https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8$『el俄罗斯』
-电影RU3,https://edge18.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8$『el俄罗斯』
-电影RU4,https://edge18.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8$『el俄罗斯』
 动物星球,http://61.221.215.25:8800/hls/57/index.m3u8
 探索频道,http://61.221.215.25:8800/hls/1/index.m3u8
 探索亞洲,http://61.221.215.25:8800/hls/50/index.m3u8
@@ -2894,6 +2944,20 @@ AMC电影,http://61.221.215.25:8800/hls/43/index.m3u8
 八大戏剧台,http://61.221.215.25:8800/hls/39/index.m3u8
 八大第一台,http://61.221.215.25:8800/hls/55/index.m3u8
 三立戏剧台,http://61.221.215.25:8800/hls/41/index.m3u8
+
+💯特别频道1_690415,#genre#
+电影RU1,https://edge13.vedge.infomaniak.com/livecast/ik:event/.m3u8$『el俄罗斯』
+电影RU2,https://edge13.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8$『el俄罗斯』
+电影RU3,https://edge13.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8$『el俄罗斯』
+电影RU4,https://edge13.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8$『el俄罗斯』
+电影RU1,https://edge15.vedge.infomaniak.com/livecast/ik:event/.m3u8$『el俄罗斯』
+电影RU2,https://edge15.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8$『el俄罗斯』
+电影RU3,https://edge15.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8$『el俄罗斯』
+电影RU4,https://edge15.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8$『el俄罗斯』
+电影RU1,https://edge18.vedge.infomaniak.com/livecast/ik:event/.m3u8$『el俄罗斯』
+电影RU2,https://edge18.vedge.infomaniak.com/livecast/ik:onefmmd/.m3u8$『el俄罗斯』
+电影RU3,https://edge18.vedge.infomaniak.com/livecast/ik:lfmmd/.m3u8$『el俄罗斯』
+电影RU4,https://edge18.vedge.infomaniak.com/livecast/ik:compack_media_1/.m3u8$『el俄罗斯』
 大内密探之零零性性,https://vv.jisuzyv.com/play/vbm0G8Ra/index.m3u8【香港三级片】
 冲动,https://t27.cdn2020.com/video/,http:/2020/06/17/1ebdfc2c/index.m3u8$【欧美】
 假期,https://t27.cdn2020.com/video/,http:/2020/06/17/d72a0cdb/index.m3u8$【欧美】
@@ -3074,7 +3138,7 @@ heyzo_2074 妖艶すぎる美白美女-吉岡蓮美,https://t27.cdn2020.com/vide
 heyzo_2075 メイドさん-竹田しょうこ,https://t27.cdn2020.com/video/,http:/2019/09/13/23c08d11/index.m3u8$【日本】
 090319_01-10mu 顔射してください-池田裕子,https://t27.cdn2020.com/video/,http:/2019/09/08/77b81f19/index.m3u8$【日本】
 
-🇨🇳『adultv』,#genre#
+💯特别频道2_690415,#genre#
 欧美2,http://live.redtraffic.xyz/threesome.m3u8?fluxuslust.m3u8
 欧美2,http://cdn.adultiptv.net/threesome.m3u8
 欧美3,http://live.redtraffic.xyz/teen.m3u8?fluxuslust.m3u8
@@ -3225,7 +3289,7 @@ NHDTA-605,http://video1.rhsj520.com:8091/nyrm3/lyaml/NHDTA-605/1500kb/hls/index.
 NHDTA-583,http://video1.rhsj520.com:8091/nyrm3/lyaml/NHDTA-583/1500kb/hls/index.m3u8
 MDTM-013,http://video1.rhsj520.com:8091/nyrm3/lyaml/MDTM-013/1500kb/hls/index.m3u8
 
-🇨🇳CR-H13,#genre#
+💯特别频道3_690415,#genre#
 HEYZO720P01,https://videocdnbaidu.rhsj520.com/3/NY99/heyzo-0558/1500kb/hls/index.m3u8
 HEYZO720hd40,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1940_full/1500kb/hls/index.m3u8
 HEYZO720hd41,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1941_full/1500kb/hls/index.m3u8
@@ -3272,8 +3336,6 @@ HEYZO720hd81,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1981_full/1500kb/hls
 东热720N16,https://video1.rhsj520.com/nyrm3/2011225/DR/n0016/index.m3u8
 东热720N17,https://video1.rhsj520.com/nyrm3/2011225/DR/n0017/index.m3u8
 东热720N19,https://video1.rhsj520.com/nyrm3/2011225/DR/n0019/index.m3u8
-
-
 东热720P08,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181202/djr/n0817/index.m3u8
 东热720P09,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/3/djr/n0476/index.m3u8
 东热720P11,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181123/6/n0458/index.m3u8
@@ -3328,7 +3390,7 @@ HEYZO720hd81,https://video1.rhsj520.com/nyrm3/wuma/heyzo_hd_1981_full/1500kb/hls
 加勒比720P47,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121614-758/index.m3u8
 加勒比720P49,https://videocdnbaidu.rhsj520.com/2/rnmy2/20181125/2/jlb/121214-756/index.m3u8
 
-🇨🇳CR-XXX,#genre#
+💯特别频道4_690415,#genre#
 日本AV25,http://6122.vod.adultiptv.net/ph57dc082d2e128/play.m3u8
 日本AV27,http://6122.vod.redtraffic.xyz/ph5af7091a18357/play.m3u8
 日本AV28,http://218158.vod.redtraffic.xyz/ph564cd9b2320ef/play.m3u8
