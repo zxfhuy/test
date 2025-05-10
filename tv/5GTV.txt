@@ -474,6 +474,45 @@ CCTV15,http://nctv.top/IDOEPpiryt/migu.php?id=cctv15$咪咕
 CCTV16,http://nctv.top/IDOEPpiryt/migu.php?id=cctv16$咪咕
 CCTV17,http://nctv.top/IDOEPpiryt/migu.php?id=cctv17$咪咕
 
+影趣TV
+CCTV1,http://115.58.217.160:60001/hls/1/index.m3u8$『4G_TV』
+CCTV2,http://115.58.217.160:60001/hls/2/index.m3u8$『4G_TV』
+CCTV3,http://115.58.217.160:60001/hls/3/index.m3u8$『4G_TV』
+CCTV4,http://115.58.217.160:60001/hls/4/index.m3u8$『4G_TV』
+CCTV5,http://115.58.217.160:60001/hls/5/index.m3u8$『4G_TV』
+CCTV5+,http://115.58.217.160:60001/hls/60/index.m3u8$『4G_TV』
+CCTV6,http://115.58.217.160:60001/hls/6/index.m3u8$『4G_TV』
+CCTV7,http://115.58.217.160:60001/hls/7/index.m3u8$『4G_TV』
+CCTV8,http://115.58.217.160:60001/hls/8/index.m3u8$『4G_TV』
+CCTV9,http://115.58.217.160:60001/hls/9/index.m3u8$『4G_TV』
+CCTV10,http://115.58.217.160:60001/hls/10/index.m3u8$『4G_TV』
+CCTV11,http://115.58.217.160:60001/hls/11/index.m3u8$『4G_TV』
+CCTV12,http://115.58.217.160:60001/hls/12/index.m3u8$『4G_TV』
+CCTV13,http://115.58.217.160:60001/hls/13/index.m3u8$『4G_TV』
+CCTV15,http://115.58.217.160:60001/hls/14/index.m3u8$『4G_TV』
+CCTV15,http://115.58.217.160:60001/hls/15/index.m3u8$『4G_TV』
+CCTV16,http://115.58.217.160:60001/hls/16/index.m3u8$『4G_TV』
+CCTV17,http://115.58.217.160:60001/hls/17/index.m3u8$『4G_TV』
+
+CCTV1,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1745302573-0-0-92e2485820495106d9665e2e32ab80b2$『4G_CCTV1』
+CCTV2,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/K_CpRQ7HR/K_CpRQ7HR_live.m3u8?auth_key=1745302631-0-0-aa224736b718fddede1193ab86fdfbbf$『4G_CCTV2』
+CCTV3,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/cSGhRw7Hg/cSGhRw7Hg_live.m3u8?auth_key=1745305000-0-0-a2f80089810ca5c4b7e6b6aff5bfa0a5$『4G_CCTV3』
+CCTV4,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/8rd2RQ7Ng/8rd2RQ7Ng_live.m3u8?auth_key=1745305020-0-0-c7917c54a985650db81203ce9ca8ca81$『4G_CCTV4』
+CCTV5,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/svAhgwnHR/svAhgwnHR_live.m3u8?auth_key=1745305072-0-0-b64c8ab82d608e9557db021f2ee81b05$『4G_CCTV5』
+CCTV5+,http://tvbox6.icu/tv/migu.php?id=cctv5p$『4G_CCTV5+』
+CCTV6,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/v7q2gw7HR/v7q2gw7HR_live.m3u8?auth_key=1746275159-0-0-b6381dbe0530b79f365f59220d47e5cb$『4G_CCTV6』
+CCTV7,https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF$『4G_CCTV7』
+CCTV8,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/VScTgwnHR/VScTgwnHR_live.m3u8?auth_key=1745305130-0-0-798c76e7b3bd481ca9b87ae0ceb30b73$『4G_CCTV8』
+CCTV9,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/NzboRw7Hg/NzboRw7Hg_live.m3u8?auth_key=1745305157-0-0-fd66485ec3cb2476955869819bafbb6d$『4G_CCTV9』
+CCTV10,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/yx8oRw7NR/yx8oRw7NR_live.m3u8?auth_key=1745305181-0-0-5b47bf595123de9f9829e6636437bce2$『4G_CCTV10』
+CCTV11,http://115.58.217.160:60001/hls/11/index.m3u8$『4G_CCTV11』
+CCTV12,http://220.164.192.48:50085/tsfile/live/0013_1.m3u8$『4G_CCTV12』
+CCTV13,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/oMBDMw7HR/oMBDMw7HR_live.m3u8?auth_key=1745305208-0-0-c42d620b9f8a525bf35031483856f31b$『4G_CCTV13』
+CCTV14,http://115.58.217.160:60001/hls/14/index.m3u8$『4G_CCTV14』
+CCTV15,http://171.14.92.77:808/hls/15/index.m3u8$『4G_CCTV15』
+CCTV16,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/McNJgw7Hg/McNJgw7Hg_live.m3u8?auth_key=1745305104-0-0-394dd858ed1dbaacdf5804a639a433a3$『4G_CCTV16』
+CCTV17,http://171.14.92.77:808/hls/17/index.m3u8$『4G_CCTV17』
+
 🇨🇳河南电信
 CCTV1,http://119.129.172.42:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
 CCTV2,http://119.129.172.42:9901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$『河南电信』
@@ -1787,18 +1826,8 @@ CCTV15,http://222.90.142.172:9999/hls/15/index.m3u8$『陕西电信』
 浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8$高清
 之江记录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8$高清
 
-浙江新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-浙江少儿,https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江教科,https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-之江纪录,https://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-浙江民生,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-浙江经济,https://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
 浙江卫视,http://39.134.67.110/PLTV/88888888/224/3221225959/1.m3u8
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8
+浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225612/index.m3u8$高清1
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 浙江卫视,http://112.17.40.145/PLTV/88888888/224/3221226474/index.m3u8
 浙江卫视,http://39.134.65.249/PLTV/88888888/224/3221225514/1.m3u8$移动IPTV
@@ -1810,7 +1839,6 @@ CCTV15,http://222.90.142.172:9999/hls/15/index.m3u8$『陕西电信』
 浙江卫视,http://39.134.65.209/PLTV/88888888/224/3221225514/1.m3u8$移动IPTV
 浙江卫视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236269/index.m3u8
 浙江卫视,http://171.34.76.62:808/hls/27/index.m3u8
-浙江卫视,http://ali-m-l.cztv.com:80/channels/lantian/channel001/1080p.m3u8$高清
 浙江卫视,http://1.197.249.194:9901/tsfile/live/0124_1.m3u8$高清
 浙江卫视,http://148.135.93.213/live.php?id=浙江卫视$高清
 浙江卫视,http://120.192.226.35:8009/hls/34/index.m3u8$高清
@@ -1840,106 +1868,8 @@ CCTV15,http://222.90.142.172:9999/hls/15/index.m3u8$『陕西电信』
 浙江卫视,http://120.192.226.35:8009/hls/34/index.m3u8$IPTV
 浙江卫视,http://113.56.95.69:53765/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$IPTV
 浙江卫视,http://175.31.21.146:4480/hls/28/index.m3u8
-浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8?
-浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8
+浙江卫视,http://120.76.248.139/live/bfgd/4200000094.m3u8$高清
 浙江卫视,http://183.11.239.36:808/hls/37/index.m3u8
-
-钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-钱江都市,http://ali-m-l.cztv.com/channels/lantian/channel02/720p.m3u8?zzhed
-钱江都市,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
-
-经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-经济生活,http://ali-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8?zzhed
-经济生活,http://ali-m-l.cztv.com/channels/lantian/channel03/720p.m3u8?zzhed
-经济生活,http://ali-m-l.cztv.com/channels/lantian/channel17/1080p.m3u8
-
-教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-教科影院,http://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8?zzhed
-教科影院,http://ali-m-l.cztv.com/channels/lantian/channel04/720p.m3u8?zzhed
-
-影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
-影视娱乐,http://ali-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-
-民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8?zzhed
-民生休闲,http://ali-m-l.cztv.com/channels/lantian/channel06/720p.m3u8?zzhed
-民生休闲,https://ali-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-
-公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-公共新闻,http://ali-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-公共新闻,https://ali-m-l.cztv.com/channels/lantian/channel007/1080p.m3u8
-
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel08/1080p.m3u8
-浙江少儿,http://ali-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
-
-浙江国际,https://ali-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-之江记录,http://ali-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8?zzhed
-之江记录,http://ali-m-l.cztv.com/channels/lantian/channel12/720p.m3u8?zzhed
-之江记录,http://ali-m-l.cztv.com/channels/lantian/channel12/360p.m3u8?zzhed
-之江纪录,http://goo.bkpcp.top/mg/zjjl
-
-浙江卫视,http://123.154.104.203:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-钱江频道,http://123.154.104.203:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-经济生活,http://123.154.104.203:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-科教影视,http://123.154.104.203:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江新闻,http://123.154.104.203:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江少儿,http://123.154.104.203:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-民生休闲,http://123.154.104.203:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州综合,http://123.154.104.203:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-西湖明珠,http://123.154.104.203:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州生活,http://123.154.104.203:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州影视,http://123.154.104.203:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-
-浙江卫视,http://123.154.104.204:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-钱江频道,http://123.154.104.204:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-经济生活,http://123.154.104.204:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-科教影视,http://123.154.104.204:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江新闻,http://123.154.104.204:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江少儿,http://123.154.104.204:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-民生休闲,http://123.154.104.204:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州综合,http://123.154.104.204:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-西湖明珠,http://123.154.104.204:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州生活,http://123.154.104.204:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州影视,http://123.154.104.204:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-
-浙江卫视,http://123.154.107.165:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-钱江频道,http://123.154.107.165:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-经济生活,http://123.154.107.165:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-科教影视,http://123.154.107.165:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江新闻,http://123.154.107.165:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江少儿,http://123.154.107.165:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-民生休闲,http://123.154.107.165:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州综合,http://123.154.107.165:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-西湖明珠,http://123.154.107.165:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州生活,http://123.154.107.165:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州影视,http://123.154.107.165:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-
-浙江卫视,http://123.154.107.230:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-钱江频道,http://123.154.107.230:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-经济生活,http://123.154.107.230:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-科教影视,http://123.154.107.230:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江新闻,http://123.154.107.230:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江少儿,http://123.154.107.230:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-民生休闲,http://123.154.107.230:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州综合,http://123.154.107.230:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-西湖明珠,http://123.154.107.230:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州生活,http://123.154.107.230:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州影视,http://123.154.107.230:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
-
-浙江卫视,http://123.154.108.121:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
-钱江频道,http://123.154.108.121:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
-经济生活,http://123.154.108.121:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=0&authid=0
-科教影视,http://123.154.108.121:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江新闻,http://123.154.108.121:9901/tsfile/live/1003_1.m3u8?key=txiptv&playlive=0&authid=0
-浙江少儿,http://123.154.108.121:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=0&authid=0
-民生休闲,http://123.154.108.121:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州综合,http://123.154.108.121:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
-西湖明珠,http://123.154.108.121:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州生活,http://123.154.108.121:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
-杭州影视,http://123.154.108.121:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=0&authid=0
 
 杭州综合,http://goo.bkpcp.top/mg/hzzh
 西湖明珠,http://goo.bkpcp.top/mg/hzmz
@@ -1947,13 +1877,32 @@ CCTV15,http://222.90.142.172:9999/hls/15/index.m3u8$『陕西电信』
 杭州影视,http://goo.bkpcp.top/mg/hzys
 杭州少体,http://goo.bkpcp.top/mg/hzse
 
+杭州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228393/1/index.m3u8?fmt=ts2hls
+杭州综合,http://39.134.184.90:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228393/1/index.m3u8?fmt=ts2hls
+杭州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
+杭州综合,http://39.134.184.90:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
+杭州综合,http://183.133.105.150:8899/udp/233.50.201.21:5140
+杭州综合,http://183.133.104.139:8899/udp/233.50.201.21:5140
+杭州综合,http://60.178.149.202:4022/udp/233.50.201.21:5140
+
+杭州明珠,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
+杭州明珠,http://39.134.184.90:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
+杭州明珠,http://183.133.104.139:8899/udp/233.50.201.22:5140
+杭州明珠,http://183.133.107.171:8899/udp/233.50.201.22:5140
+杭州明珠,http://183.133.105.150:8899/udp/233.50.201.174:5140
+
+杭州生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
+杭州影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
+杭州少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
+杭州导视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
+
 衢州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235441/1/index.m3u8?fmt=ts2hls$8M_1080
 衢州综合,http://39.134.184.90:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235441/1/index.m3u8?fmt=ts2hls
 衢州综合,http://183.133.104.139:8899/udp/233.50.202.11:5140
 衢州综合,http://183.133.104.164:8899/udp/233.50.202.11:5140
-衢州综合,https://recordcdn.quklive.com/broadcast/activity/1676023284535369/record.m3u8
+衢州综合,https://recordcdn.quklive.com/broadcast/activity/1676023284535369/record.m3u8$高清
 衢州公共,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/1/index.m3u8?fmt=ts2hls$8M_1080
-衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
+衢江综合,http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8$高清
 衢江综合,http://play-sh13.quklive.com/live/1700720505174325.m3u8?auth_key=2027466026-7724b0f948044faa9f0b8d0ecfc275fc-0-dfc23fb7449b475a18a52dc4b796516e
 衢江综合,http://play-sh13.quklive.com/live/1700720505174325.m3u8?auth_key=1734407364-7867806e497949bcaca7fdbe574513e4-0-8c624f9f02bc9dc2073d419647aef8d5
 
@@ -1981,24 +1930,6 @@ CCTV15,http://222.90.142.172:9999/hls/15/index.m3u8$『陕西电信』
 龙游生活,http://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 龙游生活,https://l.cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8
 
-杭州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228393/1/index.m3u8?fmt=ts2hls
-杭州综合,http://39.134.184.90:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228393/1/index.m3u8?fmt=ts2hls
-杭州综合,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
-杭州综合,http://39.134.184.90:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230497/index.m3u8
-杭州综合,http://183.133.105.150:8899/udp/233.50.201.21:5140
-杭州综合,http://183.133.104.139:8899/udp/233.50.201.21:5140
-杭州综合,http://60.178.149.202:4022/udp/233.50.201.21:5140
-
-杭州明珠,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
-杭州明珠,http://39.134.184.90:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230466/index.m3u8
-杭州明珠,http://183.133.104.139:8899/udp/233.50.201.22:5140
-杭州明珠,http://183.133.107.171:8899/udp/233.50.201.22:5140
-杭州明珠,http://183.133.105.150:8899/udp/233.50.201.174:5140
-
-杭州生活,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230472/index.m3u8
-杭州影视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230500/index.m3u8
-杭州少儿,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230463/index.m3u8
-杭州导视,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221230469/index.m3u8
 
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxhb/index.m3u8
 绍兴新闻综合,http://live.shaoxing.com.cn/video/s10001-sxtv1/index.m3u8?zzhed
