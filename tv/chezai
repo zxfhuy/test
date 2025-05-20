@@ -259,6 +259,36 @@ CCTV15,http://14.212.185.146:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&
 CCTV17,http://14.212.185.146:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0$车载专用
 CCTV5＋,http://14.212.185.146:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0$车载专用
 
+CCTV1,http://ali-m-l.cztv.com/channels/lantian/channel15/1080p.m3u8
+CCTV1,http://39.135.136.68/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?
+CCTV1,http://39.135.133.9/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8?
+CCTV1,http://39.134.67.146/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8?
+CCTV1,http://39.135.133.8/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8?
+CCTV1,http://cdn5.zone.id/live/cctv1/stream.m3u8
+CCTV1,http://114.246.201.137:7088/rtp/239.3.1.129:8008
+CCTV1,http://lzoq.serv00.net/daili/Smartv.php?id=cctv1
+CCTV1,http://171.15.18.199:8180/TV00000000000000000001@HHZT
+CCTV1,http://119.32.12.17:2901/udp/224.1.100.90:11111
+
+CCTV2,http://39.135.136.69/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV2,http://39.135.133.9/ottrrs.hl.chinamobile.com/PLTV/2/224/3221225588/2.m3u8
+CCTV2,http://39.135.136.68/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8?
+CCTV2,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+
+CCTV2,http://39.135.135.55/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?
+CCTV2,http://39.135.136.67/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225588/index.m3u8?
+CCTV2,http://39.135.135.55/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226540/index.m3u8
+
+
+CCTV4,http://114.246.201.137:7088/rtp/239.3.1.105:8092
+CCTV4,http://222.212.84.190:54123/udp/239.93.1.105:5140
+CCTV4,http://119.32.12.17:2901/udp/224.1.100.104:11111
+CCTV4,http://cdn.jdshipin.com:8880/hljyd.php?id=3221226428
+
+CCTV13,http://58.62.234.21:10000/udp/239.77.0.188:5146
+CCTV13,http://171.15.18.199:8180/TV00000000000000000013@HHZT
+CCTV13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
+
 卫视-专区,#genre#
 湖南卫视,http://tvbox6.icu/tv/migu.php?id=hunws$LR•IPV4『线路79』
 东方卫视,http://tvbox6.icu/tv/migu.php?id=dfws$LR•IPV4『线路89』
@@ -454,6 +484,8 @@ CHC动作电影,http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv&play
 内蒙古卫视,http://14.212.185.146:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0$车载专用
 青海卫视,http://14.212.185.146:9901/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0$车载专用
 海南卫视,http://14.212.185.146:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=1&authid=0$车载专用
+
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8
 
 移动-综合,#genre#
 CCTV1,http://goo.bkpcp.top/mg/cctv1
