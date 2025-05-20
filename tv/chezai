@@ -90,6 +90,24 @@ CCTV13,http://183.238.120.90:4430/hls/13/index.m3u8$标清
 CCTV14,http://183.238.120.90:4430/hls/14/index.m3u8$标清
 CCTV15,http://183.238.120.90:4430/hls/15/index.m3u8$标清
 
+CCTV1,http://111.229.24.88:93/hls/migu.php?id=cctv1$『migu』
+CCTV2,http://111.229.24.88:93/hls/migu.php?id=cctv2$『migu』
+CCTV3,http://111.229.24.88:93/hls/migu.php?id=cctv3$『migu』
+CCTV4,http://111.229.24.88:93/hls/migu.php?id=cctv4$『migu』
+CCTV5,http://111.229.24.88:93/hls/migu.php?id=cctv5$『migu』
+CCTV6,http://111.229.24.88:93/hls/migu.php?id=cctv6$『migu』
+CCTV7,http://111.229.24.88:93/hls/migu.php?id=cctv7$『migu』
+CCTV8,http://111.229.24.88:93/hls/migu.php?id=cctv8$『migu』
+CCTV9,http://111.229.24.88:93/hls/migu.php?id=cctv9$『migu』
+CCTV10,http://111.229.24.88:93/hls/migu.php?id=cctv10$『migu』
+CCTV11,http://111.229.24.88:93/hls/migu.php?id=cctv11$『migu』
+CCTV12,http://111.229.24.88:93/hls/migu.php?id=cctv12$『migu』
+CCTV13,http://111.229.24.88:93/hls/migu.php?id=cctv13$『migu』
+CCTV14,http://111.229.24.88:93/hls/migu.php?id=cctv14$『migu』
+CCTV15,http://111.229.24.88:93/hls/migu.php?id=cctv15$『migu』
+CCTV16,http://111.229.24.88:93/hls/migu.php?id=cctv16$『migu』
+CCTV17,http://111.229.24.88:93/hls/migu.php?id=cctv17$『migu』
+
 CCTV1,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/8ispgQnNg/8ispgQnNg_live.m3u8?auth_key=1745302573-0-0-92e2485820495106d9665e2e32ab80b2$『4G_CCTV1』
 CCTV2,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/K_CpRQ7HR/K_CpRQ7HR_live.m3u8?auth_key=1745302631-0-0-aa224736b718fddede1193ab86fdfbbf$『4G_CCTV2』
 CCTV3,https://orgcc.chenggongjiaxiao.xyz/livetv/hlcc/cSGhRw7Hg/cSGhRw7Hg_live.m3u8?auth_key=1745305000-0-0-a2f80089810ca5c4b7e6b6aff5bfa0a5$『4G_CCTV3』
