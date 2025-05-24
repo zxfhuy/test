@@ -69,6 +69,12 @@ https://vd3.bdstatic.com/mda-qhefab9hrm1gpd40/cae_h264/1723721234480174381/mda-q
 https://vd3.bdstatic.com/mda-rcgj9e2fu2aqma2x/360p/youjia_clip_normal_sv/1742219656620232502/mda-rcgj9e2fu2aqma2x.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺影院-视界",来人间走个过场
 https://vd3.bdstatic.com/mda-qdd218jqs83murvu/cae_h264/1713166092065650309/mda-qdd218jqs83murvu.mp4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",赣州新闻
+https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",赣州教育
+https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",赣州公共
+https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526334096251.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺影院-视界",央视春晚
 https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺影院-视界",粤港春晚
@@ -1854,347 +1860,347 @@ https://tencentplay.gztv.com/live/yingshi.m3u8?txSecret=88ad17e0518f41980b392744
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺移动-综合",广州新闻
 https://tencentplay.gztv.com/live/xinwen.m3u8?txSecret=c651b79c107d9cde3914d011cbb896a6&txTime=190def3c97d
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://59.35.185.200:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&down=1$广东-电信
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",星空卫视
 http://59.35.185.200:9901/tsfile/live/0133_1.m3u8?key=txiptv&playlive=1&down=1$广东-电信
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.ts
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.ts
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰资讯
 P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.ts
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰香港
 P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.ts
-#EXTINF:-1 tvg-id="141" tvg-name="翡翠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",翡翠
+#EXTINF:-1 tvg-id="141" tvg-name="翡翠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",翡翠
 P2p://80.251.220.91:7999/5a931ed422bf2e182d41abbca438a74b.ts
-#EXTINF:-1 tvg-id="141" tvg-name="翡翠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",翡翠
+#EXTINF:-1 tvg-id="141" tvg-name="翡翠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",翡翠
 P2p://80.251.220.91:7999/504c060715cce75a464f812d0fd8213a.ts
-#EXTINF:-1 tvg-id="141" tvg-name="翡翠4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",翡翠4K
+#EXTINF:-1 tvg-id="141" tvg-name="翡翠4K" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",翡翠4K
 P2p://80.251.220.91:7999/114d4bdfcd993a587dbda655a2aeb984.ts
-#EXTINF:-1 tvg-id="141" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",无线新闻
+#EXTINF:-1 tvg-id="141" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",无线新闻
 P2p://80.251.220.91:7999/0d3f54c8f9addf9e18d5f9dac5adae19.ts
-#EXTINF:-1 tvg-id="141" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",无线新闻
+#EXTINF:-1 tvg-id="141" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",无线新闻
 P2p://80.251.220.91:7999/3b8f1e91f35c8892ef3ee7c53bddd0c9.ts
-#EXTINF:-1 tvg-id="141" tvg-name="明珠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",明珠
+#EXTINF:-1 tvg-id="141" tvg-name="明珠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",明珠
 P2p://80.251.220.91:7999/9d18cf20b598bdc32830b6d46bda9e48.ts
-#EXTINF:-1 tvg-id="141" tvg-name="明珠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",明珠
+#EXTINF:-1 tvg-id="141" tvg-name="明珠" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",明珠
 P2p://80.251.220.91:7999/5e208d730000eef3097b609e7dab4938.ts
-#EXTINF:-1 tvg-id="141" tvg-name="澳门资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",澳门资讯
+#EXTINF:-1 tvg-id="141" tvg-name="澳门资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",澳门资讯
 P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.ts
-#EXTINF:-1 tvg-id="141" tvg-name="TVB星河国" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",TVB星河国
+#EXTINF:-1 tvg-id="141" tvg-name="TVB星河国" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",TVB星河国
 P2p://80.251.220.91:7999/cd7576789e91fb8a757fa0e1468651a5.ts
-#EXTINF:-1 tvg-id="141" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",华视
+#EXTINF:-1 tvg-id="141" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",华视
 P2p://80.251.220.91:7999/bd4e7f7bad08b193f4b87a8b8d53f40b.ts
-#EXTINF:-1 tvg-id="141" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",中天新闻
+#EXTINF:-1 tvg-id="141" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",中天新闻
 P2p://80.251.220.91:7999/afbdb12456fc0f895b0c315e8aa844db.ts
-#EXTINF:-1 tvg-id="141" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",中天新闻
+#EXTINF:-1 tvg-id="141" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",中天新闻
 P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.ts
-#EXTINF:-1 tvg-id="141" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",台视
+#EXTINF:-1 tvg-id="141" tvg-name="台视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",台视
 P2p://80.251.220.91:7999/e287cdb5f6fa690e04bfebca3fa1288d.ts
-#EXTINF:-1 tvg-id="141" tvg-name="爆谷" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",爆谷
+#EXTINF:-1 tvg-id="141" tvg-name="爆谷" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",爆谷
 P2p://80.251.220.91:7999/8a11f82cf1c657e2db6ed1fdc2dcb3ed.ts
-#EXTINF:-1 tvg-id="141" tvg-name="爆谷" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",爆谷
+#EXTINF:-1 tvg-id="141" tvg-name="爆谷" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",爆谷
 P2p://80.251.220.91:7999/919d3c4761c9626e5c07d5749ddcc0b5.ts
-#EXTINF:-1 tvg-id="141" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",中天新闻
+#EXTINF:-1 tvg-id="141" tvg-name="中天新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",中天新闻
 P2p://80.251.220.91:7999/8d13c790ceb548d8627d2e5f0382e489.ts
-#EXTINF:-1 tvg-id="141" tvg-name="澳门资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",澳门资讯
+#EXTINF:-1 tvg-id="141" tvg-name="澳门资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",澳门资讯
 P2p://80.251.220.91:7999/d4a0807f063ba50ebfdede327fe9c158.ts
-#EXTINF:-1 tvg-id="141" tvg-name="TVB" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",TVBE
+#EXTINF:-1 tvg-id="141" tvg-name="TVB" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",TVBE
 P2p://80.251.220.91:7999/919d3c4761c9626e5c07d5749ddcc0b5.ts
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 P2p://80.251.220.91:7999/2e1416e03c5d5b88468e6ba1bdf80075.m3u8$高清P2p
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰资讯
 P2p://80.251.220.91:7999/e66ec28b5bdb0f8892cfc046a80d775c.m3u8$高清P2p
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰资讯
 P2p://80.251.220.91:7999/ee987b5f253f85f3ac789fc18266e98d.m3u8$高清P2p
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰香港
 P2p://80.251.220.91:7999/02e951464b17777d78d69d2c83af22c8.m3u8$高清P2p
 
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://202.168.187.208:9089/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://108.181.20.197:40827/
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://108.181.20.197:42013/
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://119.32.12.17:2901/udp/224.1.100.3:11111
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://202.168.187.208:9089/tsfile/live/1009_1.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://183.237.95.108:9901/tsfile/live/1103_1.m3u8?key=txiptv&playlive=0&authid=0
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://haoyunlai.serv00.net/Smartv-1.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://120.198.95.220:9901/tsfile/live/1036_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv$高清
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv$高清
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 https://live.tvfix.org/live/fhzw/1/v4000000/index.m3u8$高清无声音
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 https://live.tvfix.org/live/fhzw/index.m3u8$流畅
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://50.7.234.10:8278/phoenixtv_hd/playlist.m3u8?tid=MF6F2163882521638825&ct=19249&tsum=2375037c2689c4190d14c8a52bc35c83$高清
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://119.32.12.32:2901/udp/224.1.100.3:11111
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://119.32.12.17:2901/udp/224.1.100.3:11111
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.3:11111
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=3c732f93c14e1bc0c07641df-156388849014752&amp;wsIPSercert=8de23d0849e78e3b16ec92a2092354
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://live4play.uk/livehttpplay?channel_id=30015#http://108.181.20.197:40921/
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://php.jdshipin.com/PLTV/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://live4play.uk/livehttpplay?channel_id=20066#http://108.181.20.197:36467/
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://150.138.77.132:10037/xxw/Smartv.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://110.81.206.138:49231/tsfile/live/23019_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://qctv.fengshows.cn/live/0701pin72.flv?txSecret=815ea4a31da031ab637d2fd4915be70e&txTime=68245395
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://120.198.95.220:9901/tsfile/live/1037_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://lzoq.serv00.net/daili/Smartv.php?id=phoenixinfo_hd
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.flv$高清
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://110.81.206.138:49231/tsfile/live/23019_1.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://218.104.239.114:9901/tsfile/live/1012_1.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://118.249.199.31:9999/udp/239.76.253.134:9000
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://60.178.238.107:888/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://60.177.235.185:55555/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 http://live4play.uk/livehttpplay?channel_id=30016
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 http://live4play.uk/livehttpplay?channel_id=20067
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8$高清
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 http://lzoq.serv00.net/daili/Smartv.php?id=hkphoenix_twn
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 https://live.tvfix.org/live/fwxg/index.m3u8$高清
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8$高清
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 https://live.tvfix.org/live/fwxg/2/v2500000/index.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 http://50.7.234.10:8278/hkphoenix_twn/playlist.m3u8?tid=MACA2858291128582911&ct=19225&tsum=0f01288bbaa6c0403d07e96b0a5db4ed
-#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="📺粤港澳台",香港卫视
+#EXTINF:-1 tvg-id="412" tvg-name="HKS" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png" group-title="📺粤港-澳台",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8?wsSession=e5b4ef626c5980be2fbdf2e7-158332927312639&amp;wsIPSercert=6f8d45434604e7d22f5b0abbc0231d01&amp;wsMonitor=0$高清
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 http://ali.hlspull.yximgs.com/live/qwt_fhzw.flv
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 http://ali.hlspull.yximgs.com/live/qwt_fhzx.flv
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 http://ali.hlspull.yximgs.com/live/qwt_fhhk.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",亚洲卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",亚洲卫视
 https://p2hs.vzan.com/slowlive/821481626725612419/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",TVB无线华丽
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",TVB无线华丽
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="📺粤港澳台",TVB无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="📺粤港-澳台",TVB无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="📺粤港澳台",TVB无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="📺粤港-澳台",TVB无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="📺粤港澳台",TVB无线新闻
+#EXTINF:-1 tvg-id="130" tvg-name="无线新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/wxxw.png" group-title="📺粤港-澳台",TVB无线新闻
 http://php.jdshipin.com:8880/smt.php?id=inews_twn
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",TVB星河
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",TVB星河
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",TVB星河
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="📺粤港澳台",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="📺粤港-澳台",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="📺粤港澳台",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="📺粤港-澳台",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="📺粤港澳台",TVBS新闻台
+#EXTINF:-1 tvg-id="6073" tvg-name="TVBS新闻台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png" group-title="📺粤港-澳台",TVBS新闻台
 http://61.221.215.25:8800/hls/9/index.m3u8
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="📺粤港澳台",J2
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="📺粤港-澳台",J2
 http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
-#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="📺粤港澳台",J2
+#EXTINF:-1 tvg-id="416" tvg-name="J2" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" group-title="📺粤港-澳台",J2
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=j2
-#EXTINF:-1 tvg-id="7197" tvg-name="纬来精采" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png" group-title="📺粤港澳台",纬来精采
+#EXTINF:-1 tvg-id="7197" tvg-name="纬来精采" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/weilaojingcai.png" group-title="📺粤港-澳台",纬来精采
 http://61.221.215.25:8800/hls/48/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",中天新闻台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",中天新闻台
 http://ali.hlspull.yximgs.com/live/qwt_zhongtianxinwen.flv
-#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="📺粤港澳台",中天娱乐
+#EXTINF:-1 tvg-id="6057" tvg-name="中天娱乐台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CtiEntertainment.png" group-title="📺粤港-澳台",中天娱乐
 http://61.221.215.25:8800/hls/47/index.m3u8
-#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="📺粤港澳台",大立电视台
+#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="📺粤港-澳台",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="📺粤港澳台",大立电视台
+#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="📺粤港-澳台",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="📺粤港澳台",大立电视台
+#EXTINF:-1 tvg-id="6134" tvg-name="大立电视台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DaliTV.png" group-title="📺粤港-澳台",大立电视台
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港澳台",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港-澳台",明珠台
 http://120.198.101.106:9901/tsfile/live/1008_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港澳台",明珠台
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港-澳台",明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3&token=512df05ba47edb46400575c93e179adb7981226d414516400ed1d382cb126adc517715d4ccd3a2276bf3c7b72d52f58905225cf0b1cc461b7888443f
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",翡翠台
 http://v2h.jdshipin.com:80/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",翡翠台
 http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",翡翠台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",翡翠台
 http://ali.hlspull.yximgs.com/live/qwt_feicui.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",龙华卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",龙华卡通
 https://cdn8.163189.xyz/live/lhkt/stream.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="📺粤港澳台",美亚电影台
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="📺粤港-澳台",美亚电影台
 https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="📺粤港澳台",美亚电影台
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="📺粤港-澳台",美亚电影台
 http://php.jdshipin.com:8880/TVOD/iptv.php?id=meiya
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="📺粤港澳台",美亚电影台
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="📺粤港-澳台",美亚电影台
 http://php.jdshipin.com:8880/smt.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="📺粤港澳台",美亚电影台
+#EXTINF:-1 tvg-id="145" tvg-name="美亚高清电影台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/meiyamovie.png" group-title="📺粤港-澳台",美亚电影台
 https://live.tvfix.org/live/mydy/1/v4000000/index.m3u8
-#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="📺粤港澳台",人间卫视
+#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="📺粤港-澳台",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="📺粤港澳台",人间卫视
+#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="📺粤港-澳台",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u8
-#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="📺粤港澳台",人间卫视
+#EXTINF:-1 tvg-id="6029" tvg-name="人间卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BeautifulLife.png" group-title="📺粤港-澳台",人间卫视
 http://61.216.67.119:1935/bltvhd/bltv1/chunklist_w1266569526.m3u
-#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="📺粤港澳台",三立戏剧
+#EXTINF:-1 tvg-id="75" tvg-name="中国教育3台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育3台.png" group-title="📺粤港-澳台",三立戏剧
 http://61.221.215.25:8800/hls/41/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",八度空间
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",新加CHU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",新加CHU
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",新加CH5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",新加CH5
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",新加CH8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",新加CH8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",千禧经典台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",千禧经典台
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic#http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",翡翠台
 http://qjrhc.jydjd.top:2911/udp/224.1.100.121:11111
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",翡翠台
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",翡翠台
 http://qjrhc.jydjd.top:2911/udp/224.1.100.122:11111
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港澳台",TVB明珠
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港-澳台",TVB明珠
 http://qjrhc.jydjd.top:2911/udp/224.1.100.2:11111
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港澳台",TVB明珠
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港-澳台",TVB明珠
 http://qjrhc.jydjd.top:2911/udp/224.1.100.123:11111
-#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港澳台",TVB明珠
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" group-title="📺粤港-澳台",TVB明珠
 http://qjrhc.jydjd.top:2911/udp/224.1.100.124:11111
-#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港澳台",凤凰卫视
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" group-title="📺粤港-澳台",凤凰卫视
 https://cdn.163189.xyz/live/fhzw/stream.m3u8
-#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港澳台",凤凰资讯
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" group-title="📺粤港-澳台",凤凰资讯
 https://cdn6.163189.xyz/live/fhzx/stream.m3u8
-#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港澳台",凤凰香港
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" group-title="📺粤港-澳台",凤凰香港
 https://cdn6.163189.xyz/live/fhhk/stream.m3u8
-#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港澳台",无线翡翠
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png" group-title="📺粤港-澳台",无线翡翠
 https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",RTHK-31
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",RTHK-31
 https://cdn5.163189.xyz/live/rthk31/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",RTHK-32
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",RTHK-32
 https://cdn5.163189.xyz/live/rthk32/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",香港RTHK33
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",香港RTHK33
 https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",香港RTHK34
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",香港RTHK34
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream04/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",香港RTHK35
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",香港RTHK35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream02/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",八度空间
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",八度空间
 https://cdn6.163189.xyz/live/8tv/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",新加CHU
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",新加CHU
 https://cdn6.163189.xyz/live/chu/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",新加CH5
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",新加CH5
 https://cdn6.163189.xyz/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",新加CH8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",新加CH8
 https://cdn6.163189.xyz/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="📺粤港澳台",龙华电影
+#EXTINF:-1 tvg-id="7128" tvg-name="龙华电影" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华电影.png" group-title="📺粤港-澳台",龙华电影
 https://cdn3.132.us.kg/live/lhdy/stream.m3u8
-#EXTINF:-1 tvg-id="7130" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" group-title="📺粤港澳台",龙华经典
+#EXTINF:-1 tvg-id="7130" tvg-name="龙华经典" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华经典.png" group-title="📺粤港-澳台",龙华经典
 https://cdn3.132.us.kg/live/lhjd/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",龙华卡通
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",龙华卡通
 https://cdn3.132.us.kg/live/lhkt/stream.m3u8
-#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="📺粤港澳台",龙华偶像
+#EXTINF:-1 tvg-id="7126" tvg-name="龙华偶像" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华偶像.png" group-title="📺粤港-澳台",龙华偶像
 https://cdn3.132.us.kg/live/lhox/stream.m3u8
-#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="📺粤港澳台",龙华日韩
+#EXTINF:-1 tvg-id="7158" tvg-name="龙华日韩台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华日韩.png" group-title="📺粤港-澳台",龙华日韩
 https://cdn3.132.us.kg/live/lhrh/stream.m3u8
-#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="📺粤港澳台",龙华戏剧
+#EXTINF:-1 tvg-id="7127" tvg-name="龙华戏剧" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/龙华戏剧.png" group-title="📺粤港-澳台",龙华戏剧
 https://cdn3.132.us.kg/live/lhxj/stream.m3u8
-#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="📺粤港澳台",央视综合
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="📺粤港-澳台",央视综合
 https://cdn5.132.us.kg/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",澳亚卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",澳亚卫视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.12:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",澳亚卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",澳亚卫视
 http://119.32.12.17:2901/udp/224.1.100.12:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",澳亚卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",澳亚卫视
 http://119.32.12.32:2901/udp/224.1.100.12:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",星空卫视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",星空卫视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.13:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",重温经典
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",重温经典
 https://ali.hlspull.yximgs.com/live/awei_cwjd.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",星光电影台
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",星光电影台
 https://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广州综合
 http://qjrhc.jydjd.top:2911/udp/224.1.100.36:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广州综合
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广州综合
 http://qjrhc.jydjd.top:2911/udp/224.1.100.35:11111
-#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="📺粤港澳台",广东新闻
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/GDTV6.png" group-title="📺粤港-澳台",广东新闻
 http://qjrhc.jydjd.top:2911/udp/224.1.100.5:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广东民生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广东民生
 http://qjrhc.jydjd.top:2911/udp/224.1.100.152:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广东民生
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广东民生
 http://qjrhc.jydjd.top:2911/udp/224.1.100.4:11111
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📺粤港澳台",广东珠江
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📺粤港-澳台",广东珠江
 http://qjrhc.jydjd.top:2911/udp/224.1.100.24:11111
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📺粤港澳台",广东珠江
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📺粤港-澳台",广东珠江
 http://qjrhc.jydjd.top:2911/udp/224.1.100.23:11111
-#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📺粤港澳台",广东珠江
+#EXTINF:-1 tvg-id="7125" tvg-name="珠江频道" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/zhujiang.png" group-title="📺粤港-澳台",广东珠江
 http://qjrhc.jydjd.top:2911/udp/224.1.100.191:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广州新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广州新闻
 http://qjrhc.jydjd.top:2911/udp/224.1.100.37:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广州新闻
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广州新闻
 http://qjrhc.jydjd.top:2911/udp/224.1.100.38:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广州影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广州影视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.88:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广州影视
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广州影视
 http://qjrhc.jydjd.top:2911/udp/224.1.100.87:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广州竞赛
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广州竞赛
 http://qjrhc.jydjd.top:2911/udp/224.1.100.106:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",广州竞赛
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",广州竞赛
 http://qjrhc.jydjd.top:2911/udp/224.1.100.105:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",佛山公共
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",佛山公共
 http://qjrhc.jydjd.top:2911/udp/224.1.100.134:11111
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港澳台",中华美食
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺粤港-澳台",中华美食
 http://qjrhc.jydjd.top:2911/udp/224.1.100.138:11111
-#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="📺粤港澳台",优漫卡通
+#EXTINF:-1 tvg-id="1046" tvg-name="优漫卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youman.png" group-title="📺粤港-澳台",优漫卡通
 http://qjrhc.jydjd.top:2911/udp/224.1.100.119:11111
 
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="📺浙江-地方",浙江卫视
@@ -2337,6 +2343,14 @@ http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/1/index.m3u8
 http://39.134.184.104:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221235443/1/index.m3u8?fmt=ts2hls$移动IPTV8M
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",衢州公共
 http://39.134.184.104:8089/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221233808/1/index.m3u8?fmt=ts2hls$移动IPTV8M
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",常山新闻
+https://play-sh13.quklive.com/live/1621306190044902.flv?auth_key=2063426953-fdc278bdfd0847d5a07da4fb1887f59f-0-c4034ebd03161c22aca2025f168c37d7
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",常山新闻
+http://play-sh13.quklive.com/live/1621306190044902.m3u8?auth_key=2037583656-ef3f13ea492449d08f0141857ddc37a9-0-9da99e30ae70e3d5f90d3d18c43e4f0a
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",常山新闻
+http://play-sh13.quklive.com/live/1621306190044902.m3u8?auth_key=2039564859-cb8fffa2c8664b8cb3a9b91957f5c170-0-43e3810f59815a25003cf1afa55dff9f
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",常山新闻
+http://play-sh13.quklive.com/live/1621306190044902.flv?auth_key=2049769512-c15adc44884b46428e0ad60c4c19f5c3-0-1b0feaf35377e944af820b623ad9b67a
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",衢州衢江综合
 http://l.cztvcloud.com/channels/lantian/SXqujiang1/720p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="📺浙江-地方",衢州衢江综合
