@@ -1,0 +1,38 @@
+[
+  {
+    "name": "央视频道",
+	"type": 0,
+    "url": "./央视卫视/央视频道.nzk&&&./tp/cctv.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "卫视频道",
+	"type": 0,
+    "url": "./央视卫视/卫视频道.nzk&&&./tp/ws1.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "猫TV直播",
+	"type": 0,
+    "url": "./央视卫视/gggg.nzk&&&./tp/789.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "综合直播",
+	"type": 0,
+    "url": "./央视卫视/运营商.nzk&&&./tp/wszh.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "春盈天下",
+	"type": 0,
+    "url": "./央视卫视/feyax3.nzk&&&./tp/cytx.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "浙江地方",
+	"type": 0,
+    "url": "./地方台/浙江地方.nzk&&&./tp/zjws.jpg",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  }
+]

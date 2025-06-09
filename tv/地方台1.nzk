@@ -1,0 +1,32 @@
+[
+  {
+    "name": "四川地方",
+	"type": 0,
+    "url": "./地方台/四川地方.nzk&&&./tp/scws.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "安徽地方",
+	"type": 0,
+    "url": "./央视卫视/安徽地方.nzk&&&./tp/anhws",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "猫TV直播",
+	"type": 0,
+    "url": "./央视卫视/gggg.nzk&&&./tp/nf.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "春盈天下",
+	"type": 0,
+    "url": "./央视卫视/feyax3.nzk&&&./tp/ol.txt",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "浙江地方",
+	"type": 0,
+    "url": "./地方台/浙江地方.nzk&&&./tp/zjws.jpg",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "电视家",
+	"type": 0,
+    "url": "./央视卫视/dsj3.0.nzk&&&./tp/dsj.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "EPG直播",
+	"type": 0,
+    "url": "./央视卫视/EPG直播.nzk&&&./tp/logo-32.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "NewTV",
+	"type": 0,
+    "url": "./央视卫视/NewTV精品.nzk&&&./tp/nf.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "春晚联欢",
+	"type": 0,
+    "url": "./央视卫视/春晚联欢.nzk&&&./tp/cnn.png",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  },
+  {
+    "name": "少儿动画",
+	"type": 0,
+    "url": "./央视卫视/少儿动画.nzk&&&./tp/263.jpg",
+	"epg": "http://epg.112114.xyz/?ch={name}&date={date}"
+  }
+]
