@@ -1975,6 +1975,13 @@ CCTV15,http://101.66.198.77:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&a
 杭州影视,http://101.66.198.77:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0$浙江-联通77
 
 港澳-频道,#genre#
+凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$流畅播放
+凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$流畅播放
+凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk$流畅播放
+凤凰资讯,http://203.205.191.53/qctv.fengshows.cn/live/0701pin72.m3u8
+凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8
+凤凰香港,http://203.205.191.53/qctv.fengshows.cn/live/0701phk72.m3u8
+香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8#http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 凤凰中文,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8$浙江移动
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.m3u8$凤凰中文
 凤凰中文,http://203.205.191.53/qctv.fengshows.cn/live/0701pcc72.flv$凤凰中文
