@@ -1587,15 +1587,6 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 赤峰新闻综合,https://livestream-bt.nmtv.cn/nmtv/2351general.m3u8?txSecret=8857087aeec2cec44d178a18550fdb8a&txTime=771E8800
 乌兰察布新闻,https://livestream-bt.nmtv.cn/nmtv/2354general.m3u8?txSecret=cf5f71d0000862b18f5813607b3dfd5b&txTime=771E8800
 北京-综合
-北京超清,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1747832421&sign=ce2ffd88075ec2271a42bbb0cdf34f20
-北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1747832417&sign=51820474c5043c518db1c8f7c2b2f988
-北京新闻,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s9/index.m3u8?time=1747832420&sign=9fce67a75b9c3acc6e26da2e52d8cdc6
-北京影视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s4/index.m3u8?time=1747832418&sign=6795ae03c7a324da59e980c60c302d08
-北京生活,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s7/index.m3u8?time=1747832420&sign=36b722bdd07fd091abeb21764b69db7c
-北京文艺,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s2/index.m3u8?time=1747832417&sign=89b61ad0e0f2bd4b67b8ca9f51183ca7
-北京财经,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s5/index.m3u8?time=1747832419&sign=406b89b24b43d4bc2ff391f325d13b48
-北京卡酷少儿,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s10/index.m3u8?time=1747832421&sign=16c7d3aaf7fc57ca944329352d420d96
-北京纪实科教,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s3/index.m3u8?time=1747832418&sign=ed8a48310da23381a02e2c8c70134128
 北京纪实科教,http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
 北京纪实科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226656/1.m3u8
 北京纪实科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226658/1.m3u8

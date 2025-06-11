@@ -124,6 +124,25 @@ MIAB-220,https://sex8sex8sex8.com/20250304/S89cABhT/3000kb/hls/index.m3u8$人妻
 潮妈辣婆,http://39.135.133.157:80/PLTV/88888888/224/3221225521/1.m3u8
 
 央视-专区,#genre#
+CCTV1,http://163.142.186.48:9901/tsfile/live/1001_1.m3u8$标清
+CCTV2,http://163.142.186.48:9901/tsfile/live/1002_1.m3u8$标清
+CCTV3,http://163.142.186.48:9901/tsfile/live/1003_1.m3u8$标清
+CCTV4,http://163.142.186.48:9901/tsfile/live/1004_1.m3u8$标清
+CCTV5,http://163.142.186.48:9901/tsfile/live/1005_1.m3u8$标清
+CCTV5+,http://39.164.180.36:19901/tsfile/live/0016_1.m3u8?key=txiptv&playlive=0&authid=0
+CCTV6,http://163.142.186.48:9901/tsfile/live/1006_1.m3u8$标清
+CCTV7,http://163.142.186.48:9901/tsfile/live/1007_1.m3u8$标清
+CCTV8,http://163.142.186.48:9901/tsfile/live/1008_1.m3u8$标清
+CCTV9,http://163.142.186.48:9901/tsfile/live/1009_1.m3u8$标清
+CCTV10,http://163.142.186.48:9901/tsfile/live/1010_1.m3u8$标清
+CCTV11,http://163.142.186.48:9901/tsfile/live/1011_1.m3u8$标清
+CCTV12,http://163.142.186.48:9901/tsfile/live/1012_1.m3u8$标清
+CCTV13,http://163.142.186.48:9901/tsfile/live/1013_1.m3u8$标清
+CCTV14,http://163.142.186.48:9901/tsfile/live/1014_1.m3u8$标清
+CCTV15,http://163.142.186.48:9901/tsfile/live/1015_1.m3u8$标清
+CCTV16,http://163.142.186.48:9901/tsfile/live/1016_1.m3u8$高清
+CCTV17,http://163.142.186.48:9901/tsfile/live/1017_1.m3u8$标清
+
 CCTV1,http://39.164.180.36:19901/tsfile/live/0001_2.m3u8?key=txiptv&playlive=0&authid=0
 CCTV2,http://39.164.180.36:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV3,http://39.164.180.36:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -156,23 +175,6 @@ CCTV12,http://112.46.105.20:8009/hls/507/index.m3u8
 CCTV1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=1c4b31&tk=922ba46651d3
 CCTV1,http://39.137.75.230/000000001000/1000000001000018602/index.m3u8?channel-id=ystenlive&Contentid=1000000001000018602&livemode=1&stbId=no
 
-CCTV1,http://163.142.186.48:9901/tsfile/live/1001_1.m3u8$标清
-CCTV2,http://163.142.186.48:9901/tsfile/live/1002_1.m3u8$标清
-CCTV3,http://163.142.186.48:9901/tsfile/live/1003_1.m3u8$标清
-CCTV4,http://163.142.186.48:9901/tsfile/live/1004_1.m3u8$标清
-CCTV5,http://163.142.186.48:9901/tsfile/live/1005_1.m3u8$标清
-CCTV6,http://163.142.186.48:9901/tsfile/live/1006_1.m3u8$标清
-CCTV7,http://163.142.186.48:9901/tsfile/live/1007_1.m3u8$标清
-CCTV8,http://163.142.186.48:9901/tsfile/live/1008_1.m3u8$标清
-CCTV9,http://163.142.186.48:9901/tsfile/live/1009_1.m3u8$标清
-CCTV10,http://163.142.186.48:9901/tsfile/live/1010_1.m3u8$标清
-CCTV11,http://163.142.186.48:9901/tsfile/live/1011_1.m3u8$标清
-CCTV12,http://163.142.186.48:9901/tsfile/live/1012_1.m3u8$标清
-CCTV13,http://163.142.186.48:9901/tsfile/live/1013_1.m3u8$标清
-CCTV14,http://163.142.186.48:9901/tsfile/live/1014_1.m3u8$标清
-CCTV15,http://163.142.186.48:9901/tsfile/live/1015_1.m3u8$标清
-CCTV16,http://163.142.186.48:9901/tsfile/live/1016_1.m3u8$高清
-CCTV17,http://163.142.186.48:9901/tsfile/live/1017_1.m3u8$标清
 云南-电信
 //http://120.76.248.139/udp/zhgxtv.html
 //http://120.76.248.139/udp/zhgxtv_chlist.php?deviceId=4f78568aa2c6b123ef1317151549f52c&ip=116.249.158.22:808
@@ -1304,16 +1306,24 @@ CCTV13,http://112.46.105.20:8009/hls/13/index.m3u8$『4G_TV』
 CCTV14,http://112.46.105.20:8009/hls/14/index.m3u8$『4G_TV』
 CCTV15,http://112.46.105.20:8009/hls/15/index.m3u8$『4G_TV』
 
+//http://120.76.248.139/udp/zhgxtv_iplist.php?deviceId=a2830be7d588628a3cd249154180e72d
+//http://120.76.248.139/udp/zhgxtv_chlist.php?deviceId=a2830be7d588628a3cd249154180e72d&ip=58.58.111.222:808
 CCTV1,http://58.58.111.222:808/hls/1/index.m3u8$『4G_TV』
+CCTV2,http://58.58.111.222:808/hls/2/index.m3u8$『4G_TV』
 CCTV3,http://58.58.111.222:808/hls/3/index.m3u8$『4G_TV』
 CCTV4,http://58.58.111.222:808/hls/4/index.m3u8$『4G_TV』
 CCTV5,http://58.58.111.222:808/hls/5/index.m3u8$『4G_TV』
-CCTV5+,http://58.221.214.82:9901/tsfile/live/0016_1.m3u8$『4G_TV』
+CCTV5+,http://58.58.111.222:808/hls/6/index.m3u8$『4G_TV』
 CCTV6,http://58.58.111.222:808/hls/7/index.m3u8$『4G_TV』
 CCTV7,http://58.58.111.222:808/hls/8/index.m3u8$『4G_TV』
+CCTV8,http://58.58.111.222:808/hls/9/index.m3u8$『4G_TV』
 CCTV9,http://58.58.111.222:808/hls/10/index.m3u8$『4G_TV』
 CCTV10,http://58.58.111.222:808/hls/11/index.m3u8$『4G_TV』
+CCTV11,http://58.58.111.222:808/hls/12/index.m3u8$『4G_TV』
 CCTV12,http://58.58.111.222:808/hls/13/index.m3u8$『4G_TV』
+CCTV13,http://58.58.111.222:808/hls/14/index.m3u8$『4G_TV』
+CCTV14,http://58.58.111.222:808/hls/15/index.m3u8$『4G_TV』
+CCTV15,http://58.58.111.222:808/hls/16/index.m3u8$『4G_TV』
 
 CCTV1,http://183.215.134.239:19901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0$湖南-移动
 CCTV2,http://183.215.134.239:19901/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0$湖南-移动
@@ -5040,6 +5050,8 @@ CCTV15,http://60.29.124.66:6080/hls/26/index.m3u8$天津-联通
 
 山东-电信,#genre#
 🇨🇳山东-电信
+//http://120.76.248.139/udp/zhgxtv_iplist.php?deviceId=a2830be7d588628a3cd249154180e72d
+//http://120.76.248.139/udp/zhgxtv_chlist.php?deviceId=a2830be7d588628a3cd249154180e72d&ip=58.58.111.222:808
 CCTV1,http://58.58.111.222:808/hls/1/index.m3u8$『山东电信』
 CCTV2,http://58.58.111.222:808/hls/2/index.m3u8$『山东电信』
 CCTV3,http://58.58.111.222:808/hls/3/index.m3u8$『山东电信』
