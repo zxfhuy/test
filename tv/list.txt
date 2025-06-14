@@ -1,5 +1,8 @@
 央视-专区,#genre#
 CCTV1,http://39.134.65.106/PLTV/88888888/224/3221226119/1.m3u8
+CCTV1,http://39.134.67.108/PLTV/88888888/224/3221226119/1.m3u8
+CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
+CCTV1,http://39.134.67.108/PLTV/88888888/224/3221225517/1.m3u8
 CCTV1,http://39.134.65.106/PLTV/88888888/224/3221226075/1.m3u8
 CCTV1,http://39.134.65.106/PLTV/88888888/224/3221225816/1.m3u8
 CCTV2,http://39.134.65.106/PLTV/88888888/224/3221226079/1.m3u8
@@ -37,8 +40,15 @@ CGTN阿语,http://39.134.65.106/PLTV/88888888/224/3221226081/1.m3u8
 CGTN俄语,http://39.134.65.106/PLTV/88888888/224/3221226096/1.m3u8
 CGTN法语,http://39.134.65.106/PLTV/88888888/224/3221226083/1.m3u8
 CGTN西语,http://39.134.65.106/PLTV/88888888/224/3221226094/1.m3u8
-CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1$落日CCTV1
 
+CCTV1,http://125.65.94.91:12353/live
+CCTV1,http://39.134.67.155:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV1,http://39.135.133.5:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
+CCTV2,http://39.135.136.67:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV2,http://39.135.133.5:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225588/index.m3u8
+CCTV2,http://119.32.12.17:2901/udp/224.1.100.94:11111
+
+CCTV1,http://106.52.196.79:80/TV/mui.php?id=cctv1$落日CCTV1
 CCTV2,http://106.52.196.79:80/TV/mui.php?id=cctv2$落日CCTV2
 CCTV3,http://106.52.196.79:80/TV/mui.php?id=cctv3$落日CCTV3
 CCTV4,http://106.52.196.79:80/TV/mui.php?id=cctv4$落日CCTV4
@@ -1650,7 +1660,7 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 高邮综合,http://8.146.211.219:5251/live_tv?pid=058d3074f55e81a2f7f7bbfe35602570
 鎮江新聞,rtmp://zjtv-wshls.homecdn.com/live/2aa50
 綿陽科技,https://stream1.freetv.fun/471d1e1a5a8d3e5b1355b4734b8a642c4ff4ed21ef559bc5ec0e887a9f12f827.m3u8
-
+三台综合,http://125.65.94.91:12351/live
 内蒙新闻,https://livestream-bt.nmtv.cn/nmtv/2316general.m3u8?txSecret=b4373417a82ed64e52b0982a66da8df2&txTime=771E8800
 内蒙经济,https://livestream-bt.nmtv.cn/nmtv/2317general.m3u8?txSecret=112b2c4c872de52b0f37aff6ead63ef0&txTime=771E8800
 内蒙少儿,https://livestream-bt.nmtv.cn/nmtv/2318general.m3u8?txSecret=a2c948908728a0733cecbe1fadea23dc&txTime=771E8800
@@ -1670,6 +1680,7 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 北京纪实科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226658/1.m3u8
 北京纪实科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226730/1.m3u8
 
+抚州综合,http://play-live-hls.jxtvcn.com.cn/live-city/tv_fuzhou.m3u8
 赣州新闻,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8
 赣州新闻,http://8.146.211.219:5251/live_tv?pid=0e4a18d8dcd16c7fe8d927a2d14c8883
 赣州教育,https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526335287668.m3u8
@@ -1715,7 +1726,8 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 泌阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
 郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
 登封综合,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
-邓州新闻,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?zhend
+邓州综合,http://tvpull.dxhmt.cn:9081/tv/11381-1.m3u8?zhend
+邓州综合,http://live.dxhmt.cn:9081/tv/11381-1.m3u8
 方城一套,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8?zhend
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
 扶沟综合,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8?zhend
