@@ -1,4 +1,4 @@
-央视-专区,#genre#
+📶央视专区,#genre#
 //http://8.138.7.223/51.txt
 CCTV1,http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
 CCTV1,http://39.134.64.87:6610/PLTV/88888888/224/3221226559/index.m3u8?IASHttpSessionId=
@@ -1378,7 +1378,7 @@ CETV1,http://nctv.top/IDOEPpiryt/migu.php?id=cetv1
 CETV2,http://nctv.top/IDOEPpiryt/migu.php?id=cetv2
 CETV4,http://nctv.top/IDOEPpiryt/migu.php?id=cetv4
 
-卫视-专区,#genre#
+📶卫视专区,#genre#
 //http://8.138.7.223/51.txt
 北京卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226450/index.m3u8?IASHttpSessionId=、
 湖南卫视,http://39.134.64.87:6610/PLTV/88888888/224/3221226307/index.m3u8?IASHttpSessionId=
@@ -1801,7 +1801,7 @@ CETV4,http://nctv.top/IDOEPpiryt/migu.php?id=cetv4
 内蒙古卫视,http://39.134.65.106/PLTV/88888888/224/3221225577/1.m3u8$移动专享
 山东教育卫视,http://39.134.65.106/PLTV/88888888/224/3221225558/1.m3u8$移动专享
 
-移动-综合,#genre#
+📶移动综合,#genre#
 //http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 移动央卫
 CCTV1,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=483810&tk=922ba46651d3
@@ -2603,7 +2603,7 @@ CCTV15,http://101.66.198.77:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&a
 浙江新闻,http://101.66.198.77:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=0&authid=0$浙江-联通77
 杭州影视,http://101.66.198.77:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=0&authid=0$浙江-联通77
 
-港澳-频道,#genre#
+📶港澳频道,#genre#
 凤凰卫视中文台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰卫视资讯台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
 凤凰卫视香港台,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰香港台
@@ -3008,7 +3008,7 @@ TVB明珠,http://qjrhc.jydjd.top:2911/udp/224.1.100.124:11111
 重温经典,https://ali.hlspull.yximgs.com/live/awei_cwjd.flv
 星光电影台,https://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
 
-浙江-地方,#genre#
+📶浙江地方,#genre#
 浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel18/1080p.m3u8$官方高清
 浙江卫视,https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8$官方高清
 浙江钱江,https://ali-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8$官方高清
@@ -3207,7 +3207,7 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 宁波余姚综合,http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 宁海新闻综合,http://33658.hlsplay.aodianyun.com/tv_radio_33658/tv_channel_1423.m3u8
 
-地方-频道,#genre#
+📶地方频道,#genre#
 北京-综合
 北京纪实科教,http://39.134.65.106/PLTV/88888888/224/3221225670/1.m3u8
 北京纪实科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226656/1.m3u8
@@ -3374,11 +3374,13 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 综合2,http://39.134.65.106/PLTV/88888888/224/3221225521/1.m3u8
 未知频道,http://39.134.65.106/PLTV/88888888/224/3221226109/1.m3u8
 
-映画-精品,#genre#
+📶映画精品,#genre#
+勇闯夺命岛,https://jmcdn.efangcdn.com/1q_cwwwwwww8g_0/video/yongchuangduomingdao/原声/index.m3u8#https://voddadaizi.com:52866/videos/202506/15/684daf323ed39b57c063e7e2/c607c1/index.m3u8$绿帽丈夫
 电影大片,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c57_fast_738_720P_t10/c57_fast_738_720P_t10.m3u8?d
 电影大片,https://cdn.swcdn99.com:5278/zhongwenzimu/3tgaPZ5y/index.m3u8
 电影大片,http://cdn.adultiptv.net/pornstar.m3u8
-家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d
+电影大片,https://voddadaizi.com:52866/videos/202506/15/684db1523ed39b57c063e8f7/0b572g/index.m3u8
+家庭剧场,http://gdctyuncdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_877_720P_t10/c54_fast_877_720P_t10.m3u8?d#https://voddadaizi.com:52866/videos/202506/15/684db6bc3ed39b57c063ec6e/5d8aac/index.m3u8$妻子怀孕自慰
 都市生活,http://bscloudcdnct.inter.ptqy.gitv.tv:80/tslive/c56_fast_878_720P_t10/c56_fast_878_720P_t10.m3u8?d
 传奇剧场,http://lvbaiducdnct.inter.ptqy.gitv.tv:80/tslive/c54_fast_1052_720P_t10/c54_fast_1052_720P_t10.m3u8?d
 警匪悬疑,http://newstreamcdnct.inter.ptqy.gitv.tv:80/tslive/c58_fast_880_720P_t10/c58_fast_880_720P_t10.m3u8?d
@@ -3563,7 +3565,7 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 菏泽影视,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 淮安影院,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5e8b42&tk=922ba46651d3
 
-电视📶剧集,#genre#
+📶电视剧集,#genre#
 //http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 电视剧01,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=911662&tk=922ba46651d3
 电视剧02,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=f540c8&tk=922ba46651d3
@@ -3642,7 +3644,7 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 康熙微服私访记,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=4bcaea&tk=922ba46651d3
 康熙微服私访记,http://cdn.jdshipin.com:8880/huya.php?id=11342418
 
-郑仪-短剧,#genre#
+📶郑仪短剧,#genre#
 //http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 逆命神医(96集),http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=b39961&tk=922ba46651d3
 满月之下请相爱(100集),http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=98dd01&tk=922ba46651d3
@@ -3804,7 +3806,7 @@ YMG新闻频道,http://l.cztvcloud.com/channels/lantian/SXyuhang1/720p.m3u8
 萌宝助攻,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2d7ab5&tk=922ba46651d3
 天选农民工,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=86cda5&tk=922ba46651d3
 败家千金要退婚,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5b191d&tk=922ba46651d3
-💝央视频道👉ipv6,#genre#
+📶央视ipv6,#genre#
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000010000030810/1.m3u8
 CCTV1,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000006000233001/1.m3u8
 CCTV1,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
@@ -3896,7 +3898,7 @@ CCTV17,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/2/224/322
 CCTV17,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 CCTV17,http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 
-💝卫视频道👉IPV6,#genre#
+📶卫视IPV6,#genre#
 广东珠江,http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010091/index.m3u8
 广东珠江,http://[2409:8087:5e08:24::11]:6610/000000001000/2000000003000000033/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000033&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 安徽卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/5000000004000023002/1.m3u8
