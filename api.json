@@ -1,39 +1,11 @@
 {
-    "urls": [
-        {
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/zxfhuy/test/main/zxfzy.json",
-            "name": "郑仪专用"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherDS/movie.json",
-            "name": "影视"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherDS/anime.json",
-            "name": "动漫"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherDS/other.json",
-            "name": "文艺"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherDS/sport.json",
-            "name": "体育"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherDS/education.json",
-            "name": "教育"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherDS/webcast.json",
-            "name": "直播"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherDS/magnet.json",
-            "name": "磁力"
-        },
-        {
-            "url": "https://9877.kstore.space/AnotherDS/cloud.json",
-            "name": "云盘"
-        }
-    ]
+"storeHouse": 
+[ 
+{"sourceName":"郑仪专用","sourceUrl":"https://ghfast.top/https://raw.githubusercontent.com/zxfhuy/test/main/api.json"},
+{"sourceName":"欧歌单仓","sourceUrl":"https://xn--aiia-rp5imh.v.nxog.top/api.php?id=2"},
+{"sourceName":"多多单仓","sourceUrl":"https://bitbucket.org/xduo/cool/raw/main/ck/公众号多多影音.txt"},
+{"sourceName":"拾光单仓","sourceUrl":"https://4708.kstore.space/ck.json"},
+{"sourceName":"七星单仓","sourceUrl":"https://qixing.myhkw.com/自用测试.txt"},
+{"sourceName":"潇洒单仓","sourceUrl":"https://9877.kstore.space/AnotherDS/api.json"}
+]
+}
