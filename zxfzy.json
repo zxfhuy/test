@@ -48,6 +48,10 @@
         "version": "100"
       }
     },
+{"key":"drpy_js_奇珍异兽","name":"✨奇珍┃异兽","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"✨优酷┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"✨腾云┃驾雾","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"✨百忙┃无果","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/百忙无果.js"},
     {
       "key": "外剧",
       "name": "✨外剧｜APP✨",
@@ -571,10 +575,6 @@
         "url": "https://panku8.com"
       }
     },
-{"key":"drpy_js_奇珍异兽","name":"奇珍┃异兽","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"优酷┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"腾云┃驾雾","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"百忙┃无果","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/百忙无果.js"},
     {
       "key": "糯米影视",
       "name": "糯米┃影视",
@@ -1443,7 +1443,7 @@
       "name": "📺︎郑仪直播",
       "type": 0,
       //"url": "https://d.kstore.dev/download/8046/dycs1.txt",
-	  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/zxfhuy/test/main/tv/chezai",
+	  "url":"https://gh-proxy.com/https://raw.githubusercontent.com/zxfhuy/test/main/tv/list.txt",
 	  //"url": "https://gh.tryxd.cn/raw.githubusercontent.com/zxfhuy/iptv-api/master/output/ipv6/result.txt",
 	  //"url": "https://gh-proxy.com/https://raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt",
 	  //"url": "https://g.3344550.xyz/https://raw.githubusercontent.com/zxfhuy/test/refs/heads/main/tv/ipv6.m3u",
