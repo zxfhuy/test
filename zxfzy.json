@@ -48,6 +48,34 @@
         "version": "100"
       }
     },
+        {
+            "key": "海豚",
+            "name": "✨海豚｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.htsp4k.top",
+                "dataKey": "7CYQQzwchRQpHCOj",
+                "dataIv": "7CYQQzwchRQpHCOj",
+                "deviceId": "",
+                "version": ""
+            }
+        },
+        {
+            "key": "桃子",
+            "name": "✨桃子┃App",
+            "type": 3, 
+            "quickSearch": 1,
+            "api": "csp_AppGet",
+            "ext": {
+                "url": "https://appcms.tzys.xyz",
+                "dataKey": "KL6vlZkw6WL5x90U",
+                "dataIv": "KL6vlZkw6WL5x90U",
+                "deviceId": "",
+                "version": ""
+            }
+        },
 {"key":"drpy_js_奇珍异兽","name":"✨奇珍┃异兽","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"✨优酷┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"✨腾云┃驾雾","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/腾云驾雾.js"},
@@ -136,20 +164,6 @@
             }
         },
         {
-            "key": "海豚",
-            "name": "海豚｜APP",
-            "type": 3,
-            "quickSearch": 1,
-            "api": "csp_AppGet",
-            "ext": {
-                "url": "https://appcms.htsp4k.top",
-                "dataKey": "7CYQQzwchRQpHCOj",
-                "dataIv": "7CYQQzwchRQpHCOj",
-                "deviceId": "",
-                "version": ""
-            }
-        },
-        {
             "key": "瓜萌",
             "name": "瓜萌｜APP",
             "type": 3,
@@ -205,6 +219,7 @@
                 "version": "315"
             }
         },
+{"key":"彼岸1","name":"彼岸｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://172.247.44.217:30012","dataKey":"JLa1oRdL6+eK7@M)","dataIv":"JLa1oRdL6+eK7@M)","deviceId": "","version":""}},
         {
             "key": "米兔",
             "name": "🔥米兔｜APP",
@@ -1128,7 +1143,12 @@
 {"key":"SEVEN1","name":"七新┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类url":"https://www.nulltm.com/remen/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$haokan/1#电视剧$haokan/2#综艺$zongyi#动漫$dongman"}},
 {"key": "空白","name": "全部结束","type": 3,"api": "空白","ext": "空白"}],
   "parses": [
-        {
+    {
+      "name": "轮询优选",
+      "type": 2,
+      "url": "Sequence"
+    },
+    {
             "name": "酷九解析",
             "type": 0,
             "url": "https://jx.yparse.com/index.php?url=",
@@ -1148,6 +1168,35 @@
                 }
             }
         },
+      {
+      "name": "影视2",
+      "type": 1,
+      "url": "https://150.138.78.37:4399/api?key=2b879e7ecc09a112c1d9f85c42967aca&url=",
+      "ext": {
+        "flag": [
+          "qq",
+          "腾讯",
+          "qiyi",
+          "爱奇艺",
+          "奇艺",
+          "youku",
+          "优酷",
+          "sohu",
+          "搜狐",
+          "letv",
+          "乐视",
+          "mgtv",
+          "芒果",
+          "tnmb",
+          "seven",
+          "bilibili",
+          "1905"
+        ],
+        "header": {
+          "User-Agent": "okhttp/4.9.1"
+        }
+      }
+    },
     {
       "name": "臻享",
       "type": "1",
@@ -1493,9 +1542,16 @@
       "timeout": 10
     },
     {
-      "name": "网络Live",
+      "name": "网络Live1",
       "type": 0,
       "url": "https://tv.iill.top/m3u/Live",
+      "playerType": 2,
+      "timeout": 10
+    },
+    {
+      "name": "秦PLUS专用",
+      "type": 0,
+      "url": "http://8.138.7.223/51.txt",
       "playerType": 2,
       "timeout": 10
     },
