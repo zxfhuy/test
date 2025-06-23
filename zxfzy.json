@@ -50,7 +50,7 @@
     },
         {
             "key": "海豚",
-            "name": "✨海豚｜APP",
+            "name": "海豚｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -64,7 +64,7 @@
         },
         {
             "key": "桃子",
-            "name": "✨桃子┃App",
+            "name": "桃子┃App",
             "type": 3, 
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -76,13 +76,13 @@
                 "version": ""
             }
         },
-{"key":"drpy_js_奇珍异兽","name":"✨奇珍┃异兽","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"✨优酷┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"✨腾云┃驾雾","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"✨百忙┃无果","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/百忙无果.js"},
+{"key":"drpy_js_奇珍异兽","name":"奇珍┃异兽","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"优酷┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"腾云┃驾雾","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"百忙┃无果","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/JS/百忙无果.js"},
     {
       "key": "外剧",
-      "name": "✨外剧｜APP✨",
+      "name": "外剧｜APP",
       "type": 3,
       "quickSearch": 1,
       "api": "csp_AppGet",
@@ -96,7 +96,7 @@
     },
     {
       "key": "移动",
-      "name": "✨移动｜APP✨",
+      "name": "移动｜APP",
       "type": 3,
       "api": "csp_YD",
       "searchable": 1,
@@ -104,7 +104,7 @@
     },
     {
       "key": "苹果影视",
-      "name": "✨苹果｜APP",
+      "name": "苹果｜APP",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -113,7 +113,7 @@
     },
 	{
             "key": "天天影视",
-            "name": "✨天天｜APP✨",
+            "name": "天天｜APP",
             "type": 3,
             "api": "csp_AppRJ",
             "searchable": 1,
@@ -222,7 +222,7 @@
 {"key":"彼岸1","name":"彼岸｜APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://172.247.44.217:30012","dataKey":"JLa1oRdL6+eK7@M)","dataIv":"JLa1oRdL6+eK7@M)","deviceId": "","version":""}},
         {
             "key": "米兔",
-            "name": "🔥米兔｜APP",
+            "name": "米兔｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -236,7 +236,7 @@
         },
         {
             "key": "人人",
-            "name": "🔥人人｜APP",
+            "name": "人人｜APP",
             "type": 3,
             "quickSearch": 1,
             "api": "csp_AppGet",
@@ -275,11 +275,11 @@
 
 {"key":"360","name":"🔥360｜APP","type":1,"api":"https://360zy.com/api.php/provide/vod","searchable": 1,"changeable":1},
 {"key":"魔都","name":"🔥魔都｜APP","type":1,"api":"https://www.mdzyapi.com/api.php/provide/vod/","searchable": 1,"changeable":1},
-{"key":"黑壳","name":"✨黑壳｜APP✨","type":1,"api":"https://blackwallvideo.online/api.php/provide/vod/","searchable": 1,"changeable":1},
+{"key":"黑壳","name":"🔥黑壳｜APP","type":1,"api":"https://blackwallvideo.online/api.php/provide/vod/","searchable": 1,"changeable":1},
 
          {
-            "key": "✨河马短剧✨",
-            "name": "✨河马短剧✨",
+            "key": "河马短剧",
+            "name": "河马短剧",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -288,7 +288,7 @@
             "ext": "./json/dj/河马短剧.json","jar":"./spider.jar"
         },			
         {
-            "key": "✨安迪短剧✨",
+            "key": "安迪短剧",
             "name": "✨安迪短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -298,7 +298,7 @@
             "ext": "./json/dj/安迪短剧.json","jar":"./spider.jar"
         },
         {
-            "key": "✨理理短剧✨",
+            "key": "理理短剧",
             "name": "✨理理短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -308,7 +308,7 @@
             "ext": "./json/dj/理理短剧.json","jar":"./spider.jar"
         },
         {
-            "key": "✨一起看✨",
+            "key": "一起看",
             "name": "✨看短剧网✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -318,7 +318,7 @@
             "ext": "./json/dj/一起看短剧.json","jar":"./spider.jar"
         },
         {
-            "key": "✨天龙影院✨",
+            "key": "天龙影院",
             "name": "✨天龙短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -328,7 +328,7 @@
             "ext": "./json/dj/天龙短剧.json","jar":"./spider.jar"
         },
         {
-            "key": "✨七味短剧✨",
+            "key": "七味短剧",
             "name": "✨七味短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -338,7 +338,7 @@
             "ext": "./json/dj/七味短剧.json","jar":"./spider.jar"
         },
         {
-            "key": "✨白嫖者联盟✨",
+            "key": "白嫖者联盟",
             "name": "✨白嫖短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -348,7 +348,7 @@
             "ext": "./json/dj/白嫖者.json","jar":"./json/dj/spider.jar"
         },
         {
-            "key": "✨短剧屋✨",
+            "key": "短剧屋",
             "name": "✨短剧屋网✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -358,7 +358,7 @@
             "ext": "./json/dj/短剧屋.json","jar":"./json/dj/spider.jar"
         },
         {
-            "key": "✨老王影院✨",
+            "key": "老王影院",
             "name": "✨老王短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -368,7 +368,7 @@
             "ext": "./json/dj/老王短剧.json","jar":"./json/dj/spider.jar"
         },
         {
-            "key": "✨胖虎影院✨",
+            "key": "胖虎影院",
             "name": "✨胖虎短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -378,7 +378,7 @@
             "ext": "./json/dj/胖虎短剧.json","jar":"./json/dj/spider.jar"
         },
         {
-            "key": "✨毒舌短剧✨",
+            "key": "毒舌短剧",
             "name": "✨毒舌短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -388,7 +388,7 @@
             "ext": "./json/dj/毒舌短剧.json","jar":"./json/dj/spider.jar"
         },
         {
-            "key": "✨微云影视✨",
+            "key": "微云影视",
             "name": "✨微云短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -398,7 +398,7 @@
             "ext": "./json/dj/微云短剧.json","jar":"./json/dj/spider.jar"
         },
         {
-            "key": "✨一个短剧✨",
+            "key": "一个短剧",
             "name": "✨一个短剧✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -408,7 +408,7 @@
             "ext": "./json/dj/一个短剧.json","jar":"./json/dj/spider.jar"
         },
         {
-            "key": "✨短剧大全✨",
+            "key": "短剧大全",
             "name": "✨短剧大全✨",
             "type": 3,
             "api": "csp_XBPQ",
@@ -419,7 +419,7 @@
         },
     {
       "key": "星芽短剧",        #网站唯一标识
-      "name": "✨星芽短剧✨",     #网站名称
+      "name": "星芽短剧",     #网站名称
       "type": 3,                #类型，0：xml 1：json 3：Spider
       "api": "csp_AppXY",       #站点 API 地址
       "searchable": 1,          #是否支持搜索，1：支持，0：不支持
