@@ -1,40 +1,97 @@
 {
-    "urls": [
+ "urls":[
         {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/zxfhuy/test/main/zxfzy.json",
-            "name": "馃挴閮戜华涓撶敤"
+            "name": "??郑仪专用"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/movie.json",
-            "name": "馃挴閮戜华褰辫"
+            "name": "??郑仪影视"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/anime.json",
-            "name": "馃挴閮戜华鍔ㄦ极"
+            "name": "??郑仪动漫"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/other.json",
-            "name": "馃挴閮戜华鏂囪壓"
+            "name": "??郑仪文艺"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/sport.json",
-            "name": "馃挴閮戜华浣撹偛"
+            "name": "??郑仪体育"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/education.json",
-            "name": "馃挴閮戜华鏁欒偛"
+            "name": "??郑仪教育"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/webcast.json",
-            "name": "馃挴閮戜华鐩存挱"
+            "name": "??郑仪直播"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/magnet.json",
-            "name": "馃挴閮戜华纾佸姏"
+            "name": "??郑仪磁力"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/cloud.json",
-            "name": "馃挴閮戜华浜戠洏"
-        }
-    ]
+            "name": "??郑仪云盘"
+        },
+    {
+      "url": "https://fmbox.cc",
+      "name": "??星辰??"
+    },
+    {
+      "url": "http://hb.小虎斑.site:25252/仅供测试",
+      "name": "??虎斑??"
+    },
+    {
+      "url": "http://ok321.top:80/tv",
+      "name": "??OK??"
+    },
+    {
+      "url": "http://www.饭太硬.net/tv",
+      "name": "??饭硬??"
+    },
+    {
+      "url": "http://xn--z7x900a.com",
+      "name": "??肥猫??"
+    },
+    { "url": "http://www.mpanso.com/小米/DEMO.json ","name": "??小米??"},
+    {
+      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
+      "name": "??王二??"
+    },
+    {
+      "url": "https://git.acwing.com/YGFXZ/0/-/raw/main/000.json",
+      "name": "??分享??"
+    }, 
+    { "url": "https://raw.kkgithub.com/yoursmile66/TVBox/main/XC.json","name": "??南风??"},
+    { "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "??香雅??"},
+    { "url": "http://xn--dkw0c.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌","name": "??欧歌??" },
+    {
+      "url": "http://www.meowtv.vip:80/tvbox.json",
+      "name": "??喵影??"
+    },
+    {
+      "url": "http://cdn.qiaoji8.com/tvbox.json",
+      "name": "??巧技??"
+    },
+    { "url": "https://tv.xn--yhqu5zs87a.top", "name": "??莱斯??" },
+    {
+      "url": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
+      "name": "??高天??"
+    },
+    {
+      "url": "https://xn--8owq8u.com/tv/",
+      "name": "??毒盒??"
+    },
+    {
+      "url": "https://tv.xn--11x555b.top/svip",
+      "name": "??蜗牛??"
+    },
+    {
+      "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
+      "name": "??时光??"
+    }				
+  ]
 }
