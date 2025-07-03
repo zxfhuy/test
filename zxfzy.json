@@ -830,7 +830,13 @@
 {"key":"播视网","name":"🐾丨童趣【📲】","type":3,"api":"./js/boosj_open.js"}, 
 {"key":"兔小贝","name":"🐾丨小贝【📲】","type":3,"api":"./js/tuxiaobei_open.js"}, 
 {"key":"贝乐虎","name":"🐾丨乐虎【📲】","type":3,"api":"./js/ubestkid_open.js"},
-{"key":"SEVEN1","name":"七新┃影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":{"分类url":"https://www.nulltm.com/remen/id/{cateId}/area/{area}/by/{by}/class/{class}/page/{catePg}/year/{year}.html","分类":"电影$haokan/1#电视剧$haokan/2#综艺$zongyi#动漫$dongman"}},
+{"key":"七新┃影院","name":"七新┃影院","type":3,"api":"csp_XBPQ","jar":"./jar/zxfjar?isDownload=true;md5;7e2f6ef2a5dce8b152dadefa6c7d4ba7","searchable": 1,"quickSearch":1,"filterable":1,
+    "ext":{"搜索url":"https://www.nulltm.com/search/-------------.html?searchword={wd}","搜索链接":"href=\"&&\"",
+    "简介":"郑仪提醒🔺勿信广告，避免受骗🔺+<p class=\"col-pd detail\"&&</span>",
+    "线路数组":"<img src=\"/statics/icon/icon_26.png\"&&</h3>",
+    "线路标题":"郑仪蓝光专线",
+    "分类url": "https://www.nulltm.com/bofang/{cateId}-{area}-{class}-{catePg}-{year}.html",
+    "分类": "动作片$5#爱情片$6#科幻片$7#恐怖片$8#喜剧片$10#剧情片$12#国产剧$13#港台剧$14#欧美剧$15#日韩剧$16#综艺$3#动漫$4"}},
 {"key": "空白","name": "全部结束","type": 3,"api": "空白","ext": "空白"}],
   "parses": [
     {
