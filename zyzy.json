@@ -1,41 +1,73 @@
 {
  "urls":[
         {
+            "url": "https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/zxfzy.json",
+            "name": "💯郑仪专用A"
+        },
+        {
             "url": "https://ghfast.top/https://raw.githubusercontent.com/zxfhuy/test/main/zxfzy.json",
-            "name": "💯郑仪专用"
+            "name": "💯郑仪备用B"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/movie.json",
-            "name": "💯郑仪影视"
+            "name": "💯郑仪影视C"
+        },
+        {
+            "url": "https://gitee.com/yanglong1251/TV-Box/raw/master/003.bmp",
+            "name": "💯郑仪影院D"
+        },
+        {
+            "url": "https://gitee.com/yanglong1251/TV-Box/raw/master/001.bmp",
+            "name": "💯郑仪影视E"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/anime.json",
-            "name": "💯郑仪动漫"
+            "name": "💯郑仪动漫F"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/other.json",
-            "name": "💯郑仪文艺"
+            "name": "💯郑仪文艺G"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/sport.json",
-            "name": "💯郑仪体育"
+            "name": "💯郑仪体育H"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/education.json",
-            "name": "💯郑仪教育"
+            "name": "💯郑仪教育I"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/webcast.json",
-            "name": "💯郑仪直播"
+            "name": "💯郑仪直播J"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/magnet.json",
-            "name": "💯郑仪磁力"
+            "name": "💯郑仪磁力K"
         },
         {
             "url": "https://9877.kstore.space/AnotherDS/cloud.json",
-            "name": "💯郑仪云盘"
+            "name": "💯郑仪云盘L"
         },
+    {
+      "url": "https://git.acwing.com/xiaohuo/yingshi/-/raw/main/xxx.bmp",
+      "name": "💎青春"
+    },  
+    {
+      "url": "https://git.acwing.com/xiaohuo/yingshi/-/raw/main/x.json",
+      "name": "💎花红"
+    },
+    {
+      "url": "https://git.acwing.com/xiaohuo/yingshi/-/raw/main/i.json",
+      "name": "💎柳绿"
+    },
+    {
+      "url": "http://ok321.top/tv",
+      "name": "ok杰克"
+    },
+    {
+      "url": "http://tv.nxog.top/m/",    
+      "name": "讴歌"
+    }, 
     {
       "url": "https://fmbox.cc",
       "name": "📁星辰📁"
