@@ -65,10 +65,6 @@
       "name": "💎柳绿"
     },
     {
-      "url": "http://ok321.top/tv",
-      "name": "ok杰克"
-    },
-    {
       "url": "http://tv.nxog.top/m/",    
       "name": "讴歌"
     }, 
@@ -81,21 +77,8 @@
       "name": "📁虎斑📁"
     },
     {
-      "url": "http://ok321.top:80/tv",
-      "name": "📁OK📁"
-    },
-    {
       "url": "http://www.饭太硬.net/tv",
       "name": "📁饭硬📁"
-    },
-    {
-      "url": "http://xn--z7x900a.com",
-      "name": "📁肥猫📁"
-    },
-    { "url": "http://www.mpanso.com/小米/DEMO.json ","name": "📁小米📁"},
-    {
-      "url": "http://tvbox.xn--4kq62z5rby2qupq9ub.top/",
-      "name": "📁王二📁"
     },
     {
       "url": "https://git.acwing.com/YGFXZ/0/-/raw/main/000.json",
@@ -105,14 +88,9 @@
     { "url": "https://raw.kkgithub.com/xyq254245/xyqonlinerule/main/XYQTVBox.json","name": "📁香雅📁"},
     { "url": "http://xn--dkw0c.y.nxog.top/m/111.php?ou=公众号欧歌app&mz=index&jar=index&123&b=欧歌","name": "📁欧歌📁" },
     {
-      "url": "http://www.meowtv.vip:80/tvbox.json",
-      "name": "📁喵影📁"
-    },
-    {
       "url": "http://cdn.qiaoji8.com/tvbox.json",
       "name": "📁巧技📁"
     },
-    { "url": "https://tv.xn--yhqu5zs87a.top", "name": "📁莱斯📁" },
     {
       "url": "https://ghproxy.net/https://raw.githubusercontent.com/debaters6/XYQ/master/0821.json",
       "name": "📁高天📁"
@@ -124,10 +102,6 @@
     {
       "url": "https://tv.xn--11x555b.top/svip",
       "name": "📁蜗牛📁"
-    },
-    {
-      "url": "https://yydf.540734621.xyz/QQ/yydf2024.json",
-      "name": "📁时光📁"
-    }				
+    }		
   ]
 }
