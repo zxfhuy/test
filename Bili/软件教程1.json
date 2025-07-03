@@ -1,0 +1,45 @@
+{
+  "classes": [
+    {      "type_name": "ps",           "type_id": "ps"           },
+    {      "type_name": "编程教学",      "type_id": "编程教学"     },
+    {      "type_name": "Office",       "type_id": "office"       },
+    {      "type_name": "Windows",      "type_id": "Windows"      },
+    {      "type_name": "phython",      "type_id": "phython"      },
+    {      "type_name": "招投标",       "type_id": "招投标"        },
+    {      "type_name": "新概念英语",      "type_id": "新概念英语动画视频" },
+	{      "type_name": "英语启蒙",       "type_id": "英语启蒙动画"        }
+	],
+	"filter": {
+     "编程教学": [
+      {
+        "key": "tid",
+        "name": "分类",
+        "value": [
+          {            "n": "全部",               "v": "球星"         },
+          {            "n": "java",               "v": "java"         },
+          {            "n": "python",             "v": "python"       },
+          {            "n": "C语言",              "v": "C语言"        },
+          {            "n": "Scratch",            "v": "Scratch"      },
+          {            "n": "java",               "v": "java"         },
+          {            "n": "2022爬虫",            "v": "2022爬虫"    },
+          {            "n": "linux",               "v": "linux"       }
+
+        ]
+      },
+      {
+        "key": "duration",
+        "name": "时长",
+        "value": [
+          {            "n": "全部",                  "v": "0"          },
+          {            "n": "60分钟以上",            "v": "4"          },
+          {            "n": "30~60分钟",             "v": "3"          },
+          {            "n": "10~30分钟",             "v": "2"          },
+          {            "n": "10分钟以下",            "v": "1"          }
+       
+		
+    
+          ]
+      }
+    ]
+  }
+}
