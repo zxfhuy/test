@@ -606,6 +606,8 @@
 //{"key":"*森林资源","name":"🔞森林","type":0,"api":"https://slapibf.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0},
 {"key":"大奶子AV","name":"🔞大奶子","type":0,"api":"https://apidanaizi.com/api.php/provide/vod/at/xml/","playUrl":"https://jiexidanaizi.com/?url=","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"鸡坤资源", "name":"🔞鸡坤", "type": 1, "api":"https://jkunzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key":"快播AV","name":"🔞快播资源","type":0,"api":"http://kbzy5.com/api.php/provide/vod/at/xml","playUrl":"https://gayzyjiexi.com/play/?url=","searchable":1,"quickSearch":1,"categories":[]},
+//快播资源永久官网: www.kbzy1.com    www.kbzy1.net  备用网址: kbzy2.com    kbzy3.com   kbzy4.com 
 
 //{"key":"*皇冠资源","name":"🔞皇冠","type":1,"api":"https://hghhh.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 //{"key":"*AIvin","name":"🔞AIvin","type": 0,"api":"http://lbapiby.com/api.php/provide/vod/at/xml"},
@@ -653,8 +655,6 @@
 //{"key":"百万AV","name":"🔥百万🔸AV","type":0,"api":"https://baiwanzy5.cc/api.php/provide/vod/at/xml/","playUrl":"https://bo.baiwanapi.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"爱奇艺AV","name":"🔥爱奇艺AV","type":1,"api":"https://www.iqiyizy.com/api.php/provide/vod/?ac=list","playUrl":"https://www.iqiyizyjx.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
 //备用域名：iqiyizy.com | iqiyizy.cc | iqiyizy.vip | iqiyizy1.com - iqiyizy9.com
-{"key":"快播AV","name":"🔥快播资源","type":0,"api":"https://gayapi.com/api.php/provide/vod/at/xml","playUrl":"https://gayzyjiexi.com/play/?url=","searchable":1,"quickSearch":1,"categories":[]},
-//快播资源永久官网: www.kbzy1.com    www.kbzy1.net  备用网址: kbzy2.com    kbzy3.com   kbzy4.com 
 {"key":"茅台资源","name":"🔥茅台资源","type":0,"api":"https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/xml/","playUrl":"https://mtjiexi.cc:966/?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"金马资源","name":"🔥金马资源","type":0,"api":"https://api.jmzy.com/api.php/provide/vod/at/xml","playUrl":"https://jx.acherbs.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
 {"key":"天涯资源","name":"🔥天涯资源","type":0,"api":"https://tyyszyapi.com/api.php/provide/vod/at/xml/?ac=list","playUrl":"https://tyyszywjx.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
