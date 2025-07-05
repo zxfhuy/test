@@ -1,19 +1,19 @@
 [
   {
     "name": "📶电视直播",
-    "url": "./tv/list.txt&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/7.jpg"
+    "url": "https://github.3x25.com/https://raw.githubusercontent.com/zxfhuy/test/main/tv/list.txt&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/7.jpg"
   },
   {
     "name": "📶浙江联通",
-    "url": "./tv/nzk/zjlt.nzk&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/zjlt.png"
+    "url": "https://github.3x25.com/https://raw.githubusercontent.com/zxfhuy/test/main/tv/nzk/zjlt.nzk&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/zjlt.png"
   },
   {
     "name": "📶奈飞电影",
-    "url": "./tv/nzk/dzdy.json&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/2.jpg"
+    "url": "https://github.3x25.com/https://raw.githubusercontent.com/zxfhuy/test/main/tv/nzk/dzdy.json&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/2.jpg"
   },
   {
     "name": "📶动作电影",
-    "url": "./tv/nzk/动作片.nzk&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/2.jpg"
+    "url": "https://github.3x25.com/https://raw.githubusercontent.com/zxfhuy/test/main/tv/nzk/动作片.nzk&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/2.jpg"
   },
   {
     "name": "📶猫TV直播",
