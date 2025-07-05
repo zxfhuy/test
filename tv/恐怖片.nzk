@@ -1,7 +1,9 @@
 [
 
-{"name":"恐怖片1","url":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/tv/nzk/恐怖片.nzk&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/kbdy.png"},
-{"name":"恐怖片2","url":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/js/mv/2400部恐怖电影.txt&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/kbdy.png"},
-{"name":"恐怖片1","url":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/tv/nzk/恐怖片.nzk&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/kbdy.png"}
+{"name":"恐怖片①","url":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/tv/nzk/恐怖片.nzk&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/图片/kbdy.png"},
+{"name":"恐怖片②","url":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/js/mv/2400部恐怖电影.txt&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/图片/kbdy.png"},
+{"name":"色色片③","url":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/tv/listx.txt&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/图片/kbdy.png"},
+{"name":"色色片④","url":"https://git.acwing.com/zxfhuy/zxfzy/-/blob/main/tv/19.txt&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/图片/kbdy.png"},
+{"name":"色色片⑤","url":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/tv/xx.txt&&&https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/图片/kbdy.png"}
 
 ]
