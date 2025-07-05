@@ -1,8 +1,6 @@
 ﻿{
-  "spider":"./250619.jar",
-  "spider":"./pg.jar", 
-  "spider":"./sx.jar",
- 
+  "spider":"./jar/250619.jar",
+  "spider":"./jar/pg.jar", 
   "sites": [
 {"key":"csp_DouDou","name":"🈲贩卖","type":3,"api":"csp_DouDou","searchable":0,"quickSearch":0,"filterable":1},
 {"key":"csp_Kuaikan","name":"Ⓜ️快看","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
