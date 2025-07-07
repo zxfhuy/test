@@ -13,7 +13,7 @@
 {"key":"drpy_js_奇珍异兽","name":"🅱️奇珍┃异兽","type":3,"api":"./js/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🅱️优酷┃影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"🅱️腾云┃驾雾","type":3,"api":"./js/drpy2.min.js","ext":"./js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"🅱️百忙┃无果","type":3,"api":"./js/drpy2.min.js","ext":".js/百忙无果.js"},
+{"key":"drpy_js_百忙无果","name":"🅱️百忙┃无果","type":3,"api":"./js/drpy2.min.js","ext":"./js/百忙无果.js"},
 
 {"key":"若惜","name":"🅱️若惜┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://110.40.59.188:9527","dataKey":"ebad3f1a58b13933","dataIv":"ebad3f1a58b13933","deviceId":"","version":""}},
 {"key":"雨滴","name":"🅱️雨滴┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"","version":"100"}},
