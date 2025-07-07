@@ -9,6 +9,17 @@
 {"key":"影视8","name":"🅱️恐怖┃电影","type":3,"api":"./tv/sdtv.js","ext":"./tv/恐怖片.nzk","jar":"./tv/sdtv.jar"},
 {"key":"js_好趣","name":"🅱️好趣┃直播","type":3,"api":"./js/drpy2.min.js","ext":"./js/好趣.js"},
 
+//{"key": "爱奇艺","name": "爱奇艺｜视频","type": 3,"api": "./js/drpy2.min.js","ext": "./js/爱奇艺.js"},
+{"key":"drpy_js_奇珍异兽","name":"🅱️奇珍┃异兽","type":3,"api":"./js/drpy2.min.js","ext":"./js/奇珍异兽.js"},
+{"key":"drpy_js_优酷","name":"🅱️优酷┃影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/优酷.js"},
+{"key":"drpy_js_腾云驾雾","name":"🅱️腾云┃驾雾","type":3,"api":"./js/drpy2.min.js","ext":"./js/腾云驾雾.js"},
+{"key":"drpy_js_百忙无果","name":"🅱️百忙┃无果","type":3,"api":"./js/drpy2.min.js","ext":".js/百忙无果.js"},
+
+{"key":"若惜","name":"🅱️若惜┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://110.40.59.188:9527","dataKey":"ebad3f1a58b13933","dataIv":"ebad3f1a58b13933","deviceId":"","version":""}},
+{"key":"雨滴","name":"🅱️雨滴┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"","version":"100"}},
+{"key":"海豚","name":"🅱️海豚┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://appcms.htsp4k.top","dataKey":"7CYQQzwchRQpHCOj","dataIv":"7CYQQzwchRQpHCOj","deviceId":"","version":""}},
+{"key":"csp_sbb","name":"🅱️布布┃直连","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j","jar":"./jar/APP2500705.jar"},
+
 {"key":"巧技三","name":"QD4K┃APP","type":3,"api":"csp_AppYsV2","playerType":2,"ext":"7lj763gg09397907492i87j2g8128687kgg1ih5hij8772225j4i54l2k91k151k138612h68842ji","jar":"./jar/APP2500705.jar"},
 {"key":"天天","name":"天天┃APP","type":3,"api":"csp_TTian","playerType":2,"ext":"7lj763gg09397919456493i0h44j8681highi4","jar":"./jar/APP2500705.jar"},
 {"key":"175178","name":"918┃APP","type":1,"api":"http://175.178.80.209/mb/api.php/provide/vod/?ac=videolist","searchable":1,"quickSearch":1,"jar":"./jar/APP2500705.jar"},
@@ -41,16 +52,6 @@
 {"key":"360_spider","name":"360┃解析","api":"csp_SP360","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"","jar":"./jar/APP2500705.jar"},
 {"key":"ZXZJ","name":"在线┃直连","api":"csp_Zxzj","type":3,"filterable":1,"quickSearch":1,"searchable":1,"playerType":2,"ext":"7lj763gg402i7942463j9j9jgg449698khhh845ki38473","jar":"./jar/APP2500705.jar"},
 {"key":"csp_CZSPP","name":"厂长┃直连","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jh346968hg5ll845ki38473","jar":"./jar/APP2500705.jar"},
-
-{"key":"drpy_js_奇珍异兽","name":"🅱️奇珍┃异兽","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/奇珍异兽.js"},
-{"key":"drpy_js_优酷","name":"🅱️优酷┃影视","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/优酷.js"},
-{"key":"drpy_js_腾云驾雾","name":"🅱️腾云┃驾雾","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"🅱️百忙┃无果","type":3,"api":"./dr_py/libs/drpy2.min.js","ext":"./dr_py/js/百忙无果.js"},
-
-{"key":"若惜","name":"🅱️若惜┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://110.40.59.188:9527","dataKey":"ebad3f1a58b13933","dataIv":"ebad3f1a58b13933","deviceId":"","version":""}},
-{"key":"雨滴","name":"🅱️雨滴┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"","version":"100"}},
-{"key":"海豚","name":"🅱️海豚┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://appcms.htsp4k.top","dataKey":"7CYQQzwchRQpHCOj","dataIv":"7CYQQzwchRQpHCOj","deviceId":"","version":""}},
-{"key":"csp_sbb","name":"🅱️布布┃直连","type":3,"api":"csp_Czsapp","searchable":1,"playerType":1,"quickSearch":1,"filterable":0,"ext":"7lj763gg402i7942463j9j9jg3498k93lhggih54828g332i1j","jar":"./jar/APP2500705.jar"},
 
 {"key":"星河","name":"星河┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://121.62.22.204:9876","dataKey":"f5e2tx53ykp6s2c9","dataIv":"f5e2tx53ykp6s2c9","deviceId":"","version":"361"}},
 {"key":"农民影视","name":"农民┃影视","type":3,"api":"csp_XBPQ","ext":"./json/农民影视.json"},
@@ -801,6 +802,12 @@
 "parses":[
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
+{"name":"线路1","type":0,"url":"https://jx.xmflv.com/?url=","ext":{"header":{"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
+{"name":"线路2","type":0,"url":"https://www.8090g.cn/?url="},
+{"name":"线路3","type":0,"url":"https://jx.m3u8.tv/jiexi/?url="},
+{"name":"线路4","type":0,"url":"https://www.ckplayer.vip/jiexi/?url="},
+{"name":"线路5","type":1,"url":"https://api.nbyjson.top:7788/api/?key=1nbaImZRMbmRXCOYBg&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
+
 {"name":"先福一","type":1,"url":"https://zy.qiaoji8.com/neibu.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name":"先福二","type":1,"url":"https://zy.qiaoji8.com/gouzi.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","bilibili","1905","NetFilx"],"header":{"User-Agent":"okhttp/4.9.1"}}},
 {"name":"先福三","type":1,"url":"https://zy.qiaoji8.com/xiafan.php?url=","ext":{"flag":["QD4K","iyf","duanju","gzcj","GTV","GZYS","weggz","Ace"],"header":{"User-Agent":"okhttp/4.9.1"}}},
