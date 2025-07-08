@@ -5,7 +5,7 @@
   "wallpaper":"http://bobohome.ignorelist.com:20247/bing",
   "logo":"http://127.0.0.1:9978/file/TVBox/logo.png",    //旗开得胜 马到成功 金榜题名 折桂蟾宫 鱼跃龙门 虎攀高峰 前程似锦 鲲鹏翔空
   "sites": [
-{"key":"drpy_js_菜狗","name":"🅱️搜狗┃视频","type":3,"api":"./js/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/菜狗[官].js"},
+//{"key":"drpy_js_菜狗","name":"🅱️搜狗┃视频","type":3,"api":"./js/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/菜狗[官].js"},
 //{"key":"drpy_js_百忙无果a","name":"💕分享芒果","type":3,"api": "./js/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/百忙无果[官].js"},
 
 {"key":"csp_xBPQ_Auete","name":"🅱️鲲鹏┃翔空","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
