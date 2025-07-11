@@ -1,13 +1,9 @@
 {
- //"spider":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/jar/分享者0.zip;md5;4a8c0010a0abe47752164ac3e57f8765",
   "spider":"./jar/250619.txt;md5;1fc7a84fb7e451fb0f9300b1023e7d96",
   "spider":"./jar/spider.jar",
   "wallpaper":"http://bobohome.ignorelist.com:20247/bing",
   "logo":"http://127.0.0.1:9978/file/TVBox/logo.png",    //旗开得胜 马到成功 金榜题名 折桂蟾宫 鱼跃龙门 虎攀高峰 前程似锦 鲲鹏翔空
   "sites": [
-//{"key":"drpy_js_菜狗","name":"🅱️搜狗┃视频","type":3,"api":"./js/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/菜狗[官].js"},
-//{"key":"drpy_js_百忙无果a","name":"💕分享芒果","type":3,"api": "./js/drpy2.min.js","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/maoystv/TV/refs/heads/master/JS/百忙无果[官].js"},
-
 {"key":"csp_xBPQ_Auete","name":"🅱️鲲鹏┃翔空","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
 {"key":"影视1","name":"🅱️凯速┃直播","type":3,"api":"./tv/maojx.js","ext":"./tv/kszb.txt","jar":"./jar/tv.jar"},
 {"key":"影视8","name":"🅱️恐怖┃电影","type":3,"api":"./tv/sdtv.js","ext":"./tv/恐怖片.nzk","jar":"./tv/sdtv.jar"},
@@ -17,7 +13,7 @@
 {"key":"drpy_js_奇珍异兽","name":"🅱️奇珍┃异兽","type":3,"api":"./js/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🅱️优酷┃影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"🅱️腾云┃驾雾","type":3,"api":"./js/drpy2.min.js","ext":"./js/腾云驾雾.js"},
-{"key":"drpy_js_百忙无果","name":"🅱️百忙┃无果","type":3,"api":"./js/drpy2.min.js","ext":"./js/百忙无果.js"},
+{"key":"drpy_js_百忙无果","name":"🅱️百忙┃无果","type":3,"api":"./js/drpy2.min.js","ext":".js/百忙无果.js"},
 
 {"key":"若惜","name":"🅱️若惜┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"http://110.40.59.188:9527","dataKey":"ebad3f1a58b13933","dataIv":"ebad3f1a58b13933","deviceId":"","version":""}},
 {"key":"雨滴","name":"🅱️雨滴┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://c8w2ov7u5wg2z1o8p21c.aliyuncs.click:27899","dataKey":"k9o3p2c8b7m3z0o8","dataIv":"k9o3p2c8b7m3z0o8","deviceId":"","version":"100"}},
@@ -610,7 +606,7 @@
 //{ "key":"KpgxdyE", "name":"🔞黄AV", "type": 0, "api":"https://www.pgxdy.com/api/xml.php", "searchable": 1, "quickSearch": 1, "filterable": 1 },
 //{"key":"*森林资源","name":"🔞森林","type":0,"api":"https://slapibf.com/api.php/provide/vod/at/xml","searchable":0,"quickSearch":0},
 {"key":"大奶子AV","name":"🔞大奶子","type":0,"api":"https://apidanaizi.com/api.php/provide/vod/at/xml/","playUrl":"https://jiexidanaizi.com/?url=","searchable":1,"quickSearch":1,"filterable":1},
-//{"key":"鸡坤资源", "name":"🔞鸡坤", "type": 1, "api":"https://jkunzy.com/api.php/provide/vod/", "searchable": 1, "quickSearch": 1, "filterable": 0 },
+{"key":"小鸡资源", "name":"🔞小鸡", "type": 1, "api":"https://api.xiaojizy.live/provide/vod", "searchable": 1, "quickSearch": 1, "filterable": 0 },
 {"key":"快播AV","name":"🔞快播资源","type":0,"api":"http://kbzy5.com/api.php/provide/vod/at/xml","playUrl":"https://gayzyjiexi.com/play/?url=","searchable":1,"quickSearch":1,"categories":[]},
 //快播资源永久官网: www.kbzy1.com    www.kbzy1.net  备用网址: kbzy2.com    kbzy3.com   kbzy4.com 
 
@@ -622,7 +618,7 @@
 //{"key":"*番号资源","name":"🔞番号","type":1,"api":"http://fhapi9.com/api.php/provide/vod/","searchable":0,"quickSearch":0},
 //{"key":"lbapi9.com","name":"🔞乐播","type": 1,"api":"https://lbapi9.com/api.php/provide/vod/","searchable": 1},
 //{"key":"*色色资源","name":"🔞色色","type":0,"api":"http://secj8.com/inc/sapi.php?ac=videolist","searchable":0,"quickSearch":0},
-//{"key":"奥斯卡资源","name":"🔞奥卡","type": 3,"api":"./js/caiji.js","ext":"https://aosikazy.com/api.php/provide/vod/"}, 
+{"key":"奥斯卡资源","name":"🔞奥卡","type": 3,"api":"./js/caiji.js","ext":"https://aosikazy5.com/api.php/provide/vod/"}, 
 
 //{"key":"甜蜜资源","name":"🔞甜蜜","type": 3,"api":"./js/caiji.js","ext":"https://timizy10.cc/api.php/provide/vod/from/timim3u8"},
 //{"key":"草榴","name":"🔞草榴","type": 3,"api":"./js/caiji.js","ext":"https://www.caoliuzyw.com/api.php/provide/vod/from/clm3u8"}, 
@@ -801,6 +797,7 @@
             "分类url": "https://languangdao2.com/show-{cateId}--{by}------{catePg}---.html"
         }
     },
+{"key":"csp_biubiu_555电影","name":"🔥三五接口17","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/h555.json","jar":"./jar/kmys.jar"},
 {"key": "空白","name": "全部结束","type": 3,"api": "空白","ext": "空白"}],
 
 "parses":[
