@@ -797,7 +797,7 @@
             "分类url": "https://languangdao2.com/show-{cateId}--{by}------{catePg}---.html"
         }
     },
-{"key":"csp_biubiu_555电影","name":"🔥三五接口17","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/h555.json","jar":"./jar/kmys.jar"},
+{"key":"csp_biubiu_555电影","name":"🔥三五接口","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/h555.json","jar":"./jar/kmys.jar"},
 {"key": "空白","name": "全部结束","type": 3,"api": "空白","ext": "空白"}],
 
 "parses":[
