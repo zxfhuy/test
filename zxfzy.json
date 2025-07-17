@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/250619.txt;md5;1fc7a84fb7e451fb0f9300b1023e7d96",
+  //"spider":"./jar/250619.txt;md5;1fc7a84fb7e451fb0f9300b1023e7d96",
   "spider":"./jar/spider.jar",
   "wallpaper":"http://bobohome.ignorelist.com:20247/bing",
   //"logo":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/byd.png",
@@ -466,7 +466,8 @@
 {"key":"兔小贝","name":"🐾丨小贝【📲】","type":3,"api":"./js/tuxiaobei_open.js"}, 
 {"key":"贝乐虎","name":"🐾丨乐虎【📲】","type":3,"api":"./js/ubestkid_open.js"},
 
-//{"key":"1","name":"👠-----禁止未成年人访问-----👠","type":0,"api":""},
+//{"key":"1","name":"👠-----禁止未成年人访问-----👠","type":0,"api
+{"key":"非凡","name":"🔞伦理2","type":1,"api":"http://api.ffzyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playurl":"json:https://d.kstore.dev/download/8046/jmjm/123tv/123tv.html?id=","categories":["伦理片"]},
 //{"key":"豆瓣资源","name":"🔥豆瓣🔸资源","type":0,"api":"https://caiji.dbzy.tv/api.php/provide/vod/from/dbm3u8/at/xml/","playUrl":"https://www.dbjiexi.com:966/jx/?url=","searchable":1,"quickSearch":1,"categories":[]},
 //{"key":"百万AV","name":"🔥百万🔸AV","type":0,"api":"https://baiwanzy5.cc/api.php/provide/vod/at/xml/","playUrl":"https://bo.baiwanapi.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
 //{"key":"玉兔AV","name":"🔥玉兔🔸AV","type":0,"api":"https://yutuzy2.com/api.php/provide/vod/at/xml","playUrl":"https://yutujx.com/?url=","searchable":1,"quickSearch":1,"categories":[]},
@@ -516,7 +517,7 @@
 //{"key":"丝袜资源","name":"🔞丝袜","type":3,"api":"./js/caiji.js","ext":{"url":"https://www.siwazyw.tv/api.php/provide/vod/at/json","categories":["亚洲无码","亚洲有码","欧美情色","中文字幕","动漫卡通","美女主播","人妻熟女","强奸乱伦","日韩伦理","国产自拍","精选口爆","同性同志","重口味","91大神","AV解说"]} },
 {"key":"csp_xBPQ_黄仓库","name":"🔞黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/hck.json","jar":"./jar/18.jar"},
 //{"key":"csp_xBPQ_麻映画","name":"🔞麻映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/mdyh.json","jar":"./Yoursmile2.jar"},
-
+{"key":"XMVideo","name":"🔞熊猫视频","type":3,"api":"csp_XMVideo","searchable":1,"filterable":1,"jar":"./jar/18+.jar"},
 //{"key":"*淫水机资源","name":"🔞淫水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
 //{"key":"*香奶儿资源","name":"🔞香奶儿","type":0,"api":"https://www.gdlsp.com/api/xml.php","searchable":0,"quickSearch":0},
 
