@@ -10,7 +10,7 @@
 {"key":"csp_xBPQ_Auete","name":"🅱️鲲鹏┃翔空","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
 {"key":"影视1","name":"🅱️凯速┃直播","type":3,"api":"./tv/maojx.js","ext":"./tv/kszb.txt","jar":"./jar/tv.jar"},
 
-{"key": "爱奇艺","name": "爱奇艺｜视频","type": 3,"api": "./js/drpy2.min.js","ext": "./js/爱奇艺.js"},
+{"key": "爱奇艺","name": "🅱️爱奇｜艺网","type": 3,"api": "./js/drpy2.min.js","ext": "./js/爱奇艺.js"},
 //{"key":"drpy_js_奇珍异兽","name":"🅱️奇珍┃异兽","type":3,"api":"./js/drpy2.min.js","ext":"./js/奇珍异兽.js"},
 {"key":"drpy_js_优酷","name":"🅱️优酷┃影视","type":3,"api":"./js/drpy2.min.js","ext":"./js/优酷.js"},
 {"key":"drpy_js_腾云驾雾","name":"🅱️腾云┃驾雾","type":3,"api":"./js/drpy2.min.js","ext":"./js/腾云驾雾.js"},
@@ -513,7 +513,7 @@
 //{"key":"滴滴资源","name":"🔞滴滴","type": 3,"api":"./js/caiji.js","ext":"https://api.ddapi.cc/api.php/provide/vod/at/json"}, 
 
 //{"key":"丝袜资源","name":"🔞丝袜","type":3,"api":"./js/caiji.js","ext":{"url":"https://www.siwazyw.tv/api.php/provide/vod/at/json","categories":["亚洲无码","亚洲有码","欧美情色","中文字幕","动漫卡通","美女主播","人妻熟女","强奸乱伦","日韩伦理","国产自拍","精选口爆","同性同志","重口味","91大神","AV解说"]} },
-{"key":"csp_xBPQ_黄仓库","name":"🔞黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/hck.json","jar":"./jar/18se.jar"},
+{"key":"csp_xBPQ_黄仓库","name":"🔞黄仓库","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/hck.json","jar":"./jar/18.jar"},
 //{"key":"csp_xBPQ_麻映画","name":"🔞麻映画","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./js/mdyh.json","jar":"./Yoursmile2.jar"},
 
 //{"key":"*淫水机资源","name":"🔞淫水机","type":0,"api":"https://www.xrbsp.com/api/xml.php","searchable":0,"quickSearch":0},
