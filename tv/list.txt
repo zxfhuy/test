@@ -2385,7 +2385,6 @@ CCTV5,http://42.225.69.11:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&aut
 周口电视台2,http://42.225.69.11:9901/tsfile/live/1002_1.m3u8?key=txiptv&playlive=1&authid=0河南-联通4
 
 📶浙江-专区,#genre#
-📶浙江-专区,#genre#
 河北-联通
 //http://120.76.248.139/udp/zhgxtv_chlist.php?deviceId=ebdfeeb0b2baee1fd79dcd65821dfa09&ip=121.29.191.25:8000
 CCTV1,http://121.29.191.25:8000/hls/1/index.m3u8
@@ -2696,9 +2695,6 @@ CCTV12,http://123.159.126.158:9901/tsfile/live/0012_1.m3u8?key=txiptv&playlive=0
 CCTV13,http://123.159.126.158:9901/tsfile/live/0013_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV14,http://123.159.126.158:9901/tsfile/live/0014_1.m3u8?key=txiptv&playlive=0&authid=0
 CCTV15,http://123.159.126.158:9901/tsfile/live/0015_1.m3u8?key=txiptv&playlive=0&authid=0
-
-凤凰资讯,http://117.27.190.42:85/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
-凤凰中文,http://117.27.190.42:85/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
 
 浙江卫视,http://123.159.126.158:9901/tsfile/live/0124_1.m3u8?key=txiptv&playlive=0&authid=0
 钱江频道,http://123.159.126.158:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=0&authid=0
@@ -3789,6 +3785,8 @@ CCTV17,http://qwt.zhibotv.top:2016/全网通.php?id=CCTV17$移动TV
 云南卫视,https://cnt.gzozg.com/livetv/hlnt/mDPzQMqIg/mDPzQMqIg_live.m3u8?auth_key=1749219235-0-0-bf98904af96f66f7cf832de1d6013bd3$移动TV
 
 📶港澳频道,#genre#
+凤凰中文,http://117.27.190.42:85/tsfile/live/23280_1.m3u8?key=txiptv&playlive=1&authid=0
+凤凰资讯,http://117.27.190.42:85/tsfile/live/23279_1.m3u8?key=txiptv&playlive=1&authid=0
 凤凰中文,http://push-rtmp-hs-spe-f5.douyincdn.com/live/17de3d391132b3b5859e0d18d6b01320.flv
 凤凰中文,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰中文台
 凤凰资讯,http://qwt.zhibotv.top:2016/全网通.php?id=凤凰资讯台
