@@ -1,3 +1,8 @@
+/***
+ * gbk编码解码函数
+ * strTool = gbkTool() strTool.encode(key)
+ * @returns {{encode: (function(*): *), decode: (function(*): *)}}
+ */
 export function gbkTool() {
     var data = function(zipData) {
             var re = zipData
@@ -35,7 +40,6 @@ export function gbkTool() {
     function isAscii(unicode) {
         return ((unicode == 0x20AC) || (unicode <= 0x007F && unicode >= 0x0000));
     }
-
     return {
         encode: function(str) {
             return str.replace(/./g, function(a) {
