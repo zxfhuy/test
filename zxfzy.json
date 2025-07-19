@@ -1,7 +1,7 @@
 {
   //"spider":"./jar/250619.txt;md5;1fc7a84fb7e451fb0f9300b1023e7d96",
   "spider":"./jar/spider.jar",
-  "wallpaper":"http://bobohome.ignorelist.com:20247/bing",
+  "wallpaper":"http://bobohome.ignorelist.com:20247/bing","warningText":"比亚迪专用影视系列：于衢州福哥整理，请勿付费购买！",
   //"logo":"https://git.acwing.com/zxfhuy/zxfzy/-/raw/main/%E5%9B%BE%E7%89%87/byd.png",
   "logo":"https://cdn.wmpvp.com/steamWeb/B96F868DE45B45D690B5F9F490D0BC60-1745866248445.gif",
   //"logo":"http://127.0.0.1:9978/file/TVBox/logo.png",    //旗开得胜 马到成功 金榜题名 折桂蟾宫 鱼跃龙门 虎攀高峰 前程似锦 鲲鹏翔空
@@ -22,7 +22,10 @@
 {"key":"海豚","name":"🅱️海豚┃APP","type":3,"quickSearch":1,"api":"csp_AppGet","ext":{"url":"https://appcms.htsp4k.top","dataKey":"7CYQQzwchRQpHCOj","dataIv":"7CYQQzwchRQpHCOj","deviceId":"","version":""}},
 {"key":"NoSe","name":"🅱️低端┃APP","type":3,"api":"csp_Ddrk","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"jar":"./jar/0819.jar"},
 
-{"key":"起点","name":"起点｜影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://172.83.156.150:1010/api.php/app/"},
+{"key":"茶杯狐","name":"火狐┃影视","type":1,"api":"https://hhzyapi.com/api.php/provide/vod/","searchable": 1,"changeable":1},
+{"key":"蝴蝶","name":"蝴蝶┃影视","type":3,"api":"csp_Hudie","playerType":2,"ext": "eaHR0cHM6Ly9kLmRjbW92aWUudG9w","jar":"https://gitee.com/yiwu369/6758/raw/master/%E7%99%BD%E8%99%8E/6bcb3de5f0d7c9b3d4f19cfe9a314ab2.jar"},
+
+{"key":"起点","name":"起点┃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://172.83.156.150:1010/api.php/app/"},
 {"key":"厂长影视","name":"厂长┃影视","type":3,"playerType":"2","api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.czzymovie.com/"},
 {"key":"绝对影视","name":"绝对┃影视","type":3,"api":"csp_FourK","ext":"https://www.4kvm.tv"},
 {"key":"影视8","name":"恐怖┃电影","type":3,"api":"./tv/sdtv.js","ext":"./tv/恐怖片.nzk","jar":"./tv/sdtv.jar"},
