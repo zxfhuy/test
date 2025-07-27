@@ -7,7 +7,7 @@
   //"logo":"http://127.0.0.1:9978/file/TVBox/logo.png",    //旗开得胜 马到成功 金榜题名 折桂蟾宫 鱼跃龙门 虎攀高峰 前程似锦 鲲鹏翔空
   "sites": [
 {"key":"苹果影视","name":"🅱️苹果┃影视","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"采集之王","name":"采集┃合集","type": 3,"api": "./js/drpy2.min.js","ext": "./js/采集之王.js?type=url&params=../js/采集静态.json$1$1"},
+{"key":"采集之王","name":"🅱️采集┃合集","type": 3,"api": "./js/drpy2.min.js","ext": "./js/采集之王.js?type=url&params=../js/采集静态.json$1$1"},
 {"key":"csp_xBPQ_Auete","name":"🅱️鲲鹏┃翔空","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/Auete.json"},
 {"key":"影视1","name":"🅱️凯速┃直播","type":3,"api":"./tv/maojx.js","ext":"./tv/kszb.txt","jar":"./jar/tv.jar"},
 
