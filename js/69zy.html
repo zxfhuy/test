@@ -1,0 +1,84 @@
+<html>
+<!-- <file:///E:/jx/69zy/69zy.html?url=https://aoskkzzay.com/20220925/V0d10hg1/1000kb/hls/index.m3u8> -->
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="IE=edge">
+    <meta name="viewport"
+          content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no"/>
+    <title>player</title>
+    <link rel="stylesheet" href="DPlayer.min.css">
+
+    <style type="text/css">
+        body, html {
+            width: 100%;
+            height: 100%;
+            background: #000;
+            padding: 0;
+            margin: 0;
+            overflow-x: hidden;
+            overflow-y: hidden
+        }
+
+        * {
+            margin: 0;
+            border: ;
+            padding: 0;
+            text-decoration: none
+        }
+    </style>
+</head>
+<body>
+<div id="playerCnt" class="prism-player"></div>
+<div id="dplayer"></div>
+<script src="hls.min.js"></script>
+<script src="DPlayer.min.js"></script>
+<script>
+    function getPar(par, local_url = document.location.href) {
+        //获取当前URL
+        try {
+            let uriSearch = new URL(local_url);
+
+            let searchParams = new URLSearchParams(uriSearch.search)
+            if (searchParams.has(par))
+                return searchParams.get(par);
+
+        } catch {
+            console.error('get par error' + local_url);
+        }
+
+        return "";
+    }
+
+    document.addEventListener("DOMContentLoaded", () => {
+        console.log("init dplayer");
+        let url = getPar('url');
+        if (url == "") {
+            alert('未设置播放链接')
+            return;
+        }
+        let pic = getPar('pic')
+   
+      url   = url.replace("yutubf.lsbbf3.com", "lsbbf7.com");
+           console.log(url)
+        const dp = new DPlayer({
+            container: document.getElementById('dplayer'),
+            screenshot: true,
+            video: {
+                url: url,
+                pic: pic,
+                thumbnails: pic,
+            },
+            preload: 'auto',
+            mutex: true,
+            autoplay: true
+        });
+        dp.on('error', function (err) {
+            console.log('player err');
+            console.log(err)
+        });
+    });
+
+</script>
+<div style="display:none"></div>
+</body>
+</html>
