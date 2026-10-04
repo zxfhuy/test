@@ -245,7 +245,7 @@ CCTV15,http://121.29.191.188:8000/hls/15/index.m3u8
 贵州卫视,http://121.29.191.188:8000/hls/39/index.m3u8
 深圳卫视,http://121.29.191.188:8000/hls/40/index.m3u8
 
-咪咕央视2,#genre#
+📶咪咕央视,#genre#
 CCTV1,http://mg.cttv.vip/608807420
 CCTV2,http://mg.cttv.vip/631780532
 CCTV3,http://mg.cttv.vip/624878271
